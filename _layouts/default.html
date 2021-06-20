@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+<div class="grid">
+  {% include menu.html %}
+	<div class="col_12" style="margin-top:100px;">
+		<h1 class="center">{{ site.title }}</h1>
+		<h4>{{ page.title }}</h4>
+      <div id="content">
+        {{ content }}
+        {% include hexagons.html %}
+      </div>
+	</div>
+</div> <!-- End Grid -->
+</body>
+</html>
