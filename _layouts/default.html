@@ -9,9 +9,11 @@
 		<h4>{{ page.title }}</h4>
       <div id="content">
         {{ content }}
-        {% include hexagons.html %}
+        <div class="col_12">{% include hexagons.html %}</div>
+        <div class="col_12">{% include grid.html %}</div>
       </div>
 	</div>
 </div> <!-- End Grid -->
+{% include scripts.html %}
 </body>
 </html>

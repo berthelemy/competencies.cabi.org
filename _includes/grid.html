@@ -1,0 +1,26 @@
+<div class="button-group text-center">
+    <div class="filter">
+        <button class="active button" data-filter="*">All</button>
+        {% for competency in site.data.competencies %}
+        {% assign all_tags = all_tags | concat: competency.tags %}
+        {% endfor %}
+        {% assign uniq_tags = all_tags | uniq %}
+        {% for tag in uniq_tags %}
+          <button class="button" data-filter=".{{ tag | slugify }}">{{ tag }}</button>
+        {% endfor %}
+    </div>
+</div>
+
+## NEED to add Jquery and isotope script for filtering
+
+<div class="grid-main">
+  <div class="grid-container">
+    {% for competency in site.data.competencies %}
+      {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
+
+    <div class="grid-item {{ tags }}">{{ competency.title }}
+    </div>
+    {% endfor %}
+    <!--etc. -->
+  </div>
+</div>
