@@ -1,24 +1,24 @@
 - title: Competency 1
   tags:
-    - categoryA
-    - categoryB
+    - category A
+    - category B
 - title: Competency 2
   tags:
-    - categoryA
+    - category A
     - category C
 - title: Competency 3
   tags:
     - category A
-    - category B
+    - category D
 - title: Competency 4
   tags:
-    - category A
     - category B
+    - category C
 - title: Competency 5
   tags:
-    - category A
     - category B
+    - category D
 - title: Competency 6
   tags:
-    - category A
-    - category B
+    - category C
+    - category D
