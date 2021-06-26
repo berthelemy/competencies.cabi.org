@@ -1,7 +1,8 @@
 <div class="hexagons-main">
   <div class="hexagons-container">
     {% for competency in site.data.competencies %}
-    <div class="hexagon-item">{{ competency.title }}</div>
+    {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
+    <div class="hexagon-item {{ tags }}">{{ competency.title }}</div>
     {% endfor %}
     <!--etc. -->
   </div>

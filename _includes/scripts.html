@@ -1,1 +1,62 @@
 <script type="text/javascript" src="assets/js/isotope-variables.js"></script>
+
+
+<script>
+  jQuery(document).ready(function($) {
+    $(".grid-container").isotope({
+      itemSelector: '.grid-item',
+      layoutMode: 'fitRows',
+    });
+
+    $('div.filter button').click(function() {
+
+      $("div.filter button").removeClass("active");
+      $(this).addClass("active");
+
+      var selector = $(this).attr('data-filter');
+      $(".grid-container").isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      $(".grid-hexagons").isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+    $(".hexagons-container").isotope({
+      itemSelector: '.hexagon-item',
+      layoutMode: 'masonry',
+    });
+
+    $('div.filter button').click(function() {
+
+      $("div.filter button").removeClass("active");
+      $(this).addClass("active");
+
+      var selector = $(this).attr('data-filter');
+      $(".hexagons-container").isotope({
+        filter: selector,
+        animationOptions: {
+          duration: 750,
+          easing: 'linear',
+          queue: false,
+        }
+      });
+      return false;
+    });
+
+
+  });
+
+
+
+</script>
