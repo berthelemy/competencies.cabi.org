@@ -5,13 +5,14 @@
   jQuery(document).ready(function($) {
     $(".grid-container").isotope({
       itemSelector: '.grid-item',
-      layoutMode: 'fitRows',
+      layoutMode: 'masonry'
+
     });
 
     $('div.filter button').click(function() {
 
-      $("div.filter button").removeClass("active");
-      $(this).addClass("active");
+      $("div.filter button").removeClass("active blue");
+      $(this).addClass("active blue");
 
       var selector = $(this).attr('data-filter');
       $(".grid-container").isotope({
