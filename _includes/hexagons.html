@@ -2,7 +2,7 @@
   <div class="hexagons-container">
     {% for competency in site.data.competencies %}
     {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
-    <div class="hexagon-item {{ tags }}">{{ competency.title }}</div>
+    <div class="hexagon hexagon-item {{ tags }}"><span>{{ competency.title }}</span></div>
     {% endfor %}
     <!--etc. -->
   </div>
