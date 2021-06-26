@@ -4,4 +4,18 @@
   height: 100px;
   background: #e6e5e4;
   border: 2px solid #b6b5b4;
+  text-align: center;
+}
+
+.tags {
+  position: absolute;
+  bottom: .2rem;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.tag {
+  border: 1px solid;
+  padding: 0.15rem;
 }

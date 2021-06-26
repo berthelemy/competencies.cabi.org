@@ -17,6 +17,11 @@
       {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
 
     <div class="grid-item {{ tags }}">{{ competency.title }}
+      <div class="tags">
+        {% for tag in competency.tags %}
+        <span class="tag {{ tag | slugify }}">{{ tag }}</span>
+        {% endfor %}
+      </div>
     </div>
     {% endfor %}
     <!--etc. -->
