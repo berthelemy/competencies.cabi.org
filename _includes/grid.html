@@ -16,7 +16,7 @@
     {% for competency in site.data.competencies %}
       {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
 
-    <div class="col_3 grid-item {{ tags }}">{{ competency.title }}
+    <div class="col_4 grid-item {{ tags }}">{{ competency.title }}
       <div class="tags">
         {% for tag in competency.tags %}
         <span class="tag {{ tag | slugify }}">{{ tag }}</span>
