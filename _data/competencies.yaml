@@ -1,24 +1,30 @@
 - title: Competency 1
+  description: Some text here
   tags:
     - category A
     - category B
 - title: Competency 2
+  description: Some text here
   tags:
     - category A
     - category C
 - title: Competency 3
+  description: Some more text here
   tags:
     - category A
     - category D
 - title: Competency 4
+  description: Some text here
   tags:
     - category B
     - category C
 - title: Competency 5
+  description: Some text here
   tags:
     - category B
     - category D
 - title: Competency 6
+  description: Some text here
   tags:
     - category C
     - category D

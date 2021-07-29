@@ -13,10 +13,20 @@
 
 <div class="grid-main">
   <div class="grid-container">
+    {% assign count = 0 %}
     {% for competency in site.data.competencies %}
+    {% assign count = count | plus: 1 %}
       {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
 
-    <div class="col_4 grid-item {{ tags }}">{{ competency.title }}
+    <div class="col_4 grid-item {{ tags }}">
+      <a href="#ex{{ count }}" rel="modal:open">{{ competency.title }}</a>
+
+      <!-- The Modal -->
+      <div id="ex{{ count }}" class="modal">
+        <h4>{{ competency.title }}</h4>
+        <p>{{ competency.description }}</p>
+        <a href="#" rel="modal:close">Close</a>
+      </div>
       <div class="tags">
         {% for tag in competency.tags %}
         <span class="tag {{ tag | slugify }}">{{ tag }}</span>
