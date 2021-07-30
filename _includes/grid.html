@@ -1,14 +1,34 @@
-<div class="button-group text-center">
-    <div class="filter">
-        <button class="active button" data-filter="*">All</button>
-        {% for competency in site.data.competencies %}
-        {% assign all_tags = all_tags | concat: competency.tags %}
-        {% endfor %}
-        {% assign uniq_tags = all_tags | uniq %}
-        {% for tag in uniq_tags %}
-          <button class="button" data-filter=".{{ tag | slugify }}">{{ tag }}</button>
-        {% endfor %}
+<div class="filters">
+  <div class="ui-group">
+    <h3>Categories</h3>
+    <div class="button-group text-center" data-filter-group="category">
+        <div class="filter">
+            <button class="active button" data-filter="">All</button>
+            {% for competency in site.data.competencies %}
+            {% assign all_tags = all_tags | concat: competency.tags %}
+            {% endfor %}
+            {% assign uniq_tags = all_tags | uniq %}
+            {% for tag in uniq_tags %}
+              <button class="button" data-filter=".{{ tag | slugify }}">{{ tag }}</button>
+            {% endfor %}
+        </div>
     </div>
+  </div>
+  <div class="ui-group">
+    <h3>Levels</h3>
+    <div class="button-group text-center" data-filter-group="level">
+        <div class="filter">
+            <button class="active button" data-filter="">All</button>
+            {% for competency in site.data.competencies %}
+            {% assign all_levels = all_levels | concat: competency.levels %}
+            {% endfor %}
+            {% assign uniq_levels = all_levels | uniq %}
+            {% for level in uniq_levels %}
+              <button class="button" data-filter=".{{ level | slugify }}">{{ level }}</button>
+            {% endfor %}
+        </div>
+    </div>
+  </div>
 </div>
 
 <div class="grid-main">
@@ -16,24 +36,28 @@
     {% assign count = 0 %}
     {% for competency in site.data.competencies %}
     {% assign count = count | plus: 1 %}
-      {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
+    {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
+    {% capture levels %}{% for level in competency.levels %}{{ level | slugify }} {% endfor %}{% endcapture %}
 
-    <div class="col_4 grid-item {{ tags }}">
+    <div class="col_4 grid-item {{ tags }} {{ levels }}">
       <a href="#ex{{ count }}" rel="modal:open">{{ competency.title }}</a>
-
-      <!-- The Modal -->
-      <div id="ex{{ count }}" class="modal">
-        <h4>{{ competency.title }}</h4>
-        <p>{{ competency.description }}</p>
-        <a href="#" rel="modal:close">Close</a>
-      </div>
       <div class="tags">
         {% for tag in competency.tags %}
         <span class="tag {{ tag | slugify }}">{{ tag }}</span>
         {% endfor %}
       </div>
-    </div>
-    {% endfor %}
-    <!--etc. -->
+      <div class="levels">
+        {% for level in competency.levels %}
+        <span class="level {{ level | slugify }}">{{ level }}</span>
+        {% endfor %}
+      </div>
+  </div> <!-- End grid-item -->
+  <!-- The Modal -->
+  <div id="ex{{ count }}" class="modal">
+    <h4>{{ competency.title }}</h4>
+    <p>{{ competency.description }}</p>
+    <a href="#" rel="modal:close">Close</a>
   </div>
-</div>
+  {% endfor %}
+  </div> <!-- End grid-container -->
+</div> <!-- End grid-main -->

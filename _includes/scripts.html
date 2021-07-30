@@ -2,57 +2,47 @@
 
 <script>
   jQuery(document).ready(function($) {
-    $(".grid-container").isotope({
+    var $grid = $(".grid-container").isotope({
       itemSelector: '.grid-item',
-      layoutMode: 'masonry'
-
-    });
-
-    $('div.filter button').click(function() {
-
-      $("div.filter button").removeClass("active blue");
-      $(this).addClass("active blue");
-
-      var selector = $(this).attr('data-filter');
-      $(".grid-container").isotope({
-        filter: selector,
-        animationOptions: {
-          duration: 750,
-          easing: 'linear',
-          queue: false,
-        }
-      });
-      $(".grid-hexagons").isotope({
-        filter: selector,
-        animationOptions: {
-          duration: 750,
-          easing: 'linear',
-          queue: false,
-        }
-      });
-      return false;
-    });
-    $(".hexagons-container").isotope({
-      itemSelector: '.hexagon-item',
       layoutMode: 'masonry',
+      animationOptions: {
+        duration: 750,
+        easing: 'linear',
+        queue: false,
+      }
     });
 
-    $('div.filter button').click(function() {
+    var filters = {};
 
-      $("div.filter button").removeClass("active");
-      $(this).addClass("active");
-
-      var selector = $(this).attr('data-filter');
-      $(".hexagons-container").isotope({
-        filter: selector,
-        animationOptions: {
-          duration: 750,
-          easing: 'linear',
-          queue: false,
-        }
-      });
-      return false;
+    $('.filters').on('click','.button',function(event){
+      var $button = $(event.currentTarget);
+      // get group key
+      var $buttonGroup = $button.parents('.button-group');
+      var filterGroup = $buttonGroup.attr('data-filter-group');
+      // set filter for group
+      filters[ filterGroup ] = $button.attr('data-filter');
+      // combine filters
+      var filterValue = concatValues(filters);
+      $grid.isotope({filter:filterValue});
+      console.log(filterValue);
     });
+
+    // flatten object by concatting values
+
+    function concatValues( obj ){
+      var value = '';
+      for (var prop in obj) {
+        value += obj[prop];
+      }
+      return value;
+    }
+
+    
+
+
+
+
+
 
 
   });

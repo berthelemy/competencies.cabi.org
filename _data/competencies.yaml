@@ -3,28 +3,44 @@
   tags:
     - category A
     - category B
+  levels:
+    - Foundation
 - title: Competency 2
   description: Some text here
   tags:
     - category A
     - category C
+  levels:
+    - Foundation
+    - Practitioner
 - title: Competency 3
   description: Some more text here
   tags:
     - category A
     - category D
+  levels:
+    - Practitioner
 - title: Competency 4
   description: Some text here
   tags:
     - category B
     - category C
+  levels:
+    - Foundation
+    - Practitioner
 - title: Competency 5
   description: Some text here
   tags:
     - category B
     - category D
+  levels:
+    - Practitioner
+    - Advanced
 - title: Competency 6
   description: Some text here
   tags:
     - category C
     - category D
+  levels:
+    - Foundation
+    - Practitioner
