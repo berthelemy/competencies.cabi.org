@@ -4,12 +4,14 @@
     <div class="button-group text-center" data-filter-group="category">
         <div class="filter">
             <button class="active button" data-filter="">All</button>
+            {% assign all_categories_str = "" %}
             {% for competency in site.data.competencies %}
-            {% assign all_tags = all_tags | concat: competency.tags %}
+            {% assign all_categories_str = all_categories_str | append:competency.category | append: "," %}
             {% endfor %}
-            {% assign uniq_tags = all_tags | uniq %}
-            {% for tag in uniq_tags %}
-              <button class="button" data-filter=".{{ tag | slugify }}">{{ tag }}</button>
+            {% assign all_categories = all_categories_str | split: "," %}
+            {% assign uniq_categories = all_categories | uniq %}
+            {% for category in uniq_categories %}
+              <button class="button" data-filter=".{{ category | slugify }}">{{ category }}</button>
             {% endfor %}
         </div>
     </div>
@@ -36,15 +38,14 @@
     {% assign count = 0 %}
     {% for competency in site.data.competencies %}
     {% assign count = count | plus: 1 %}
-    {% capture tags %}{% for tag in competency.tags %}{{ tag | slugify }} {% endfor %}{% endcapture %}
     {% capture levels %}{% for level in competency.levels %}{{ level | slugify }} {% endfor %}{% endcapture %}
 
-    <div class="col_4 grid-item {{ tags }} {{ levels }}">
+    <div class="col_4 grid-item {{ competency.category | slugify }} {{ levels }}">
       <a href="#ex{{ count }}" rel="modal:open">{{ competency.title }}</a>
-      <div class="tags">
-        {% for tag in competency.tags %}
-        <span class="tag {{ tag | slugify }}">{{ tag }}</span>
-        {% endfor %}
+      <div class="categories">
+
+        <span class="category {{ competency.category | slugify }}">{{ competency.category }}</span>
+
       </div>
       <div class="levels">
         {% for level in competency.levels %}
