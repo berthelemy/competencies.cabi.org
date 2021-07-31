@@ -81,6 +81,11 @@
         <span class="level {{ level | slugify }}">{{ level }}</span>
         {% endfor %}
       </div>
+      <div class="roles">
+        {% for role in competency.roles %}
+        <span class="role {{ role | slugify }}">{{ role }}</span>
+        {% endfor %}
+      </div>
   </div> <!-- End grid-item -->
   <!-- The Modal -->
   <div id="ex{{ count }}" class="modal">
