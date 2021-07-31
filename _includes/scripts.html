@@ -1,6 +1,13 @@
 <script type="text/javascript" src="assets/js/isotope-variables.js"></script>
 
+
+
 <script>
+
+  /* Source materials:
+  https://codepen.io/desandro/pen/btFfG
+  */
+
   jQuery(document).ready(function($) {
     var $grid = $(".grid-container").isotope({
       itemSelector: '.grid-item',
@@ -14,7 +21,7 @@
 
     var filters = {};
       $('#filters').on( 'change', function( event ) {
-        
+
     var $checkbox = $( event.target );
     manageCheckbox( $checkbox );
 
