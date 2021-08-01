@@ -1,26 +1,27 @@
-- title: Competency 1
+- title: Skill 1
   description: Some text here
   category: category A
   levels:
     - Foundation
   roles:
     - Extension worker
-- title: Competency 2
+- title: Skill 2
   description: Some text here
   category: category A
   levels:
     - Foundation
     - Practitioner
+    - Advanced
   roles:
     - Plant doctor
-- title: Competency 3
+- title: Skill 3
   description: Some more text here
   category: category B
   levels:
     - Practitioner
   roles:
     - Agri-dealer employee
-- title: Competency 4
+- title: Skill 4
   description: Some text here
   category: category B
   levels:
@@ -29,7 +30,7 @@
   roles:
     - Extension worker
     - Plant doctor
-- title: Competency 5
+- title: Skill 5
   description: Some text here
   category: category C
   levels:
@@ -37,7 +38,7 @@
     - Advanced
   roles:
     - Agri-dealer employee
-- title: Competency 6
+- title: Skill 6
   description: Some text here
   category: category D
   levels:

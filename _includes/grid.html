@@ -7,8 +7,8 @@
             <div class="option-set" data-group="category">
               <input type="checkbox" value="" id="category-all" class="all" checked /><label for="category-all">All Categories</label>
             {% assign all_categories_str = "" %}
-            {% for competency in site.data.competencies %}
-            {% assign all_categories_str = all_categories_str | append:competency.category | append: "," %}
+            {% for skill in site.data.skills %}
+            {% assign all_categories_str = all_categories_str | append:skill.category | append: "," %}
             {% endfor %}
             {% assign all_categories = all_categories_str | split: "," %}
             {% assign uniq_categories = all_categories | uniq %}
@@ -28,8 +28,8 @@
             <!--<button class="active button" data-filter="">All</button>-->
             <div class="option-set" data-group="level">
               <input type="checkbox" value="" id="level-all" class="all" checked /><label for="level-all">All levels</label>
-            {% for competency in site.data.competencies %}
-            {% assign all_levels = all_levels | concat: competency.levels %}
+            {% for skill in site.data.skills %}
+            {% assign all_levels = all_levels | concat: skill.levels %}
             {% endfor %}
             {% assign uniq_levels = all_levels | uniq %}
             {% for level in uniq_levels %}
@@ -47,8 +47,8 @@
           <!--<button class="active button" data-filter="">All</button>-->
           <div class="option-set" data-group="role">
             <input type="checkbox" value="" id="role-all" class="all" checked /><label for="role-all">All roles</label>
-          {% for competency in site.data.competencies %}
-          {% assign all_roles = all_roles | concat: competency.roles %}
+          {% for skill in site.data.skills %}
+          {% assign all_roles = all_roles | concat: skill.roles %}
           {% endfor %}
           {% assign uniq_roles = all_roles | uniq %}
           {% for role in uniq_roles %}
@@ -65,32 +65,35 @@
 <div class="grid-main">
   <div class="grid-container">
     {% assign count = 0 %}
-    {% for competency in site.data.competencies %}
+    {% for skill in site.data.skills %}
     {% assign count = count | plus: 1 %}
-    {% capture levels %}{% for level in competency.levels %}{{ level | slugify }} {% endfor %}{% endcapture %}
-    {% capture roles %}{% for role in competency.roles %}{{ role | slugify }} {% endfor %}{% endcapture %}
-    <div class="col_4 grid-item {{ competency.category | slugify }} {{ levels }} {{ roles }}">
-      <a href="#ex{{ count }}" rel="modal:open">{{ competency.title }}</a>
-      <div class="categories">
+    {% capture levels %}{% for level in skill.levels %}{{ level | slugify }} {% endfor %}{% endcapture %}
+    {% capture roles %}{% for role in skill.roles %}{{ role | slugify }} {% endfor %}{% endcapture %}
+    <div class="col_4 grid-item {{ skill.category | slugify }} {{ levels }} {{ roles }}">
+      <h3><a href="#ex{{ count }}" rel="modal:open">{{ skill.title }}</a></h3>
 
-        <span class="category {{ competency.category | slugify }}">{{ competency.category }}</span>
 
-      </div>
-      <div class="levels">
-        {% for level in competency.levels %}
-        <span class="level {{ level | slugify }}">{{ level }}</span>
-        {% endfor %}
-      </div>
-      <div class="roles">
-        {% for role in competency.roles %}
-        <span class="role {{ role | slugify }}">{{ role }}</span>
-        {% endfor %}
-      </div>
+
   </div> <!-- End grid-item -->
   <!-- The Modal -->
   <div id="ex{{ count }}" class="modal">
-    <h4>{{ competency.title }}</h4>
-    <p>{{ competency.description }}</p>
+    <h4>{{ skill.title }}</h4>
+    <div class="categories">
+      <span class="category {{ skill.category | slugify }}">{{ skill.category }}</span>
+    </div>
+    <p>{{ skill.description }}</p>
+    <div class="roles">
+      <h5>Roles</h5>
+      {% for role in skill.roles %}
+      <span class="role {{ role | slugify }}">{{ role }}</span>
+      {% endfor %}
+    </div>
+    <h5>Levels</h5>
+    <div class="levels">
+      {% for level in skill.levels %}
+      <span class="level {{ level | slugify }}">{{ level }}</span>
+      {% endfor %}
+    </div>
     <a href="#" rel="modal:close">Close</a>
   </div>
   {% endfor %}

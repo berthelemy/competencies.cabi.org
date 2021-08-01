@@ -1,3 +1,11 @@
+$category-a: #800000;
+$category-b: #9A6324;
+$category-c: #808000;
+$category-d: #469990;
+
+$light: 0.1;
+
+
 .button-group .button {
 
     border-radius: 0;
@@ -96,55 +104,56 @@ a.tag-link:hover {
   margin: 0 0.5rem 2rem 0;
 }
 
-.grid-item.category-a {
-  border: solid 4px rgba(128,0,0,1);
-  background-color: rgba(128,0,0,0.25);
+.grid-item h3 {
+  font-size: 1.5em;
 }
 
-.grid-item.category-b {
-  border: solid 4px rgba(170,110,40,1);
-  background-color: rgba(170,110,40,0.25);
+.grid-item.category-a, span.category-a {
+  border: solid 4px $category-a;
+  background-color: rgba($category-a,$light);
 }
 
-.grid-item.category-c {
-  border: solid 4px rgba(128,128,0,1);
-  background-color: rgba(128,128,0,0.25);
+.grid-item.category-b, , span.category-b {
+  border: solid 4px $category-b;
+  background-color: rgba($category-b,$light);
 }
 
-.grid-item.category-d {
-  border: solid 4px rgba(0,128,128,1);;
-  background-color: rgba(0,128,128,0.25);
+.grid-item.category-c, span.category-c {
+  border: solid 4px $category-c;
+  background-color: rgba($category-c,$light);
+}
+
+.grid-item.category-d, span.category-d {
+  border: solid 4px $category-d;
+  background-color: rgba($category-d,$light);
+}
+
+.grid-item.category-a h3 a {
+    color: $category-a;
+}
+
+.grid-item.category-b h3 a {
+    color: $category-b;
+}
+
+.grid-item.category-c h3 a {
+    color: $category-c;
+}
+
+.grid-item.category-d h3 a {
+    color: $category-d;
 }
 
 
 .categories {
-  position: absolute;
+/*  position: absolute;
   bottom: .2rem;
   left: 0;
   right: 0;
   margin: 0 auto;
+*/
 }
 
-.category {
-  border: 1px solid;
-  padding: 0.15rem;
-}
-
-span.category-a {
-  background-color: red;
-  color: #fff;
-}
-
-span.category-b {
-  background-color: green;
-  color: #fff;
-}
-
-span.category-c {
-  background-color: blue;
-  color: #fff;
-}
-
-.category1 {
-
+span.category {
+  padding: 5px;
 }
