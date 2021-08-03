@@ -2,10 +2,14 @@
 <html>
 {% include head.html %}
 <body>
-<div class="grid">
-  {% include menu.html %}
+<div class="grid flex">
+  <div id="header">
+    <div class="col_1" id="logo">{{ site.title-abbr }}</div>
+    <div class="col_11">{% include menu.html %}</div>
+  </div>
+
 	<div class="col_12" style="margin-top:100px;">
-		<h1 class="center">{{ site.title }}</h1>
+
 
       <div id="content" class="col_12">
 
