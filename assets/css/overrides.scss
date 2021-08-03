@@ -4,6 +4,33 @@
 @import 'hexagons';
 @import 'grid';
 
+body {
+  background: none;
+  background-color: #fff;
+}
+
+.vcenter {
+  display: flex;
+  align-items: center;
+}
+
+.column{padding:10px;}
+
 .menu {
   z-index: 0;
+}
+
+#content {
+  background-color: #fff;
+  position: relative;
+}
+
+div.img-ex {
+  background-image: url(https://via.placeholder.com/450);
+}
+
+#logo {
+  font-size: 2em;
+  padding-top: 0.25em;
+  font-family:sans-serif;
 }

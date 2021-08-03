@@ -1,0 +1,10 @@
+{% assign count = 0 %}
+<div class="vcenter">
+{% for supporter in site.data.supporters %}
+<div class="col_4 center">
+  {% assign count = count | plus:1 %}
+  <a href="{{ supporter.url }}" target="_blank"><img src="/assets/logos/{{ supporter.img }}" alt="{{ supporter.name }} logo"/></a>
+</div>
+{% if count == 3 %}{% assign count = 0 %}<div class="clear"></div>{% endif %}
+{% endfor %}
+</div>

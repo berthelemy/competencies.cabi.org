@@ -1,0 +1,9 @@
+- name: CABI
+  img: cabi-logo-narrow.svg
+  url: https://cabi.org
+- name: Digital Green
+  img: gray-digital-logo.png
+  url: https://www.digitalgreen.org/
+- name: CNFA
+  img: cnfa-logo.png
+  url: https://www.cnfa.org/
