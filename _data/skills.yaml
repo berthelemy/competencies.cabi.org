@@ -1,5 +1,6 @@
 - title: Skill 1
-  description:  Some text here Some text here Some text here Some text here Some text here 
+  description:  Some text here Some text here Some text here Some text here Some text here
+  category: category A
   levels:
     - Foundation
   roles:
