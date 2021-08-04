@@ -2,16 +2,20 @@
 <html>
 {% include head.html %}
 <body>
-<div class="grid flex">
-  {% include menu.html %}
-	<div class="col_12" style="margin-top:100px;">
-		<h1 class="center">{{ site.title }}</h1>
+
+<div class="grid">
+
+<div class="col_12 main" style="margin-top:0;">
+{% include menu.html %}
+
+    <img class="full-width" src="/assets/images/20200729_COBI-948-V1-1-scaled-e1626708031285-1024x575.jpg" alt="Two people looking at a plant" />
+    <h1 class="center">{{ site.title }}</h1>
     <h2 class="center">{{ site.tagline }}</h2>
       <div id="content" class="col_12">
         {{ content }}
         <!--<div class="col_12">{% include hexagons.html %}</div>-->
       </div>
-	</div>
+	</div><!-- End .main -->
 </div> <!-- End Grid -->
 {% include scripts.html %}
 </body>

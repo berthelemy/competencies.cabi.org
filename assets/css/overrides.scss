@@ -9,6 +9,12 @@ body {
   background-color: #fff;
 }
 
+.column.main, #menu.column  {
+  padding: 0;
+  margin: 0;
+}
+
+
 .vcenter {
   display: flex;
   align-items: center;
@@ -16,8 +22,11 @@ body {
 
 .column{padding:10px;}
 
-.menu {
-  z-index: 0;
+#menu {
+  z-index: 999;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top:0;
 }
 
 #content {
