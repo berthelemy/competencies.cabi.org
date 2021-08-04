@@ -1,0 +1,11 @@
+{% for skill in site.data.skills %}
+  {% for role in skill.roles %}
+  {% if role == include.role %}
+  <h4>{{ skill.title }}</h4>
+    {{ skill.description }}
+    {% endif %}
+    {% endfor %}
+{% endfor %}
+{% for skill in skills-by-role %}
+  {{ skill.title }}
+{% endfor %}
