@@ -1,11 +1,23 @@
 {% for skill in site.data.skills %}
+  {% assign all_categories_str = all_categories_str | append:skill.category | append: "," %}
+{% endfor %}
+{% assign all_categories = all_categories_str | split: "," %}
+
+{% assign uniq_categories = all_categories | uniq %}
+{% for category in uniq_categories %}
+{% assign count = count | plus: 1 %}
+<div class="col_4">
+<h4>{{ category }}</h4>
+{% for skill in site.data.skills %}
   {% for role in skill.roles %}
+  {% if skill.category == category %}
   {% if role == include.role %}
-  <h4>{{ skill.title }}</h4>
-    {{ skill.description }}
+  <p>{{ skill.title }}</p>
+
+    {% endif %}
     {% endif %}
     {% endfor %}
 {% endfor %}
-{% for skill in skills-by-role %}
-  {{ skill.title }}
+</div>
+{% if count == 3 %}{% assign count = 0 %}<div class="clear"></div>{% endif %}
 {% endfor %}
