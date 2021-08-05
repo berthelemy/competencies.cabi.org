@@ -34,6 +34,15 @@ body {
   position: relative;
 }
 
+#home-page-header-text {
+  z-index: 800;
+  width: 100%;
+    margin-top: -00px;
+    position: relative;
+    top: 0px;
+    background-color: rgba(200,200,200,0.5);
+}
+
 div.img-ex {
   background-image: url(https://via.placeholder.com/450);
 }

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Skills
-permalink: /skills/
+permalink: skills/
 ---
 
 {% include grid.html %}

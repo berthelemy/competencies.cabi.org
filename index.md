@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-<div class="col_12 center"><a href="/skills" class="button large">View all skills</a></div>
+<div class="col_12 center"><a href="{{ '/skills' | relative_url }}" class="button large">View all skills</a></div>
 <div class="col_4">
   <h3>Extension workers</h3>
   <p>Do you work for the government, an NGO or a private sector company?</p>
@@ -23,11 +23,11 @@ title: Home
 </div>
 <div class="clear"></div>
 <div class="col_4 center">
-  <a href="skills/ew-skills" class="center">Skills for extension workers</a>
+  <a href="{{ 'skills/ew-skills'| relative_url }}" class="center">Skills for extension workers</a>
 </div>
 <div class="col_4 center">
-  <a href="skills/ad-skills" class="center">Skills for agri-dealer employees</a>
+  <a href="{{ 'skills/ad-skills'| relative_url }}" class="center">Skills for agri-dealer employees</a>
 </div>
 <div class="col_4 center">
-  <a href="skills/pd-skills" class="center">Skills for plant doctors</a>
+  <a href="{{ 'skills/pd-skills'| relative_url }}" class="center">Skills for plant doctors</a>
 </div>
