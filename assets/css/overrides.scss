@@ -34,6 +34,13 @@ body {
   position: relative;
 }
 
+.overlay-badge {
+    position: fixed;
+    right: 0;
+    bottom: 0px;
+    z-index: 999;
+  }
+
 #home-page-header-text {
   z-index: 800;
   width: 100%;
