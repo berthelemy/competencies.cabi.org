@@ -69,7 +69,8 @@
   <div class="grid-container">
 
     {% assign size = site.data.skills | size %}
-    {% for skill in site.data.skills %}
+    {% assign skills = site.data.skills | sort: "title" %}
+    {% for skill in skills %}
     {% capture levels %}{% for level in skill.levels %}{{ level | slugify }} {% endfor %}{% endcapture %}
     {% capture roles %}{% for role in skill.roles %}{{ role | slugify }} {% endfor %}{% endcapture %}
     {% for category in uniq_categories %}
@@ -78,12 +79,12 @@
         {% break %}
       {% endif %}
     {% endfor %}
-    <div class="col_2 grid-item category{{style}} {{ skill.category | slugify }} {{ levels }} {{ roles }}">
-      <h3 class="center"><a href="#ex{{ count }}" rel="modal:open">{{ skill.title }}</a></h3>
+    <a href="#ex{{ count }}" rel="modal:open"><div class="col_2 grid-item category{{style}} {{ skill.category | slugify }} {{ levels }} {{ roles }}">
+      <div class="grid-item-text-box center"><h3 class="center">{{ skill.title }}</h3></div>
 
 
 
-  </div> <!-- End grid-item -->
+  </div></a> <!-- End grid-item -->
   <!-- The Modal -->
   <div id="ex{{ count }}" class="modal">
     <h4>{{ skill.title }}</h4>

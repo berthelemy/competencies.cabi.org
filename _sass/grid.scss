@@ -30,10 +30,18 @@ $background-light: #eee;
 
 
 
-$light: 0.05;
+$light: 0.9;
 $darker: -40;
 
-
+.grid-item-text-box {
+  background-color: #fff;
+  width: 85%;
+  padding: 0.5em;
+  margin: 0;
+  margin-left:auto;
+  margin-right: auto;
+  border-radius: 3px;
+}
 
 .grid-container {margin-top: 20px;margin-left: -10px}
 /*.single-portfolio {float: left;
@@ -43,11 +51,7 @@ $darker: -40;
 
 */
 
-.grid-item {
-  background: rgba(255,255,255,0.1);
-  border-radius: 3px;
-  padding: 0.3em 0.5em;
-}
+
 
 .tag {
   background-color: #fff;
@@ -71,12 +75,17 @@ a.tag-link:hover {
 }
 
 .grid-item {
-  height: 100px;
+  height: 120px;
   border-radius: 3px;
   background: #e6e5e4;
   border: 4px solid #000;
   text-align: center;
   margin: 0 0.5rem 2rem 0;
+  background: rgba(255,255,255,0.1);
+}
+
+.grid-item.column {
+  padding: 0.4em;
 }
 
 .grid-item h3 {
@@ -85,209 +94,138 @@ a.tag-link:hover {
 
 .grid-item.category0, span.category0 {
   border: solid 4px $category0;
-  background-color: $background-light;
+  background-color: rgba($category0,$light);
 }
 
-.grid-item.category0 h3 a {
-    color: $category0;
+a div.grid-item {
+    color: #111;
 }
 
 .grid-item.category1, span.category1 {
   border: solid 4px $category1;
-  background-color: $background-light;
+  background-color: rgba($category1,$light);
 }
 
-.grid-item.category1 h3 a {
-    color: $category1;
-}
+
 
 .grid-item.category2, , span.category2 {
   border: solid 4px $category2;
-  background-color: $background-light;
+  background-color: rgba($category2,$light);
 }
 
-.grid-item.category2 h3 a {
-    color: $category2;
-}
 
 .grid-item.category3, span.category3 {
   border: solid 4px $category3;
-  background-color: $background-light;
+  background-color: rgba($category3,$light);
 }
 
-.grid-item.category3 h3 a {
-    color: $category3;
-}
+
 
 .grid-item.category4, span.category4 {
   border: solid 4px $category4;
-  background-color: $background-light;
+  background-color: rgba($category4,$light);
 }
 
-.grid-item.category4 h3 a {
-    color: $category4;
-}
 
 .grid-item.category5, span.category5 {
   border: solid 4px $category5;
-  background-color: $background-light;
-}
-
-.grid-item.category5 h3 a {
-    color: $category5;
+  background-color: rgba($category5,$light);
 }
 
 .grid-item.category6, span.category6 {
   border: solid 4px $category6;
-  background-color: $background-light;
+  background-color: rgba($category6,$light);
 }
 
-.grid-item.category6 h3 a {
-    color: $category6;
-}
 
 .grid-item.category7, span.category7 {
   border: solid 4px $category7;
-  background-color: $background-dark;
+  background-color: rgba($category7,$light);
 }
 
-.grid-item.category7 h3 a {
-    color: $category7;
-}
 
 .grid-item.category8, span.category8 {
   border: solid 4px $category8;
-  background-color: $background-dark;
+  background-color: rgba($category8,$light);
 }
 
-.grid-item.category8 h3 a {
-    color: $category8;
-}
 
 .grid-item.category9, span.category9 {
   border: solid 4px $category9;
-  background-color: $background-dark;
+  background-color: rgba($category9,$light);
 }
 
-.grid-item.category9 h3 a {
-    color: $category9;
-}
 
 .grid-item.category10, span.category10 {
   border: solid 4px $category10;
-  background-color: $background-dark;
-}
-
-.grid-item.category10 h3 a {
-    color: $category10;
+  background-color: rgba($category10,$light);
 }
 
 .grid-item.category11, span.category11 {
   border: solid 4px $category11;
-  background-color: $background-light;
-}
-
-.grid-item.category11 h3 a {
-    color: $category11;
+  background-color: rgba($category11,$light);
 }
 
 .grid-item.category12, span.category12 {
   border: solid 4px $category12;
-  background-color: $background-light;
-}
-
-.grid-item.category12 h3 a {
-    color: $category12;
+  background-color: rgba($category12,$light);
 }
 
 .grid-item.category13, span.category13 {
   border: solid 4px $category13;
-  background-color: $background-dark;
+  background-color: rgba($category13,$light);
 }
 
-.grid-item.category13 h3 a {
-    color: $category13;
-}
 
 .grid-item.category14, span.category14 {
   border: solid 4px $category14;
-  background-color: $background-light;
-}
-
-.grid-item.category14 h3 a {
-    color: $category14;
+  background-color: rgba($category14,$light);
 }
 
 .grid-item.category15, span.category15 {
   border: solid 4px $category15;
-  background-color: $background-dark;
-}
-
-.grid-item.category15 h3 a {
-    color: $category15;
+  background-color: rgba($category15,$light);
 }
 
 .grid-item.category16, span.category16 {
   border: solid 4px $category16;
-  background-color: $background-dark;
-}
-
-.grid-item.category16 h3 a {
-    color: $category16;
+  background-color: rgba($category16,$light);
 }
 
 .grid-item.category17, span.category17 {
   border: solid 4px $category17;
-  background-color: $background-dark;
+  background-color: rgba($category17,$light);
 }
 
-.grid-item.category17 h3 a {
-    color: $category17;
-}
 
 .grid-item.category18, span.category18 {
   border: solid 4px $category18;
-  background-color: $background-dark;
-}
-
-.grid-item.category18 h3 a {
-    color: $category18;
+  background-color: rgba($category18,$light);
 }
 
 .grid-item.category19, span.category19 {
   border: solid 4px $category19;
-  background-color: $background-dark;
-}
-
-.grid-item.category19 h3 a {
-    color: $category19;
+  background-color: rgba($category19,$light);
 }
 
 .grid-item.category20, span.category20 {
   border: solid 4px $category20;
-  background-color: $background-dark;
-}
-
-.grid-item.category20 h3 a {
-    color: $category20;
+  background-color: rgba($category20,$light);
 }
 
 .grid-item.category21, span.category21 {
   border: solid 4px $category21;
-  background-color: $background-dark;
-}
-
-.grid-item.category21 h3 a {
-    color: $category21;
+  background-color: rgba($category21,$light);
 }
 
 
 
 .grid-item h3 {
   font-size: 1.1em;
-  display: table-cell;
+  margin:0;
+  /*display: table-cell;
   vertical-align: middle;
-  text-align: center;
+  text-align: center;*/
 }
 
 
