@@ -25,11 +25,13 @@ $category21: #ffd8b1;
 $category22: #808080;
 
 
-
+$background-dark: #111;
+$background-light: #eee;
 
 
 
 $light: 0.05;
+$darker: -40;
 
 
 
@@ -83,7 +85,7 @@ a.tag-link:hover {
 
 .grid-item.category0, span.category0 {
   border: solid 4px $category0;
-  background-color: rgba($category0,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category0 h3 a {
@@ -92,7 +94,7 @@ a.tag-link:hover {
 
 .grid-item.category1, span.category1 {
   border: solid 4px $category1;
-  background-color: rgba($category1,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category1 h3 a {
@@ -101,7 +103,7 @@ a.tag-link:hover {
 
 .grid-item.category2, , span.category2 {
   border: solid 4px $category2;
-  background-color: rgba($category2,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category2 h3 a {
@@ -110,7 +112,7 @@ a.tag-link:hover {
 
 .grid-item.category3, span.category3 {
   border: solid 4px $category3;
-  background-color: rgba($category3,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category3 h3 a {
@@ -119,7 +121,7 @@ a.tag-link:hover {
 
 .grid-item.category4, span.category4 {
   border: solid 4px $category4;
-  background-color: rgba($category4,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category4 h3 a {
@@ -128,7 +130,7 @@ a.tag-link:hover {
 
 .grid-item.category5, span.category5 {
   border: solid 4px $category5;
-  background-color: rgba($category5,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category5 h3 a {
@@ -137,7 +139,7 @@ a.tag-link:hover {
 
 .grid-item.category6, span.category6 {
   border: solid 4px $category6;
-  background-color: rgba($category6,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category6 h3 a {
@@ -146,7 +148,7 @@ a.tag-link:hover {
 
 .grid-item.category7, span.category7 {
   border: solid 4px $category7;
-  background-color: rgba($category7,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category7 h3 a {
@@ -155,7 +157,7 @@ a.tag-link:hover {
 
 .grid-item.category8, span.category8 {
   border: solid 4px $category8;
-  background-color: rgba($category8,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category8 h3 a {
@@ -164,7 +166,7 @@ a.tag-link:hover {
 
 .grid-item.category9, span.category9 {
   border: solid 4px $category9;
-  background-color: rgba($category9,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category9 h3 a {
@@ -173,7 +175,7 @@ a.tag-link:hover {
 
 .grid-item.category10, span.category10 {
   border: solid 4px $category10;
-  background-color: rgba($category10,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category10 h3 a {
@@ -182,7 +184,7 @@ a.tag-link:hover {
 
 .grid-item.category11, span.category11 {
   border: solid 4px $category11;
-  background-color: rgba($category11,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category11 h3 a {
@@ -191,7 +193,7 @@ a.tag-link:hover {
 
 .grid-item.category12, span.category12 {
   border: solid 4px $category12;
-  background-color: rgba($category12,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category12 h3 a {
@@ -200,7 +202,7 @@ a.tag-link:hover {
 
 .grid-item.category13, span.category13 {
   border: solid 4px $category13;
-  background-color: rgba($category13,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category13 h3 a {
@@ -209,7 +211,7 @@ a.tag-link:hover {
 
 .grid-item.category14, span.category14 {
   border: solid 4px $category14;
-  background-color: rgba($category14,$light);
+  background-color: $background-light;
 }
 
 .grid-item.category14 h3 a {
@@ -218,7 +220,7 @@ a.tag-link:hover {
 
 .grid-item.category15, span.category15 {
   border: solid 4px $category15;
-  background-color: rgba($category15,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category15 h3 a {
@@ -227,7 +229,7 @@ a.tag-link:hover {
 
 .grid-item.category16, span.category16 {
   border: solid 4px $category16;
-  background-color: rgba($category16,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category16 h3 a {
@@ -236,7 +238,7 @@ a.tag-link:hover {
 
 .grid-item.category17, span.category17 {
   border: solid 4px $category17;
-  background-color: rgba($category17,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category17 h3 a {
@@ -245,7 +247,7 @@ a.tag-link:hover {
 
 .grid-item.category18, span.category18 {
   border: solid 4px $category18;
-  background-color: rgba($category18,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category18 h3 a {
@@ -254,7 +256,7 @@ a.tag-link:hover {
 
 .grid-item.category19, span.category19 {
   border: solid 4px $category19;
-  background-color: rgba($category19,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category19 h3 a {
@@ -263,7 +265,7 @@ a.tag-link:hover {
 
 .grid-item.category20, span.category20 {
   border: solid 4px $category20;
-  background-color: rgba($category20,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category20 h3 a {
@@ -272,7 +274,7 @@ a.tag-link:hover {
 
 .grid-item.category21, span.category21 {
   border: solid 4px $category21;
-  background-color: rgba($category21,$light);
+  background-color: $background-dark;
 }
 
 .grid-item.category21 h3 a {
