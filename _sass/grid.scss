@@ -1,9 +1,35 @@
-$category-a: #800000;
-$category-b: #9A6324;
-$category-c: #808000;
-$category-d: #469990;
+/* Colors from: https://sashamaps.net/docs/resources/20-colors/ */
 
-$light: 0.1;
+$category0: #800000;
+$category1: #9A6324;
+$category2: #808000;
+$category3: #469990;
+$category4: #000075;
+$category5: #000000;
+$category6: #e6194B;
+$category7: #f58231;
+$category8: #ffe119;
+$category9: #bfef45;
+$category10: #3cb44b;
+$category11: #4363d8;
+$category12: #911eb4;
+$category13: #46f0f0;
+$category14: #f032e6;
+$category15: #bcf60c;
+$category16: #fabebe;
+$category17: #008080;
+$category18: #e6beff;
+$category19: #fffac8;
+$category20: #aaffc3;
+$category21: #ffd8b1;
+$category22: #808080;
+
+
+
+
+
+
+$light: 0.05;
 
 
 
@@ -55,41 +81,216 @@ a.tag-link:hover {
   font-size: 1.5em;
 }
 
-.grid-item.category-a, span.category-a {
-  border: solid 4px $category-a;
-  background-color: rgba($category-a,$light);
+.grid-item.category0, span.category0 {
+  border: solid 4px $category0;
+  background-color: rgba($category0,$light);
 }
 
-.grid-item.category-b, , span.category-b {
-  border: solid 4px $category-b;
-  background-color: rgba($category-b,$light);
+.grid-item.category0 h3 a {
+    color: $category0;
 }
 
-.grid-item.category-c, span.category-c {
-  border: solid 4px $category-c;
-  background-color: rgba($category-c,$light);
+.grid-item.category1, span.category1 {
+  border: solid 4px $category1;
+  background-color: rgba($category1,$light);
 }
 
-.grid-item.category-d, span.category-d {
-  border: solid 4px $category-d;
-  background-color: rgba($category-d,$light);
+.grid-item.category1 h3 a {
+    color: $category1;
 }
 
-.grid-item.category-a h3 a {
-    color: $category-a;
+.grid-item.category2, , span.category2 {
+  border: solid 4px $category2;
+  background-color: rgba($category2,$light);
 }
 
-.grid-item.category-b h3 a {
-    color: $category-b;
+.grid-item.category2 h3 a {
+    color: $category2;
 }
 
-.grid-item.category-c h3 a {
-    color: $category-c;
+.grid-item.category3, span.category3 {
+  border: solid 4px $category3;
+  background-color: rgba($category3,$light);
 }
 
-.grid-item.category-d h3 a {
-    color: $category-d;
+.grid-item.category3 h3 a {
+    color: $category3;
 }
+
+.grid-item.category4, span.category4 {
+  border: solid 4px $category4;
+  background-color: rgba($category4,$light);
+}
+
+.grid-item.category4 h3 a {
+    color: $category4;
+}
+
+.grid-item.category5, span.category5 {
+  border: solid 4px $category5;
+  background-color: rgba($category5,$light);
+}
+
+.grid-item.category5 h3 a {
+    color: $category5;
+}
+
+.grid-item.category6, span.category6 {
+  border: solid 4px $category6;
+  background-color: rgba($category6,$light);
+}
+
+.grid-item.category6 h3 a {
+    color: $category6;
+}
+
+.grid-item.category7, span.category7 {
+  border: solid 4px $category7;
+  background-color: rgba($category7,$light);
+}
+
+.grid-item.category7 h3 a {
+    color: $category7;
+}
+
+.grid-item.category8, span.category8 {
+  border: solid 4px $category8;
+  background-color: rgba($category8,$light);
+}
+
+.grid-item.category8 h3 a {
+    color: $category8;
+}
+
+.grid-item.category9, span.category9 {
+  border: solid 4px $category9;
+  background-color: rgba($category9,$light);
+}
+
+.grid-item.category9 h3 a {
+    color: $category9;
+}
+
+.grid-item.category10, span.category10 {
+  border: solid 4px $category10;
+  background-color: rgba($category10,$light);
+}
+
+.grid-item.category10 h3 a {
+    color: $category10;
+}
+
+.grid-item.category11, span.category11 {
+  border: solid 4px $category11;
+  background-color: rgba($category11,$light);
+}
+
+.grid-item.category11 h3 a {
+    color: $category11;
+}
+
+.grid-item.category12, span.category12 {
+  border: solid 4px $category12;
+  background-color: rgba($category12,$light);
+}
+
+.grid-item.category12 h3 a {
+    color: $category12;
+}
+
+.grid-item.category13, span.category13 {
+  border: solid 4px $category13;
+  background-color: rgba($category13,$light);
+}
+
+.grid-item.category13 h3 a {
+    color: $category13;
+}
+
+.grid-item.category14, span.category14 {
+  border: solid 4px $category14;
+  background-color: rgba($category14,$light);
+}
+
+.grid-item.category14 h3 a {
+    color: $category14;
+}
+
+.grid-item.category15, span.category15 {
+  border: solid 4px $category15;
+  background-color: rgba($category15,$light);
+}
+
+.grid-item.category15 h3 a {
+    color: $category15;
+}
+
+.grid-item.category16, span.category16 {
+  border: solid 4px $category16;
+  background-color: rgba($category16,$light);
+}
+
+.grid-item.category16 h3 a {
+    color: $category16;
+}
+
+.grid-item.category17, span.category17 {
+  border: solid 4px $category17;
+  background-color: rgba($category17,$light);
+}
+
+.grid-item.category17 h3 a {
+    color: $category17;
+}
+
+.grid-item.category18, span.category18 {
+  border: solid 4px $category18;
+  background-color: rgba($category18,$light);
+}
+
+.grid-item.category18 h3 a {
+    color: $category18;
+}
+
+.grid-item.category19, span.category19 {
+  border: solid 4px $category19;
+  background-color: rgba($category19,$light);
+}
+
+.grid-item.category19 h3 a {
+    color: $category19;
+}
+
+.grid-item.category20, span.category20 {
+  border: solid 4px $category20;
+  background-color: rgba($category20,$light);
+}
+
+.grid-item.category20 h3 a {
+    color: $category20;
+}
+
+.grid-item.category21, span.category21 {
+  border: solid 4px $category21;
+  background-color: rgba($category21,$light);
+}
+
+.grid-item.category21 h3 a {
+    color: $category21;
+}
+
+
+
+.grid-item h3 {
+  font-size: 1.1em;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+
+
+
 
 
 .categories {

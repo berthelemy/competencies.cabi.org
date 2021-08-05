@@ -1,50 +1,1224 @@
-- title: Skill 1
-  description:  Some text here Some text here Some text here Some text here Some text here
-  category: category A
+- category: Diagnostics
+  description: Description placeholder
   levels:
-    - Foundation
+  - Foundation
+  - Practitioner
+  - Advanced
   roles:
-    - Extension worker
-- title: Skill 2
-  description: Some text here
-  category: category A
+  - Plant doctors
+  title: Run a plant clinic
+- category: Diagnostics
+  description: Description placeholder
   levels:
-    - Foundation
-    - Practitioner
-    - Advanced
+  - Foundation
+  - Practitioner
+  - Advanced
   roles:
-    - Plant doctor
-- title: Skill 3
-  description: Some more text here
-  category: category B
+  - Plant doctors
+  - Extension workers
+  title: Identify symptoms
+- category: Diagnostics
+  description: Description placeholder
   levels:
-    - Practitioner
+  - Foundation
+  - Practitioner
+  - Advanced
   roles:
-    - Agri-dealer employee
-- title: Skill 4
-  description: Some text here
-  category: category B
+  - Plant doctors
+  - Extension workers
+  title: Diagnose plant problems
+- category: Diagnostics
+  description: Description placeholder
   levels:
-    - Foundation
-    - Practitioner
+  - Foundation
   roles:
-    - Extension worker
-    - Plant doctor
-- title: Skill 5
-  description: Some text here
-  category: category C
+  - Plant doctors
+  - Extension workers
+  title: Sample plants
+- category: Diagnostics
+  description: Description placeholder
   levels:
-    - Practitioner
-    - Advanced
+  - Foundation
   roles:
-    - Agri-dealer employee
-- title: Skill 6
-  description: Some text here
-  category: category D
+  - Plant doctors
+  - Extension workers
+  title: Detect emerging pests
+- category: Personal skills
+  description: Description placeholder
   levels:
-    - Foundation
-    - Practitioner
+  - Practitioner
   roles:
-    - Extension worker
-    - Plant doctor
-    - Agri-dealer employee
+  - Plant doctors
+  - Extension workers
+  title: Facilitate change
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Implement extension campaigns
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Conduct field visits
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Design extension programmes
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Design survey instruments
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Write evaluation reports
+- category: Mindset change
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Agri-dealer employees
+  title: Initiate social networks
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Achieve organization's mission
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Conduct participant observations
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Write field reports
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Conduct rural appraisals
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Recommend soil management approaches
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Respond to changing organization
+- category: Resource management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Mobilize resources
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Identify different seed/fertilizer types
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Recommend value addition options
+- category: Research
+  description: Description placeholder
+  levels:
+  - NO LEVELS
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse soil nutrients
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Communicate effectively
+- category: Mindset change
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Agri-dealer employees
+  title: Identify cultural implications
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Implement extension service delivery
+- category: Resource management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage time
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Conduct surveys
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Use appropriate ICTs
+- category: Resource management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Know product details
+- category: Participatory approaches
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Manage groups/teamwork
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Educate on aggregating produce
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Collaborate to implement
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Calculate product costs
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Set personal goals
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Use gender sensitive approaches
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Recommend pesticides
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Select training methods
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Seek learning opportunities
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Recommend pest management approaches
+- category: Participatory approaches
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Write for media
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Prioritize needs/problems
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Interpret current farmer pratices
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Support value chain development
+- category: Research
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Design solutions
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Monitor performance / progress
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Regularly reconcile records
+- category: Mindset change
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Foster open communication environment
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Access reliable information
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Engage youth
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage farmer relationship
+- category: Mindset change
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Persuade for change
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Apply irrigation techniques
+- category: Participatory approaches
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Organize farmer field schools
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Agri-dealer employees
+  title: Conduct needs assessment
+- category: Research
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Accurately record data
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Analyse farmer context
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Recommend good farming practices
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Identify sources of inputs
+- category: Relationship management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage relationships with government
+- category: Relationship management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage relationships with financial institutions
+- category: Relationship management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage relationship with input suppliers
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Link farmers to markets
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Advice on safe input use
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse agro-ecological zone
+- category: Research
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Design experiments
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Give good customer service
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Identify problems
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Recognize others' contributions
+- category: Relationship management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage relationships with government
+- category: Finance
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Carry out financial planning
+- category: Gender
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Appreciate gender differences
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Apply critical thinking
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - NO LEVELS
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Calculate input ratios
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Recommend seeds and fertilizers
+- category: Research
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: "Analyse solution\u2019s cost/benefits"
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Actively listen
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Operate in transparency/ accountability
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Mobilize farmers
+- category: Participatory approaches
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Conduct field demonstrations
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Agri-dealer employees
+  title: Adopt  appropriate pricing strategies
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Handle chemicals safely
+- category: Monitoring and evaluation
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Build networks
+- category: Research
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Assess weather parameters
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Understand group dynamics
+- category: Risk mitigation
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage uncertainties/ risks/ change
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Undertake basic safety checks
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Encourage teamwork and collaboration
+- category: Finance
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Forecast cash flow
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Operate agricultural machinery
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - NO LEVELS
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Consult with experts
+- category: Record keeping
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Identify types of business records
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Properly store inputs/stock
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Receive criticism and suggestions
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Build strategic partnerships
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Promote farm entrepreneurship
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Use records to meet expenses
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Analyse business opportunities
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Agri-dealer employees
+  title: Carry high turn-over stocks
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Understand leadership principles
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Conduct  organization's meetings
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse input demand
+- category: Record keeping
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Maintain accurate records
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Correctly interpret records
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Facilitate access to credit/input supply
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Identify and resolve basic problems
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Provide market information
+- category: Participatory approaches
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Safely transport inputs
+- category: Participatory approaches
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Conduct focus group discussions
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Establish & monitor organization's objectives
+- category: Finance
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage working capital
+- category: Advisory services
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Manage risks / uncertainties / change
+- category: Participatory approaches
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Organize field days
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Make convincing presentations
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Create demand for products
+- category: Resource management
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Monitor stock turnover
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Implement marketing activities
+- category: Finance
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Monitor cash flows
+- category: Finance
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Address cash shortages
+- category: Finance
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Manage creditors' / debtors' records
+- category: Resource management
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Agri-dealer employees
+  title: Manage stock records
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse consumer preferences
+- category: Resource management
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Make business decisions
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Increase sales over time
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Conduct market analysis
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - NO LEVELS
+  roles:
+  - Agri-dealer employees
+  title: Identify viable business models
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Understand customer requirements
+- category: Marketing
+  description: Description placeholder
+  levels:
+  - NO LEVELS
+  roles:
+  - Agri-dealer employees
+  title: Design marketing strategies
+- category: Personal skills
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Treat customers ethically
+- category: Business management
+  description: Description placeholder
+  levels:
+  - Foundation
+  roles:
+  - Agri-dealer employees
+  title: Maintain clean business premises
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Identify seed production processes
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Supply quality inputs
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Clearly display stock
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Agri-dealer employees
+  title: ' Deliver inputs timely'
+- category: Inputs
+  description: Description placeholder
+  levels:
+  - Practitioner
+  roles:
+  - Agri-dealer employees
+  title: Maintain appropriate stock levels

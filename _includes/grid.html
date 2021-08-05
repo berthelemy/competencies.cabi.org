@@ -8,14 +8,17 @@
               <input type="checkbox" value="" id="category-all" class="all" checked /><label for="category-all">All Categories</label>
             {% assign all_categories_str = "" %}
             {% for skill in site.data.skills %}
-            {% assign all_categories_str = all_categories_str | append:skill.category | append: "," %}
+              {% assign all_categories_str = all_categories_str | append:skill.category | append: "," %}
             {% endfor %}
             {% assign all_categories = all_categories_str | split: "," %}
+
             {% assign uniq_categories = all_categories | uniq %}
+            {% assign count = 0 %}
             {% for category in uniq_categories %}
-            {% assign cat = category | slugify %}
-              <input type="checkbox" value=".{{ cat }}" id="{{ cat }}" /><label for="{{ cat }}">{{ category }}</label>
-            <!--  <button class="button" data-filter=".{{ category | slugify }}">{{ category }}</button>-->
+              {% assign count = count | plus:1 %}
+              {% assign cat = category | slugify %}
+                <input type="checkbox" value=".{{ cat }}" id="{{ cat }}" /><label class="category{{ count }}" for="{{ cat }}">{{ category }}</label>
+              <!--  <button class="button" data-filter=".{{ category | slugify }}">{{ category }}</button>-->
             {% endfor %}
             </div>
         <!--</div>-->
@@ -64,13 +67,19 @@
 
 <div class="grid-main">
   <div class="grid-container">
-    {% assign count = 0 %}
+
+    {% assign size = site.data.skills | size %}
     {% for skill in site.data.skills %}
-    {% assign count = count | plus: 1 %}
     {% capture levels %}{% for level in skill.levels %}{{ level | slugify }} {% endfor %}{% endcapture %}
     {% capture roles %}{% for role in skill.roles %}{{ role | slugify }} {% endfor %}{% endcapture %}
-    <div class="col_4 grid-item {{ skill.category | slugify }} {{ levels }} {{ roles }}">
-      <h3><a href="#ex{{ count }}" rel="modal:open">{{ skill.title }}</a></h3>
+    {% for category in uniq_categories %}
+      {% if category == skill.category %}
+        {% assign style = forloop.index0 %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    <div class="col_2 grid-item category{{style}} {{ skill.category | slugify }} {{ levels }} {{ roles }}">
+      <h3 class="center"><a href="#ex{{ count }}" rel="modal:open">{{ skill.title }}</a></h3>
 
 
 
@@ -96,6 +105,7 @@
     </div>
     <a href="#" rel="modal:close">Close</a>
   </div>
+  {% if count == size %}{% assign count = 0 %}{% endif %}
   {% endfor %}
   </div> <!-- End grid-container -->
 </div> <!-- End grid-main -->
