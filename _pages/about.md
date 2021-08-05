@@ -3,7 +3,30 @@ layout: default
 title: About
 permalink: about/
 ---
+A skills framework gives a solid foundation on which to build:
 
-#### Supported by
+- training needs analysis
+- certifications
+- training programmes
+- job descriptions
+- career plans
 
-{% include supporters.html %}
+#### How to use the framework
+
+The skills are organised by:
+
+- **Category**: Which groups together similar skills
+- **Role**: Which groups together skills that apply more to particular roles
+- **Level**: Which groups together skills that may apply more to people at particular stages in their career
+
+#### Levels
+
+**Foundation**: Someone who is an early stage in their career and works under supervision.
+
+**Practitioner**: Someone who can work without supervision
+
+**Advanced**: Someone who leads and provides direction
+
+#### Supporters
+
+The {{ site.title }} is supported by the organisations listed below. They have provided input and ongoing validation.
