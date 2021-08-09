@@ -4,6 +4,7 @@
 
 {% assign supporter-list = site.data.supporters | sort:"name" %}
 {% for supporter in supporter-list %}
+{% if supporter.active == TRUE %}
 {% if count == 0 %}<div class="vcenter">{% endif %}
 <div class="col_3 center">
   {% assign count = count | plus:1 %}
@@ -11,5 +12,6 @@
   <a href="{{ supporter.url }}" target="_blank"><img src="{{ logo_url }}" alt="{{ supporter.name }} logo"/></a>
 </div>
 {% if count == 4 %}{% assign count = 0 %}</div><!-- end vcenter --><div class="clear">xx</div>{% endif %}
+{% endif %}
 {% endfor %}
 </div>

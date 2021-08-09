@@ -1,15 +1,20 @@
 - name: CABI
   img: cabi-logo-narrow.svg
   url: https://cabi.org
+  active: TRUE
 - name: Digital Green
   img: gray-digital-logo.png
   url: https://www.digitalgreen.org/
+  active: FALSE
 - name: CNFA
   img: cnfa-logo.png
   url: https://www.cnfa.org/
+  active: FALSE
 - name: Gatsby Africa
   img: gatsby-africa.png
   url: https://www.gatsby.org.uk/africa
+  active: FALSE
 - name: Kenya Markets Trust
   img: kenya-markets-trust-logo.png
   url: https://www.kenyamarkets.org/
+  active: FALSE
