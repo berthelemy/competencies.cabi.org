@@ -4,7 +4,7 @@
 
 {% assign supporter-list = site.data.supporters | sort:"name" %}
 {% for supporter in supporter-list %}
-{% if supporter.active == TRUE %}
+{% if supporter.active %}
 {% if count == 0 %}<div class="vcenter">{% endif %}
 <div class="col_3 center">
   {% assign count = count | plus:1 %}
