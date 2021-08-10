@@ -18,3 +18,7 @@
   img: kenya-markets-trust-logo.png
   url: https://www.kenyamarkets.org/
   active: FALSE
+- name: Plantwise Plus
+  img: PlantwisePlus-Logo.png
+  url: https://www.plantwise.org/
+  active: TRUE
