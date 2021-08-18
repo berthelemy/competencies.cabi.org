@@ -5,7 +5,7 @@
 layout: home
 title: Home
 ---
-<div class="col_12 center"><a href="{{ '/skills' | relative_url }}" class="button large">View all skills</a></div>
+<div class="col_12 center"><a href="{{ '/skills' | relative_url }}" class="button large">View all skills and levels</a></div>
 <div class="col_4">
   <h3>Extension workers</h3>
   <p>Do you work for the government, an NGO or a private sector company?</p>
