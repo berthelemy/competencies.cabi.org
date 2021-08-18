@@ -23,11 +23,11 @@ title: Home
 </div>
 <div class="clear"></div>
 <div class="col_4 center">
-  <a href="{{ 'skills/ew-skills'| relative_url }}" class="center">Skills for extension workers</a>
+  <a href="{{ 'skills-by-role/ew-skills'| relative_url }}" class="center">Skills for extension workers</a>
 </div>
 <div class="col_4 center">
-  <a href="{{ 'skills/ad-skills'| relative_url }}" class="center">Skills for agri-dealer employees</a>
+  <a href="{{ 'skills-by-role/ad-skills'| relative_url }}" class="center">Skills for agri-dealer employees</a>
 </div>
 <div class="col_4 center">
-  <a href="{{ 'skills/pd-skills'| relative_url }}" class="center">Skills for plant doctors</a>
+  <a href="{{ 'skills-by-role/pd-skills'| relative_url }}" class="center">Skills for plant doctors</a>
 </div>
