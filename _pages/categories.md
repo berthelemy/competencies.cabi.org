@@ -10,14 +10,38 @@ permalink: categories/
 {% endfor %}
 {% assign all_categories = all_categories_str | split: "," %}
 {% assign uniq_categories = all_categories | uniq %}
-{% assign count = 0 %}
+{% assign count = 0 %}{% assign n = 0 %}
 {% for category in uniq_categories %}
   {% assign count = count | plus: 1 %}
   <div class="col_4">
   <h4>{{ category }}</h4>
   {% for skill in site.data.skills %}
     {% if skill.category == category %}
-    <p>{{ skill.title }}</p>
+    {% assign n = n | plus: 1 %}
+    <p><a href="#ex{{ n }}" rel="modal:open">{{ skill.title }}</a></p>
+    <!-- The Modal -->
+    <div id="ex{{ n }}" class="modal">
+      <h4>{{ skill.title }}</h4>
+      <p>{{ skill.description }}</p>
+      <div class="categories">
+        <h5>Category</h5>
+        <p><span class="category {{ skill.category | slugify }}">{{ skill.category }}</span></p>
+      </div>
+
+      <div class="roles">
+        <h5>Roles</h5>
+        {% for role in skill.roles %}
+        <p><span class="role {{ role | slugify }}">{{ role }}</span></p>
+        {% endfor %}
+      </div>
+      <h5>Levels</h5>
+      <div class="levels">
+        {% for level in skill.levels %}
+        <p><span class="level {{ level | slugify }}">{{ level }}</span></p>
+        {% endfor %}
+      </div>
+      <a href="#" rel="modal:close">Close</a>
+    </div>
     {% endif %}
   {% endfor %}
   </div>
