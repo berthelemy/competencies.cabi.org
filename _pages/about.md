@@ -26,7 +26,3 @@ The skills are organised by:
 **Practitioner**: Someone who can work without supervision
 
 **Advanced**: Someone who leads and provides direction
-
-#### Supporters
-
-The {{ site.title }} is supported by the organisations listed below. They have provided input and ongoing validation.
