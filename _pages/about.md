@@ -19,6 +19,8 @@ The skills are organised by:
 - **Role**: Which groups together skills that apply more to particular roles
 - **Level**: Which groups together skills that may apply more to people at particular stages in their career
 
+We suggest that the framework is used to provide a common vocabulary when having conversations about standards, regulations, certification and training.
+
 #### Levels
 
 **Foundation**: Someone who is an early stage in their career and works under supervision.
