@@ -1,0 +1,201 @@
+"skills","Key","group","Plant doctors","Extension workers","Agri-dealer employees","Foundation","Practitioner","Advanced","level1","level2","level3"
+"Reduce illness risk from irrigation practices","Water management","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Access reliable information","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,1,"Foundation",," Advanced"
+"Accurately record data","Record management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Achieve organization's mission","Project management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Actively listen","Communication skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Address cash shortages","Agri-business administration","Agri-dealer employees",0,0,1,0,0,1,,,"Advanced"
+"Address needs of the nutritionally vulnerable ","Nutrition","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Adjust to rapid changes/challenges","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner","Advanced"
+"Adopt appropriate pricing strategies","Agricultural marketing","Agri-dealer employees",0,0,1,1,0,0,"Foundation",,
+"Advice on safe input use","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Advocate for thoughtful location of livestock ","Advisory services","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Analyse agro-ecological zone","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner"," Advanced"
+"Analyse business opportunities","Agri-business administration","Agri-dealer employees",0,0,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Analyse consumer preferences","Agricultural marketing","Extension workers & agri-dealer employees",0,1,1,0,1,0,,"Practitioner",
+"Analyse farmer context","Extension services","Plant doctors & Extension workers",1,1,0,1,0,0,"Foundation",,
+"Analyse input demand","Input supply","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Analyse nutrition's contribution to health ","Nutrition","Extension workers",0,1,0,0,0,1,,,"Advanced"
+"Analyse soil nutrients","Crop management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner","Advanced"
+"Analyse solution’s cost/benefits","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Analyze markets for nutrition value chains ","Value chain development","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Apply adult learning principles","Advisory services","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Apply critical thinking","Soft skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Apply gender analysis integration principles","Gender","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Apply group dynamics principles","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Apply irrigation techniques","Water management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner"," Advanced"
+"Apply leadership principles","Relationship management","Plant doctors & Extension workers",1,1,0,0,0,1,,,"Advanced"
+"Apply nutrition-sensitive extension approaches ","Nutrition","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Apply youth inclusive approaches","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Appreciate gender differences","Gender","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Assess weather parameters","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Build networks","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Build strategic partnerships","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Calculate input ratios","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner","Advanced"
+"Calculate product costs","Agricultural marketing","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Carefully display billboards and price tags","Agricultural marketing","Agri-dealer employees",0,0,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Carry high turn-over stocks","Stock management","Agri-dealer employees",0,0,1,0,1,0,,"Practitioner",
+"Carry out financial planning","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Channels women’s needs to actors","Gender","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Clearly display stock","Stock management","Agri-dealer employees",0,0,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Collaborate to implement","Relationship management","Plant doctors & Extension workers",1,1,0,1,1,0,"Foundation"," Practitioner",
+"Communicate disease risks by specific livestock","Advisory services","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Communicate effectively","Communication skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Communicate effectively with community leaders","Communication skills","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Conduct organization's meetings","Project management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner"," Advanced"
+"Conduct basic gender analysis ","Gender","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Conduct community forums","Participatory approaches","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Conduct field demonstrations","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Conduct field visits","Extension services","Plant doctors & Extension workers",1,1,0,1,1,0,"Foundation"," Practitioner",
+"Conduct focus group discussions","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Conduct market analysis","Agricultural marketing","Agri-dealer employees",0,0,1,0,0,1,,,"Advanced"
+"Conduct needs assessment","Monitoring and evaluation","Plant doctors & agri-dealer employees",1,0,1,0,1,0,,"Practitioner",
+"Conduct participant observations","Monitoring and evaluation","Plant doctors & Extension workers",1,1,0,1,0,0,"Foundation",,
+"Conduct rural appraisals","Participatory approaches","Plant doctors & Extension workers",1,1,0,0,1,1,,"Practitioner"," Advanced"
+"Conduct situational analysis","Project management","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Conduct stakeholder analysis","Project management","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Conduct surveys","Monitoring and evaluation","Plant doctors & Extension workers",1,1,0,1,0,0,"Foundation",,
+"Connects content to be shared ","Communication skills","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Consult with experts","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Correctly interpret records","Record management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Create demand for products","Agricultural marketing","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Deliver inputs timely","Input supply","Agri-dealer employees",0,0,1,1,1,0,"Foundation","Practitioner",
+"Demonstrates respect","Soft skills","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Describe nutrition actions for positive health ","Nutrition","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Describe technology design gender issues ","Gender","Extension workers",0,1,0,0,0,1,,,"Advanced"
+"Describe food & nutrition security relationship","Nutrition","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Design experiments","Monitoring and evaluation","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner"," Advanced"
+"Design extension programmes","Project management","Plant doctors & Extension workers",1,1,0,1,0,0,"Foundation",,
+"Design marketing strategies","Agricultural marketing","Agri-dealer employees",0,0,1,0,0,1,,,"Advanced"
+"Design solutions","Monitoring and evaluation","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Design survey instruments","Monitoring and evaluation","Plant doctors & Extension workers",1,1,0,0,0,1,,,"Advanced"
+"Detect emerging pests","Crop diagnostics","Plant doctors & Extension workers",1,1,0,1,0,0,"Foundation",,
+"Develop grant proposal","Project management","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Develop work plan","Project management","Extension workers",0,1,1,0,1,1,,"Practitioner","Advanced"
+"Diagnose plant problems","Crop diagnostics","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Educate on aggregating produce","Crop management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Encourage agricultural practices for WASH","Water management","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Encourage teamwork and collaboration","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Engage youth","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Establish & monitor organization's objectives","Project management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Establish a model village","Project management","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Estimate capital for nutrition value chains ","Agricultural marketing","Plant doctors & Extension workers",1,1,0,0,1,1,,"Practitioner","Advanced"
+"Explain agrochemical application practices","Chemical use","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Explain integrated pest management options","Chemical use","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Explain nutritional value of specific foods ","Nutrition","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Facilitate access to credit/input supply","Input supply","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Facilitate change","Soft skills","Plant doctors & Extension workers",1,1,0,0,1,1,,"Practitioner"," Advanced"
+"Facilitate meetings","Soft skills","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Forecast cash flow","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner"," Advanced"
+"Foster open communication environment","Soft skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Give good customer service","Agricultural marketing","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Handle chemicals safely","Chemical use","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Handle complaints promptly","Agricultural marketing","Agri-dealer employees",0,0,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Identifies community's power dynamics","Participatory approaches","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Identifies formal/ informal groups","Participatory approaches","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Identifies opportunities for women’s access to technologies ","Gender","Plant doctors & Extension workers",1,1,0,0,1,1,,"Practitioner","Advanced"
+"Identify and resolve basic problems","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Identify cultural implications","Extension services","Plant doctors & agri-dealer employees",1,0,1,0,1,0,,"Practitioner",
+"Identify different seed/fertilizer types","Input supply","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Identify diversity of foods ","Nutrition","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Identify extension roles to improve technologies' access ","Gender","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Identify foods meeting nutrition needs","Nutrition","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Identify markets for nutritious products  ","Agricultural marketing","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Identify men/women's communication mechanisms ","Communication skills","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Identify men/women's value chain challenges ","Gender","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Identify men/women's value chains opportunities ","Gender","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Identify problems","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Identify problems from wrong labor practices ","Gender","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Identify purpose of working capital","Agri-business administration","Agri-dealer employees",0,0,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Identify seed production processes","Input supply","Agri-dealer employees",0,0,1,0,1,1,,"Practitioner"," Advanced"
+"Identify sources of inputs","Input supply","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Identify symptoms","Crop diagnostics","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Identify types of business records","Record management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Identify viable business models","Agri-business administration","Agri-dealer employees",0,0,1,0,1,1,,"Practitioner","Advanced"
+"Identify where individuals fit in communities ","Participatory approaches","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Implement extension campaigns","Project management","Plant doctors & Extension workers",1,1,0,1,1,0,"Foundation"," Practitioner",
+"Implement extension service delivery","Project management","Plant doctors & Extension workers",1,1,0,0,0,1,,,"Advanced"
+"Implement gender-transformative approaches","Gender","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Implement marketing activities","Agricultural marketing","Agri-dealer employees",0,0,1,0,1,1,,"Practitioner"," Advanced"
+"Improve men/women's value chain participation","Value chain development","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Increase sales over time","Agricultural marketing","Agri-dealer employees",0,0,1,0,1,1,,"Practitioner"," Advanced"
+"Initiate social networks","Relationship management","Plant doctors & agri-dealer employees",1,0,1,0,1,0,,"Practitioner",
+"Interpret current farmer pratices","Extension services","Plant doctors & Extension workers",1,1,0,0,1,0,,"Practitioner",
+"Keep abreast with new ICTs","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Know product details","Input supply","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Link farmers to markets","Value chain development","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation"," Practitioner"," Advanced"
+"List customer requirements","Agricultural marketing","Agri-dealer employees",0,0,1,0,1,1,,"Practitioner"," Advanced"
+"Lists farm products for dietary diversity","Nutrition","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Maintain accurate records","Record management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Maintain appropriate stock levels","Stock management","Agri-dealer employees",0,0,1,0,1,0,,"Practitioner",
+"Maintain clean business premises","Agri-business administration","Agri-dealer employees",0,0,1,1,0,0,"Foundation",,
+"Make business decisions","Agri-business administration","Agri-dealer employees",0,0,1,0,1,1,,"Practitioner"," Advanced"
+"Make convincing presentations","Communication skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Manage creditors / debtors' records","Record management","Agri-dealer employees",0,0,1,0,1,0,,"Practitioner",
+"Manage farmer relationship","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Manage groups / teamwork","Relationship management","Plant doctors & Extension workers",1,1,0,0,1,0,,"Practitioner",
+"Manage nurseries","Advisory services","Extension workers & agri-dealer employees",0,1,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Manage relationship with clients","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation","Practitioner","Advanced"
+"Manage relationship with input suppliers","Input supply","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Manage relationships with financial institutions","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Manage relationships with government","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,0,1,,,"Advanced"
+"Manage risks / uncertainties / change","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner"," Advanced"
+"Manage stock records","Stock management","Agri-dealer employees",0,0,1,1,0,0,"Foundation",,
+"Manage time","Soft skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Manage working capital","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Minimize post- harvest losses ","Crop management","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Mobilize farmers","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Mobilize resources","Agri-business administration","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Monitor cash flows","Agri-business administration","Agri-dealer employees",0,0,1,0,1,1,,"Practitioner"," Advanced"
+"Monitor performance / progress","Monitoring and evaluation","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,1,,"Practitioner"," Advanced"
+"Monitor stock turnover","Stock management","Agri-dealer employees",0,0,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Operate agricultural machinery","Advisory services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Operate in transparency/ accountability","Soft skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Organize farmer field schools","Advisory services","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Organize field days","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Orient farmer-based organizations ","Participatory approaches","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Persuade for change","Soft skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Plans access to nutritious foods ","Nutrition","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Prioritize needs / problems","Soft skills","Plant doctors & Extension workers",1,1,0,0,0,1,,,"Advanced"
+"Promote alternatives on gender-related tasks ","Gender","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Promote diversity of foods ","Nutrition","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Promote farm entrepreneurship","Value chain development","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,0,1,0,,"Practitioner",
+"Promote mechanisms to benefit from value chains ","Value chain development","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Promote practices that improve soil health","Crop management","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Promotes gender-responsive meetings ","Gender","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Promotes participants' safety","Soft skills","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Properly store inputs / stock","Stock management","Agri-dealer employees",0,0,1,1,0,0,"Foundation",,
+"Properly use PPEs","Chemical use","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Provide market information","Value chain development","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Provides frequent and substantive praise","Soft skills","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Receive criticism and suggestions","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Recognize others' contributions","Relationship management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Recognizes importance of access to safe water ","Water management","Extension workers",0,1,0,1,1,1,"Foundation","Practitioner","Advanced"
+"Recommend good farming practices","Crop management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Recommend pest management approaches","Crop management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Recommend pesticides","Chemical use","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Recommend seeds and fertilizers","Crop management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Recommend soil management approaches","Crop management","Plant doctors & Extension workers",1,1,0,1,1,0,"Foundation"," Practitioner",
+"Recommend value addition options","Value chain development","Plant doctors & Extension workers",1,1,0,0,1,0,,"Practitioner",
+"Regularly reconcile records","Record management","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Reinforce Essential Hygiene Actions (EHA)","Water management","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Respond to changing organization","Project management","Plant doctors & Extension workers",1,1,0,0,0,1,,,"Advanced"
+"Run a plant clinic","Crop diagnostics","Plant doctors",1,0,0,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Safely transport inputs","Input supply","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Sample plants","Crop diagnostics","Plant doctors & Extension workers",1,1,0,1,0,0,"Foundation",,
+"Seek learning opportunities","Soft skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Select training methods","Extension services","Plant doctors & Extension workers",1,1,0,0,1,0,,"Practitioner",
+"Sensitized to people's different nutrition needs","Nutrition","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Set personal goals","Soft skills","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Supply quality inputs","Input supply","Agri-dealer employees",0,0,1,0,1,0,,"Practitioner",
+"Support value chain development","Value chain development","Extension workers & agri-dealer employees",0,1,1,0,0,1,,,"Advanced"
+"Supports FBO's responsivenes to women/men’s needs ","Participatory approaches","Extension workers",0,1,0,0,1,1,,"Practitioner","Advanced"
+"Tailors information to different target groups ","Gender","Plant doctors & Extension workers",1,1,0,0,1,1,,"Practitioner","Advanced"
+"Treat customers ethically","Agricultural marketing","Agri-dealer employees",0,0,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Undertake basic safety checks","Extension services","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Use appropriate ICTs","Advisory services","Plant doctors & Extension workers",1,1,0,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Use gender sensitive approaches","Gender","ALL (Plant doctors & Extension workers & Agri-dealer employees)",1,1,1,1,0,0,"Foundation",,
+"Use records to meet expenses","Record management","Agri-dealer employees",0,0,1,1,1,1,"Foundation"," Practitioner"," Advanced"
+"Write evaluation reports","Monitoring and evaluation","Plant doctors & Extension workers",1,1,0,0,1,1,,"Practitioner"," Advanced"
+"Write field reports","Extension services","Plant doctors & Extension workers",1,1,0,0,1,0,,"Practitioner",
+"Write for media","Communication skills","Plant doctors & Extension workers",1,1,0,0,0,1,,,"Advanced"

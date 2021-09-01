@@ -1,6 +1,12 @@
 import csv,yaml
 
-with open('Competence-analysis2.csv',mode='r') as csv_file:
+# Assumes csv file with these columns in this order:
+# skills,category,group,Plant doctors,Extension workers,Agri-dealer employees,Foundation,Practitioner,Advanced
+# column 0 = text
+# column 1 = text
+# columns 2 onwards = boolean
+
+with open('Agriculture-Skills-Framework-Analysis-3.3.csv',mode='r') as csv_file:
     datareader = csv.reader(csv_file, delimiter=",", quotechar='"')
     result = list()
 #    type_index = -1
@@ -19,30 +25,31 @@ with open('Competence-analysis2.csv',mode='r') as csv_file:
             roles = []
             levels = []
             for cell_index, cell in enumerate(row):
-
+                #print(row)
                 if cell_index == 0:
                     content[data_headings[0]] = cell
+
                 if cell_index == 1:
                     cell=cell.capitalize()
                     content[data_headings[1]] = cell
 
-                if cell_index == 2 and cell == "1":
-                    roles.append('Plant doctors')
                 if cell_index == 3 and cell == "1":
-                    roles.append('Extension workers')
+                    roles.append('Plant doctors')
                 if cell_index == 4 and cell == "1":
+                    roles.append('Extension workers')
+                if cell_index == 5 and cell == "1":
                     roles.append('Agri-dealer employees')
 
-                if cell_index == 5 and cell == "1":
-                    levels.append('Foundation')
                 if cell_index == 6 and cell == "1":
-                    levels.append('Practitioner')
+                    levels.append('Foundation')
                 if cell_index == 7 and cell == "1":
+                    levels.append('Practitioner')
+                if cell_index == 8 and cell == "1":
                     levels.append('Advanced')
 
-                if cell_index == 4 and roles == []:
+                if cell_index == 5 and roles == []:
                     roles.append('NO ROLE')
-                if cell_index == 7 and levels == []:
+                if cell_index == 8 and levels == []:
                     levels.append('NO LEVELS')
 
                 content[data_headings[2]] = roles
@@ -52,8 +59,10 @@ with open('Competence-analysis2.csv',mode='r') as csv_file:
 
 
             result.append(content)
+            print(result)
             roles=[]
             levels=[]
+
         #print(result)
         file = open("skills.yaml","w")
         yaml.dump(result,file)
