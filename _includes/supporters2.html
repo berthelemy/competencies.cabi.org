@@ -1,8 +1,11 @@
 {% assign supporter-list = site.data.supporters | sort:"name" %}
 {% capture supporter-number %}{{ supporter-list.size }}{% endcapture %}
 {% assign half = supporter-number | divided_by: 2 %}
-<section class="col-3 col-6-narrower col-12-mobilep">
+<section class="col-12">
   <h3>Contributors</h3>
+</section>
+<section class="col-3 col-6-narrower col-12-mobilep">
+
   <ul class="links">
 {% for supporter in supporter-list limit: half %}
 {% if supporter.active %}
@@ -12,7 +15,7 @@
   </ul>
 </section>
 <section class="col-3 col-6-narrower col-12-mobilep">
-  <h3></h3>
+  
   <ul class="links">
 {% for supporter in supporter-list offset: half %}
 {% if supporter.active %}
