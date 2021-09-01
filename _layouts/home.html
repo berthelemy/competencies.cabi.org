@@ -1,25 +1,141 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<body>
+<body class="is-preload">
 
-<div class="grid">
+  <div id="page-wrapper">
 
-<div class="col_12 main" style="margin-top:0;">
-{% include menu.html %}
-<div id="home-page-header-text">
-  <h1 class="center">{{ site.title }}</h1>
-  <h2 class="center"><em>{{ site.tagline }}</em></h2>
-</div>
-    <img class="full-width" src="{{ '/assets/images/20200729_COBI-948-V1-1-scaled-e1626708031285-1024x575.jpg'| relative_url }}" alt="Two people looking at a plant" />
+    <!-- Header -->
+      <div id="header">
 
-      <div id="content" class="col_12">
-        {{ content }}
-        <!--<div class="col_12">{% include hexagons.html %}</div>-->
+        <!-- Logo -->
+          <h1><a href="index.html" id="logo">{{ site.title }}</em></a></h1>
+
+        <!-- Nav -->
+          <nav id="nav">
+            {% include menu.html %}
+          </nav>
+
       </div>
-	</div><!-- End .main -->
-  {% include footer.html %}
-</div> <!-- End Grid -->
+
+    <!-- Banner -->
+      <section id="banner">
+        <!--<header>
+          <h2>{{ site.tagline }}</h2>
+          <a href="/about" class="button">Learn More</a>
+        </header>-->
+      </section>
+
+    <!-- Highlights -->
+      <section class="wrapper style1">
+        <div class="container">
+          <div class="row gtr-200">
+            <section class="col-4 col-12-narrower">
+              <div class="box highlight">
+                <i class="icon solid major"><img src="{{ '/assets/images/Comprehensive.svg' | relative_url }}" /></i>
+
+                {% assign skills = site.data.skills %}
+                <h3>Comprehensive</h3>
+                <p>{{ skills.size }} skills identified, described and categorised by job role, certification level and topic</p>
+              </div>
+            </section>
+            <section class="col-4 col-12-narrower">
+              <div class="box highlight">
+                <i class="icon solid major"><img src="{{ '/assets/images/Open.svg' | relative_url }}" /></i>
+                <h3>Open</h3>
+                <p>Free to use for non-commercial purposes.</p>
+              </div>
+            </section>
+            <section class="col-4 col-12-narrower">
+              <div class="box highlight">
+                <i class="icon solid major"><img src="{{ '/assets/images/Community-led.svg' | relative_url }}" /></i>
+                <h3>Community led</h3>
+                <p>Created by and for the agricultural advisory community.</p>
+              </div>
+            </section>
+          </div>
+        </div>
+      </section>
+
+    <!-- Gigantic Heading -->
+      <section class="wrapper style2">
+        <div class="container">
+          <header class="major">
+            <h2>{{ site.tagline }}</h2>
+            <p>with a global skills framework</p>
+          </header>
+        </div>
+      </section>
+
+    <!-- Posts -->
+      <section class="wrapper style1">
+        <div class="container">
+          <div class="row">
+            <section class="col-6 col-12-narrower">
+              <div class="box post">
+                <a href="#" class="image left"><img src="images/pic01.jpg" alt="" /></a>
+                <div class="inner">
+                  <h3>Extension workers</h3>
+                  <p>Do you work for the government, an NGO or a private sector company?</p>
+                  <p>Do you advise, organise and support farmers?</p>
+                  <p><a href="{{ '/skills-by-role/ew-skills' | relative_url }}">Skills for extension workers</a></p>
+                </div>
+              </div>
+            </section>
+            <section class="col-6 col-12-narrower">
+              <div class="box post">
+                <a href="#" class="image left"><img src="images/pic02.jpg" alt="" /></a>
+                <div class="inner">
+                  <h3>Agri-dealer employees</h3>
+                  <p>Do you work for an input supplier?</p>
+                  <p>Do farmers come to you for advice?</p>
+                  <p><a href="{{ '/skills-by-role/ad-skills' | relative_url }}">Skills for agri-dealer employees</a></p>
+                </div>
+              </div>
+            </section>
+          </div>
+          <div class="row">
+            <section class="col-6 col-12-narrower">
+              <div class="box post">
+                <a href="#" class="image left"><img src="images/pic03.jpg" alt="" /></a>
+                <div class="inner">
+                  <h3>Plant doctors</h3>
+                  <p>Do you diagnose crop pests and diseases for farmers?</p>
+                  <p>Do you advise them on how to manage the issues?</p>
+                  <p><a href="{{ '/skills-by-role/pd-skills' | relative_url }}">Skills for plant doctors</a></p>
+                </div>
+              </div>
+            </section>
+            <!--<section class="col-6 col-12-narrower">
+              <div class="box post">
+                <a href="#" class="image left"><img src="images/pic04.jpg" alt="" /></a>
+                <div class="inner">
+                  <h3>The Fourth Thing</h3>
+                  <p>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.</p>
+                </div>
+              </div>
+            </section>-->
+          </div>
+        </div>
+      </section>
+
+    <!-- CTA -->
+      <section id="cta" class="wrapper style3">
+        <div class="container">
+          <header>
+            <h2>Explore the framework</h2>
+            <a href="{{ '/skills' | relative_url }}" class="button">Start here</a>
+          </header>
+        </div>
+      </section>
+
+      <!-- Footer -->
+        {% include footer.html %}
+
+  </div>
+
+
+
 {% include scripts.html %}
 </body>
 </html>

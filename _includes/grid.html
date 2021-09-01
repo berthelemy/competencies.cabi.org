@@ -1,11 +1,43 @@
 <div id="filters">
   <!--<div class="ui-group">-->
+  <h3>Roles</h3>
+  <!--<div class="button-group text-center" data-filter-group="level">
+      <div class="filter">-->
+          <!--<button class="active button" data-filter="">All</button>-->
+          <div class="option-set" data-group="role">
+            <input type="checkbox" value="" id="role-all" class="all" checked /><label class="inline" for="role-all">All roles</label>
+          {% for skill in site.data.skills %}
+          {% assign all_roles = all_roles | concat: skill.roles %}
+          {% endfor %}
+          {% assign uniq_roles = all_roles | uniq %}
+          {% for role in uniq_roles %}
+            {% assign roleslug = role | slugify %}
+            <!--<button class="button" data-filter=".{{ level | slugify }}">{{ level }}</button>-->
+            <input type="checkbox" value=".{{ roleslug }}" id="{{ roleslug }}" /><label class="inline" for="{{ roleslug }}">{{ role }}</label>
+          {% endfor %}
+          </div>
+    <h3>Levels</h3>
+    <!--<div class="button-group text-center" data-filter-group="level">
+        <div class="filter">-->
+            <!--<button class="active button" data-filter="">All</button>-->
+            <div class="option-set" data-group="level">
+              <input type="checkbox" value="" id="level-all" class="all" checked /><label class="inline" for="level-all">All levels</label>
+            {% for skill in site.data.skills %}
+            {% assign all_levels = all_levels | concat: skill.levels %}
+            {% endfor %}
+            {% assign uniq_levels = all_levels | uniq %}
+            {% for level in uniq_levels %}
+              {% assign lev = level | slugify %}
+              <!--<button class="button" data-filter=".{{ level | slugify }}">{{ level }}</button>-->
+              <input type="checkbox" value=".{{ lev }}" id="{{ lev }}" /><label class="inline" for="{{ lev }}">{{ level }}</label>
+            {% endfor %}
+            </div>
     <h3>Categories</h3>
     <!--<div class="button-group text-center" data-filter-group="category">
         <div class="filter">
             <button class="active button" data-filter="">All</button>-->
             <div class="option-set" data-group="category">
-              <input type="checkbox" value="" id="category-all" class="all" checked /><label for="category-all">All Categories</label>
+              <input type="checkbox" value="" id="category-all" class="all" checked /><label class="inline" for="category-all">All Categories</label>
             {% assign all_categories_str = "" %}
             {% for skill in site.data.skills %}
               {% assign all_categories_str = all_categories_str | append:skill.category | append: "," %}
@@ -17,7 +49,7 @@
             {% for category in uniq_categories %}
               {% assign count = count | plus:1 %}
               {% assign cat = category | slugify %}
-                <input type="checkbox" value=".{{ cat }}" id="{{ cat }}" /><label class="category{{ count }}" for="{{ cat }}">{{ category }}</label>
+                <input type="checkbox" value=".{{ cat }}" id="{{ cat }}" /><label class="inline category{{ count }}" for="{{ cat }}">{{ category }}</label>
               <!--  <button class="button" data-filter=".{{ category | slugify }}">{{ category }}</button>-->
             {% endfor %}
             </div>
@@ -25,41 +57,11 @@
     <!--</div>-->
   <!--</div>-->
   <!--<div class="ui-group">-->
-    <h3>Levels</h3>
-    <!--<div class="button-group text-center" data-filter-group="level">
-        <div class="filter">-->
-            <!--<button class="active button" data-filter="">All</button>-->
-            <div class="option-set" data-group="level">
-              <input type="checkbox" value="" id="level-all" class="all" checked /><label for="level-all">All levels</label>
-            {% for skill in site.data.skills %}
-            {% assign all_levels = all_levels | concat: skill.levels %}
-            {% endfor %}
-            {% assign uniq_levels = all_levels | uniq %}
-            {% for level in uniq_levels %}
-              {% assign lev = level | slugify %}
-              <!--<button class="button" data-filter=".{{ level | slugify }}">{{ level }}</button>-->
-              <input type="checkbox" value=".{{ lev }}" id="{{ lev }}" /><label for="{{ lev }}">{{ level }}</label>
-            {% endfor %}
-            </div>
+
       <!--  </div>
     </div>-->
   <!--</div>-->
-  <h3>Roles</h3>
-  <!--<div class="button-group text-center" data-filter-group="level">
-      <div class="filter">-->
-          <!--<button class="active button" data-filter="">All</button>-->
-          <div class="option-set" data-group="role">
-            <input type="checkbox" value="" id="role-all" class="all" checked /><label for="role-all">All roles</label>
-          {% for skill in site.data.skills %}
-          {% assign all_roles = all_roles | concat: skill.roles %}
-          {% endfor %}
-          {% assign uniq_roles = all_roles | uniq %}
-          {% for role in uniq_roles %}
-            {% assign roleslug = role | slugify %}
-            <!--<button class="button" data-filter=".{{ level | slugify }}">{{ level }}</button>-->
-            <input type="checkbox" value=".{{ roleslug }}" id="{{ roleslug }}" /><label for="{{ roleslug }}">{{ role }}</label>
-          {% endfor %}
-          </div>
+
     <!--  </div>
   </div>-->
 <!--</div>-->
@@ -81,7 +83,7 @@
       {% endif %}
     {% endfor %}
     {% assign count = count | plus: 1 %}
-    <a href="#ex{{ count }}" rel="modal:open"><div class="col_2 grid-item category{{style}} {{ skill.category | slugify }} {{ levels }} {{ roles }}">
+    <a href="#ex{{ count }}" rel="modal:open"><div class="col-2 grid-item category{{style}} {{ skill.category | slugify }} {{ levels }} {{ roles }}">
       <div class="grid-item-text-box center"><h3 class="center">{{ skill.title }}</h3><p class="small">{{ skill.category }}</p></div>
 
 

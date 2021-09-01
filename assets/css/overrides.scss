@@ -14,10 +14,39 @@ body {
   margin: 0;
 }
 
+#banner {
+  background-image: url(/assets/images/20200729_COBI-948-V1-1-scaled-e1626708031285-1024x575.jpg);
+}
+
 
 .vcenter {
   display: flex;
   align-items: center;
+}
+
+input[type=checkbox] {
+	-moz-appearance: checkbox;
+	-webkit-appearance: checkbox;
+	-ms-appearance: checkbox;
+	appearance: checkbox;
+}
+
+input.checkbox,
+input[type="checkbox"]{
+display:inline-block;
+width:auto;
+margin:0;
+padding:0;
+border:0;
+background:none;
+vertical-align:center;
+*vertical-align: top;
+}
+
+label.inline{display:inline;width:auto;margin:0 20px 0 5px;}
+
+.grid-item {
+  width: 200px;
 }
 
 .column{padding:10px;}

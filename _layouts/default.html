@@ -1,27 +1,75 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<body>
-<div class="grid">
-<div class="col_12 main" style="margin-top:0px;">
-  {% include menu.html %}
-  <div id="header">
-    <h1 class="center">{{ site.title }}</h1>
+<body class="is-preload">
+  <div id="page-wrapper">
+
+    <!-- Header -->
+      <div id="header">
+
+        <!-- Logo -->
+          <h1><a href="index.html" id="logo">{{ site.title }}</a></h1>
+
+        <!-- Nav -->
+          <nav id="nav">
+            {% include menu.html %}
+            <!--<ul>
+              <li class="current"><a href="index.html">Home</a></li>
+              <li>
+                <a href="#">Dropdown</a>
+                <ul>
+                  <li><a href="#">Lorem dolor</a></li>
+                  <li><a href="#">Magna phasellus</a></li>
+                  <li><a href="#">Etiam sed tempus</a></li>
+                  <li>
+                    <a href="#">Submenu</a>
+                    <ul>
+                      <li><a href="#">Lorem dolor</a></li>
+                      <li><a href="#">Phasellus magna</a></li>
+                      <li><a href="#">Magna phasellus</a></li>
+                      <li><a href="#">Etiam nisl</a></li>
+                      <li><a href="#">Veroeros feugiat</a></li>
+                    </ul>
+                  </li>
+                  <li><a href="#">Veroeros feugiat</a></li>
+                </ul>
+              </li>
+              <li><a href="left-sidebar.html">Left Sidebar</a></li>
+              <li><a href="right-sidebar.html">Right Sidebar</a></li>
+              <li><a href="two-sidebar.html">Two Sidebar</a></li>
+              <li><a href="no-sidebar.html">No Sidebar</a></li>
+            </ul>-->
+          </nav>
+
+      </div>
+
+      <!-- Main -->
+        <section class="wrapper style1">
+          <div class="container">
+            <div id="content">
+
+              <!-- Content -->
+
+                <article>
+                  <header>
+                    <h2>{{ page.title }}</h2>
+                    <p>{{ page.subtitle }}</p>
+                  </header>
+
+                  <span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+
+                  {{ content }}
+                </article>
+
+            </div>
+          </div>
+        </section>
+
+    <!-- Footer -->
+      {% include footer.html %}
 
   </div>
 
-
-
-
-      <div id="content" class="col_12">
-
-        <h2>{{ page.title }}</h2>
-        {{ content }}
-        <!--<div class="col_12">{% include hexagons.html %}</div>-->
-      </div>
-	</div>
-  {% include footer.html %}
-</div> <!-- End Grid -->
 {% include scripts.html %}
 </body>
 </html>

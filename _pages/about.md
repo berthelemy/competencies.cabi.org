@@ -3,7 +3,7 @@ layout: default
 title: About
 permalink: about/
 ---
-A skills framework gives a solid foundation on which to build:
+This skills framework gives a solid foundation on which to build:
 
 - training needs analysis
 - certifications

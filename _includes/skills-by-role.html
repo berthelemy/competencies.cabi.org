@@ -5,14 +5,17 @@
 
 {% assign uniq_categories = all_categories | uniq %}
 {% assign count = 0 %}
+{% assign countw = 0 %}<!-- three columns wide -->
 {% for category in uniq_categories %}
+{% if countw == 0 %}<div class="row">{% endif %}
 {% assign count = count | plus: 1 %}
-<div class="col_4">
+{% assign countw = countw | plus: 1 %}
+<div class="col-4 col-12-narrower col-12-mobilep">
 <h4>{{ category }}</h4>
 {% for skill in site.data.skills %}
   {% for role in skill.roles %}
   {% if skill.category == category %}
-  {% if role == include.role %}
+  {% if role == include.role %}<!-- Check for passed parameter -->
   {% assign count = count | plus: 1 %}
   <p><a href="#ex{{ count }}" rel="modal:open">{{ skill.title }}</a></p>
 
@@ -45,5 +48,5 @@
     {% endfor %}
 {% endfor %}
 </div>
-{% if count == 3 %}{% assign count = 0 %}<div class="clear"></div>{% endif %}
+{% if countw == 3 %}{% assign countw = 0 %}</div><!-- end row -->{% endif %}
 {% endfor %}

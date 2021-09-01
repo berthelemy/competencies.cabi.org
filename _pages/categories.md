@@ -12,8 +12,9 @@ permalink: categories/
 {% assign uniq_categories = all_categories | uniq %}
 {% assign count = 0 %}{% assign n = 0 %}
 {% for category in uniq_categories %}
+  {% if count == 0 %}<div class="row">{% endif %}
   {% assign count = count | plus: 1 %}
-  <div class="col_4">
+  <div class="col-4 col-12-narrower col-12-mobilep">
   <h4>{{ category }}</h4>
   {% for skill in site.data.skills %}
     {% if skill.category == category %}
@@ -41,9 +42,9 @@ permalink: categories/
         {% endfor %}
       </div>
       <a href="#" rel="modal:close">Close</a>
-    </div>
+    </div><!-- end modal-->
     {% endif %}
   {% endfor %}
   </div>
-  {% if count == 3 %}{% assign count = 0 %}<div class="clear"></div>{% endif %}
+  {% if count == 3 %}{% assign count = 0 %}</div>{% endif %}
 {% endfor %}
