@@ -9,6 +9,14 @@ body {
   background-color: #fff;
 }
 
+a {
+  color: #333;
+}
+
+a:hover {
+  color: #0790CA;
+}
+
 .column.main, #menu.column  {
   padding: 0;
   margin: 0;
@@ -65,8 +73,8 @@ label.inline{display:inline;width:auto;margin:0 20px 0 5px;}
 }
 
 #content {
-  background-color: #fff;
-  position: relative;
+  /*background-color: #fff;
+  position: relative;*/
 }
 
 .overlay-badge {
@@ -74,6 +82,23 @@ label.inline{display:inline;width:auto;margin:0 20px 0 5px;}
     right: 0;
     bottom: 0px;
     z-index: 999;
+  }
+
+  .wrapper.style2 {
+    background-color: #fff;
+    background-image: url("/html5up-arcana/assets/css/images/bg02.png"), url("/html5up-arcana/assets/css/images/bg03.png"), url("/html5up-arcana/assets/css/images/bg01.png");
+    background-position: top left,						bottom left,					top left;
+    background-size: 100% 6em,						100% 6em,						auto;
+    background-repeat: no-repeat,						no-repeat,						repeat;
+  }
+
+  .wrapper.style3 {
+    background-color: #37c0fb;
+    background-image: -moz-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("/html5up-arcana/assets/css/images/bg01.png");
+    background-image: -webkit-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("/html5up-arcana/assets/css/images/bg01.png");
+    background-image: -ms-linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("/html5up-arcana/assets/css/images/bg01.png");
+    background-image: linear-gradient(top, rgba(0,0,0,0), rgba(0,0,0,0.15)), url("/html5up-arcana/assets/css/images/bg01.png");
+    color: #fff;
   }
 
 #home-page-header-text {
