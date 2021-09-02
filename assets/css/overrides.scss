@@ -9,6 +9,10 @@ body {
   background-color: #fff;
 }
 
+div._hj_feedback_container button {
+  all:revert; /* Reset styles */
+}
+
 a {
   color: #333;
 }
