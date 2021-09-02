@@ -11,6 +11,8 @@ This skills framework gives a solid foundation on which to build:
 - job descriptions
 - career plans
 
+This website is currently owned by <a href="https://cabi.org" target="_blank">CABI</a> until we establish an independent body.
+
 #### How to use the framework
 
 The skills are organised by:
