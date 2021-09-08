@@ -6,7 +6,7 @@ import csv,yaml
 # column 1 = text
 # columns 2 onwards = boolean
 
-with open('Agriculture-Skills-Framework-Analysis-3.3.csv',mode='r') as csv_file:
+with open('Agriculture Skills Framework Analysis-20210908.csv',mode='r') as csv_file:
     datareader = csv.reader(csv_file, delimiter=",", quotechar='"')
     result = list()
 #    type_index = -1
@@ -52,14 +52,19 @@ with open('Agriculture-Skills-Framework-Analysis-3.3.csv',mode='r') as csv_file:
                 if cell_index == 8 and levels == []:
                     levels.append('NO LEVELS')
 
+                if cell_index == 12 and cell !="":
+                    content[data_headings[4]] = cell
+                if cell_index == 12 and cell == "":
+                    content[data_headings[4]] = "Description not yet defined"
+
                 content[data_headings[2]] = roles
                 content[data_headings[3]] = levels
-                content[data_headings[4]] = "Description placeholder"
+
 
 
 
             result.append(content)
-            print(result)
+            print(content[data_headings[0]])
             roles=[]
             levels=[]
 

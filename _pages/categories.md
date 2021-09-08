@@ -23,6 +23,7 @@ permalink: categories/
     <!-- The Modal -->
     <div id="ex{{ n }}" class="modal">
       <h4>{{ skill.title }}</h4>
+      <h5>Description</h5>
       <p>{{ skill.description }}</p>
       <div class="categories">
         <h5>Category</h5>
