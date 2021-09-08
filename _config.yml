@@ -18,7 +18,7 @@ title-abbr: SFA
 tagline: Professionalising agricultural advice
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Comprehensive, open and community-led framework to help analyse your skills gaps, training needs and career pathways.
+  Comprehensive, open and community-led framework to help analyse and define your skills gaps, training needs, job descriptions and career pathways.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://agricultureskills.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb

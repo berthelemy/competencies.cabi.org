@@ -7,8 +7,6 @@ title: Home
 ---
 <div class="col_12 center">
 
-<p>Please use the Feedback button to let us know whether you think this is useful, and how it could be improved.</p>
-
 <a href="{{ '/skills' | relative_url }}" class="button large">View all skills and levels</a></div>
 <div class="col_4">
   <h3>Extension workers</h3>

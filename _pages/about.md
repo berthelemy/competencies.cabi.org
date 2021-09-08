@@ -3,6 +3,13 @@ layout: default
 title: About
 permalink: about/
 ---
+<section class="col-12 wrapper style3">
+    <div class="box highlight">
+      <h3>Use the Feedback button to let us know how we could improve.</h3>
+    </div>
+</section>
+<div style="height: 10px;"></div>
+
 This skills framework gives a solid foundation on which to build:
 
 - training needs analysis
