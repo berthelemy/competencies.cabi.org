@@ -56,6 +56,15 @@
           </div>
         </div>
       </section>
+      <!-- CTA -->
+      <section id="cta" class="wrapper style3">
+        <div class="container">
+          <header>
+            <h2>Explore the framework</h2>
+            <a href="{{ '/skills' | relative_url }}" class="button">Start here</a>
+          </header>
+        </div>
+      </section>
 
     <!-- Gigantic Heading -->
       <section class="wrapper style2">
@@ -71,38 +80,36 @@
       <section class="wrapper style1">
         <div class="container">
           <div class="row">
-            <section class="col-6 col-12-narrower">
+            <section class="col-4 col-12-narrower">
               <div class="box post">
                 <a href="#" class="image left"><img src="images/pic01.jpg" alt="" /></a>
-                <div class="inner">
+                <div class="">
                   <h3>Extension workers</h3>
                   <p>Do you work for the government, an NGO or a private sector company?</p>
                   <p>Do you advise, organise and support farmers?</p>
-                  <p><a href="{{ '/skills-by-role/ew-skills' | relative_url }}">Skills for extension workers</a></p>
+
                 </div>
               </div>
             </section>
-            <section class="col-6 col-12-narrower">
+            <section class="col-4 col-12-narrower">
               <div class="box post">
                 <a href="#" class="image left"><img src="images/pic02.jpg" alt="" /></a>
-                <div class="inner">
+                <div class="">
                   <h3>Agri-dealer employees</h3>
                   <p>Do you work for an input supplier?</p>
                   <p>Do farmers come to you for advice?</p>
-                  <p><a href="{{ '/skills-by-role/ad-skills' | relative_url }}">Skills for agri-dealer employees</a></p>
+
                 </div>
               </div>
             </section>
-          </div>
-          <div class="row">
-            <section class="col-6 col-12-narrower">
+            <section class="col-4 col-12-narrower">
               <div class="box post">
                 <a href="#" class="image left"><img src="images/pic03.jpg" alt="" /></a>
-                <div class="inner">
+                <div class="">
                   <h3>Plant doctors</h3>
                   <p>Do you diagnose crop pests and diseases for farmers?</p>
                   <p>Do you advise them on how to manage the issues?</p>
-                  <p><a href="{{ '/skills-by-role/pd-skills' | relative_url }}">Skills for plant doctors</a></p>
+
                 </div>
               </div>
             </section>
@@ -116,18 +123,20 @@
               </div>
             </section>-->
           </div>
+          <div class="row">
+            <div class="col-4 col-12-narrower center">
+              <a class="button" href="{{ '/skills-by-role/ew-skills' | relative_url }}">Extension workers</a>
+            </div>
+            <div class="col-4 col-12-narrower center">
+              <a class="button" href="{{ '/skills-by-role/ad-skills' | relative_url }}">Agri-dealer employees</a>
+            </div>
+            <div class="col-4 col-12-narrower center">
+              <a class="button" href="{{ '/skills-by-role/pd-skills' | relative_url }}">Plant Doctors</a>
+            </div>
+          </div>
         </div>
       </section>
 
-    <!-- CTA -->
-      <section id="cta" class="wrapper style3">
-        <div class="container">
-          <header>
-            <h2>Explore the framework</h2>
-            <a href="{{ '/skills' | relative_url }}" class="button">Start here</a>
-          </header>
-        </div>
-      </section>
 
       <!-- Footer -->
         {% include footer.html %}

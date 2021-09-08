@@ -3,12 +3,6 @@ layout: default
 title: Skills analysis tool
 permalink: skills/
 ---
-Which roles are you looking at?
-
-Are you looking at people early in their career, or later?
-
-What types of skills do they need?
-
-Use the controls below to filter the skills.
+Use the controls below to find out which skills relate to which roles and responsibility levels.
 
 {% include grid.html %}
