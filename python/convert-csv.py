@@ -18,7 +18,7 @@ datetime = {
 with open('Agriculture Skills Framework Analysis-20211124.csv',mode='r') as csv_file:
     datareader = csv.reader(csv_file, delimiter=",", quotechar='"')
     result = list()
-    result.append(datetime)
+    # result.append(datetime) # Doesn't work when YAML is parsed
 #    type_index = -1
 #    child_fields_index = -1
 
