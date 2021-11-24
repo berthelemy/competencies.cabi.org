@@ -22,3 +22,30 @@
   img: Plantwise+_Logo.svg
   url: https://www.plantwise.org/
   active: TRUE
+- name: Young Professionals for Agriculural Development
+  url: https://ypard.net/
+  active: TRUE
+- name: Global Forum for Rural Advisory Services
+  url: https://www.g-fras.org/
+  active: TRUE
+- name: FAO
+  url: https://www.fao.org/
+  active: TRUE
+- name: Syngenta
+  url: https://www.syngenta.com/
+  active: TRUE
+- name: GIZ
+  url: https://www.giz.de/
+  active: TRUE
+- name: Rwanda Agriculture and Animal Resources Board
+  url: https://www.rab.gov.rw/
+  active: TRUE
+- name: Conservation Farming Unit
+  url: https://conservationagriculture.org/
+  active: TRUE
+- name: Esoko
+  url: https://esoko.com/
+  active: TRUE
+- name: Croplife Latin America
+  url: https://www.croplifela.org/
+  active: TRUE

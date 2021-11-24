@@ -1,26 +1,22 @@
 {% assign supporter-list = site.data.supporters | sort:"name" %}
 {% capture supporter-number %}{{ supporter-list.size }}{% endcapture %}
-{% assign half = supporter-number | divided_by: 2 %}
+{% assign countmax = supporter-number | divided_by: 3 | round %}
+{% assign count = 0 %}
 <section class="col-12">
   <h3>Contributors</h3>
 </section>
 <section class="col-3 col-6-narrower col-12-mobilep">
 
   <ul class="links">
-{% for supporter in supporter-list limit: half %}
+{% for supporter in supporter-list %}
+
 {% if supporter.active %}
     <li><a href="{{ supporter.url }}" target="_blank" title="{{ supporter.name }}">{{ supporter.name }}</a></li>
+    {% assign count = count | plus: 1 %}
     {% endif %}
-    {% endfor %}
-  </ul>
-</section>
-<section class="col-3 col-6-narrower col-12-mobilep">
-  
-  <ul class="links">
-{% for supporter in supporter-list offset: half %}
-{% if supporter.active %}
-    <li><a href="{{ supporter.url }}" target="_blank" title="{{ supporter.name }}">{{ supporter.name }}</a></li>
-    {% endif %}
+
+    {% if count == countmax %}</ul></section><section class="col-3 col-6-narrower col-12-mobilep"><ul class="links">{% assign count = 0 %}{% endif %}
+
     {% endfor %}
   </ul>
 </section>
