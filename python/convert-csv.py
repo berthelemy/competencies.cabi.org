@@ -1,4 +1,13 @@
-import csv,yaml
+import csv,yaml, time
+from datetime import datetime
+
+date = datetime.today().strftime('%Y-%m-%d')
+timestamp = time.strftime('%H-%M-%S')
+filename = "skills-"+date+"-"+timestamp+".yaml"
+datetime = {
+"date": date + " " + time.strftime('%H:%M:%S')
+}
+
 
 # Assumes csv file with these columns in this order:
 # skills,category,group,Plant doctors,Extension workers,Agri-dealer employees,Foundation,Practitioner,Advanced
@@ -6,16 +15,17 @@ import csv,yaml
 # column 1 = text
 # columns 2 onwards = boolean
 
-with open('Agriculture Skills Framework Analysis-20210908.csv',mode='r') as csv_file:
+with open('Agriculture Skills Framework Analysis-20211124.csv',mode='r') as csv_file:
     datareader = csv.reader(csv_file, delimiter=",", quotechar='"')
     result = list()
+    result.append(datetime)
 #    type_index = -1
 #    child_fields_index = -1
 
     for row_index, row in enumerate(datareader):
 
         if row_index == 0:
-    # let's do this once here
+    # let's do this once here - set the items for the dict
             data_headings = ["title", "category", "roles", "levels", "description"]
             #for heading_index, heading in enumerate(row):
             #    fixed_heading = heading.lower().replace(" ", "_").replace("-", "")
@@ -27,11 +37,11 @@ with open('Agriculture Skills Framework Analysis-20210908.csv',mode='r') as csv_
             for cell_index, cell in enumerate(row):
                 #print(row)
                 if cell_index == 0:
-                    content[data_headings[0]] = cell
+                    content[data_headings[0]] = cell # Set title
 
                 if cell_index == 1:
                     cell=cell.capitalize()
-                    content[data_headings[1]] = cell
+                    content[data_headings[1]] = cell # Set category
 
                 if cell_index == 3 and cell == "1":
                     roles.append('Plant doctors')
@@ -53,7 +63,7 @@ with open('Agriculture Skills Framework Analysis-20210908.csv',mode='r') as csv_
                     levels.append('NO LEVELS')
 
                 if cell_index == 12 and cell !="":
-                    content[data_headings[4]] = cell
+                    content[data_headings[4]] = cell # Description
                 if cell_index == 12 and cell == "":
                     content[data_headings[4]] = "Description not yet defined"
 
@@ -69,7 +79,8 @@ with open('Agriculture Skills Framework Analysis-20210908.csv',mode='r') as csv_
             levels=[]
 
         #print(result)
-        file = open("skills.yaml","w")
+
+        file = open(filename,"w")
         yaml.dump(result,file)
         file.close()
 #csv=
