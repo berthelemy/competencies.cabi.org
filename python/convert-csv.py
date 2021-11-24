@@ -7,6 +7,7 @@ filename = "skills-"+date+"-"+timestamp+".yaml"
 datetime = {
 "date": date + " " + time.strftime('%H:%M:%S')
 }
+version = datetime
 
 
 # Assumes csv file with these columns in this order:
@@ -18,7 +19,6 @@ datetime = {
 with open('Agriculture Skills Framework Analysis-20211124.csv',mode='r') as csv_file:
     datareader = csv.reader(csv_file, delimiter=",", quotechar='"')
     result = list()
-    # result.append(datetime) # Doesn't work when YAML is parsed
 #    type_index = -1
 #    child_fields_index = -1
 
@@ -82,6 +82,9 @@ with open('Agriculture Skills Framework Analysis-20211124.csv',mode='r') as csv_
 
         file = open(filename,"w")
         yaml.dump(result,file)
+        file.close()
+        file = open("version.yaml","w")
+        yaml.dump(version,file)
         file.close()
 #csv=
 #print (yaml.dump({'name': 'Silenthand Olleander', 'race': 'Human', 'traits': ['ONE_HAND', 'ONE_EYE']}))
