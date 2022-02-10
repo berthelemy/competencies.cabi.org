@@ -11,6 +11,8 @@ There is a lot to do...
 - We want to create good descriptors for each skill.
 - We want to get buy-in from countries and organisations across the world who will adopt the framework and use it with their people.
 
-The framework is available for all to use under a Creative Commons license. Consortium members have an additional license which allows them to use the framework for commercial purposes.
+The framework is available for all to use under a Creative Commons license.
 
-For more information about joining the consortium, please contact <a href="mailto: m.berthelemy@cabi.org">Mark Berthelemy</a>.
+The Skills for Agriculture Working Group holds regular online workshops over at the CABI Academy. If you don't have a CABI Academy account, you will be asked to create one.
+
+[Join the Skills for Agriculture Working Group](https://academy.cabi.org/course/view.php?id=149)
