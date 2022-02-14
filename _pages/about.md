@@ -3,12 +3,12 @@ layout: default
 title: About
 permalink: about/
 ---
-<section class="col-12 wrapper style3">
+<!--<section class="col-12 wrapper style3">
     <div class="box highlight">
       <h3>Use the Feedback button to let us know how we could improve.</h3>
     </div>
 </section>
-<div style="height: 10px;"></div>
+<div style="height: 10px;"></div>-->
 
 This skills framework gives a solid foundation on which to build:
 
@@ -19,6 +19,8 @@ This skills framework gives a solid foundation on which to build:
 - career plans
 
 This website is currently owned by <a href="https://cabi.org" target="_blank">CABI</a> until we establish an independent body.
+
+We are connected to the <a href="https://www.openskillsnetwork.org/" target="_blank">Open Skills Network</a>: a coalition of organisations and other stakeholders dedicated to advancing skills-based education and hiring.
 
 #### How to use the framework
 

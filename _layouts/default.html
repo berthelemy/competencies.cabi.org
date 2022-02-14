@@ -53,10 +53,10 @@
                 <article>
                   <header>
                     <h2>{{ page.title }}</h2>
-                    <p>{{ page.subtitle }}</p>
+                    {% if page.subtitle %}<p>{{ page.subtitle }}</p>{% endif %}
                   </header>
 
-                  <span class="image featured"><img src="images/banner.jpg" alt="" /></span>
+                  <!--<span class="image featured"><img src="images/banner.jpg" alt="" /></span>-->
 
                   {{ content }}
                 </article>
