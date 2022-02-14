@@ -1,0 +1,136 @@
+- category: Water management
+  description: ' Able to describe the risks of using untreated wastewater for irrigation
+    (e.g. fecal- oral contamination). Is able to explain how certain (e.g. flood)
+    irrigation practices can increase vector-borne disease. Is able to explain how
+    concepts of community-managed Multiple Use Water Services (MUS) relate to gender
+    equity. Able to describe preventive measures to reduce risk of associated illness
+    (use of mosquito nets, etc.). Able to explore, with farmers, the incidence of
+    diarrhea, malaria, etc. in a community. Able to link farmers to existing MUS where
+    they exist, supports their development where not yet existent.'
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - NO ROLE
+  title: Reduce illness risk from irrigation practices
+- category: Extension services
+  description: Able to evaluate the sources of information and only advise reliable
+    information. Able to take decision based on reliability of the information and
+    efficacy proved in the past. Able to evaluate the credibility of the information
+    based on the reliable sources. Able to identify and use only accurate sources
+    and channels of information, and are Able to make sure that farmers have heard
+    and fully understood any information correctly that is advised to them.
+  levels:
+  - Foundation
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Access reliable information
+- category: Record management
+  description: 'Able to see value in data collection and management. Able to document
+    important field information/ observations and maintain accurate records; Able
+    to accurately record qualitative and quantitative data;Able to select and handle
+    appropriate recording devices and tools to record the relevant required information;Able
+    to summarize analyze and interpret data for reporting; '
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Accurately record data
+- category: Project management
+  description: Description not yet defined
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Achieve organization's mission
+- category: Communication skills
+  description: "Identify elements of active listening and use them.\_"
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Actively listen
+- category: Agribusiness administration
+  description: 'Able to determine ways to raise money inside the business or from
+    several sources either by collecting outstanding debts, increasing prices, borrowing
+    money, negotiating better payment terms with suppliers and with customers, identifying
+    any non-core business assets that can be sold for cash or using factoring or invoice
+    discounting '
+  levels:
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Address cash shortages
+- category: Nutrition
+  description: "Able to describe how some groups of people, typically women, children,\
+    \ and disadvantaged groups, are more vulnerable to poor nutrition due to biological\
+    \ needs and socioeconomic reasons.\_Able to identify local groups of people who\
+    \ may be more vulnerable to poor nutrition. Able to demonstrate effective ways\
+    \ to dialogue with farmers about the nutritional needs of the vulnerable in their\
+    \ households. Able to facilitate farmers\u2019 examination of opportunities to\
+    \ improve nutrition of vulnerable persons within a household. Able to demonstrate\
+    \ effective engagement of vulnerable through interactions with diverse farmers.\
+    \ Able to support the efforts of colleagues (health, education sector) working\
+    \ to improve nutrition and food security, as well as those working to dismantle\
+    \ systems leading to inequity"
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Address needs of the nutritionally vulnerable '
+- category: Agribusiness administration
+  description: Description not yet defined
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Adjust to rapid changes/challenges
+- category: Agricultural marketing
+  description: "Able to use various pricing methods to properly allocate costs to\
+    \ products. The agrodealer can identify break-even points, scalculate costs and\
+    \ add a mark-up, set a price based on what the competition charges, set a price\
+    \ based on how much the customer believes what you\u2019re selling is worth, set\
+    \ a high price and lowering it as the market evolves or setting a low price to\
+    \ enter a competitive market and raising it later"
+  levels:
+  - Foundation
+  roles:
+  - Agri-dealer employees
+  title: Adopt appropriate pricing strategies
+- category: Advisory services
+  description: Able to advise based on IPM principles, Aware of Safe use of agrichemicals;
+    Aware of safe disposal procedures for agrichemicals; Able to recommend keeping
+    in mind pesticides laws and regulation
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Advice on safe input use
+- category: Advisory services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Advocate for thoughtful location of livestock '

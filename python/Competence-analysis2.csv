@@ -1,0 +1,135 @@
+skill,category,Plant doctors,Extension workers,Agri-dealer employees,Foundation,Practitioner,Advanced
+Run a plant clinic,DIAGNOSTICS,1,0,0,1,1,1
+Identify symptoms,DIAGNOSTICS,1,1,0,1,1,1
+Diagnose plant problems,DIAGNOSTICS,1,1,0,1,1,1
+Sample plants,DIAGNOSTICS,1,1,0,1,0,0
+Detect emerging pests,DIAGNOSTICS,1,1,0,1,0,0
+Facilitate change,PERSONAL SKILLS,1,1,0,0,1,0
+Implement extension campaigns,ADVISORY SERVICES,1,1,0,1,1,0
+Conduct field visits,ADVISORY SERVICES,1,1,0,1,1,0
+Design extension programmes,ADVISORY SERVICES,1,1,0,1,0,0
+Design survey instruments,MONITORING AND EVALUATION,1,1,0,0,0,1
+Write evaluation reports,MONITORING AND EVALUATION,1,1,0,0,1,1
+Initiate social networks,MINDSET CHANGE,1,0,1,0,1,1
+Achieve organization's mission,Business management,1,1,1,0,0,1
+Conduct participant observations,MONITORING AND EVALUATION,1,1,0,1,0,0
+Write field reports,ADVISORY SERVICES,1,1,0,0,1,0
+Conduct rural appraisals,MONITORING AND EVALUATION,1,1,0,0,1,0
+Recommend soil management approaches,ADVISORY SERVICES,1,1,0,1,1,0
+Respond to changing organization,Business management,1,1,1,1,0,0
+Mobilize resources,RESOURCE MANAGEMENT,1,1,1,1,1,1
+Identify different seed/fertilizer types,INPUTS,1,1,1,1,1,1
+Recommend value addition options,MARKETING,1,1,0,0,1,1
+Analyse soil nutrients,RESEARCH,1,1,1,0,0,0
+Communicate effectively,ADVISORY SERVICES,1,1,1,1,0,0
+Identify cultural implications,MINDSET CHANGE,1,0,1,0,1,0
+Implement extension service delivery,ADVISORY SERVICES,1,1,0,0,0,1
+Manage time,RESOURCE MANAGEMENT,1,1,1,1,1,1
+Conduct surveys,MONITORING AND EVALUATION,1,1,0,1,0,0
+Use appropriate ICTs,ADVISORY SERVICES,1,1,0,1,1,1
+Know product details,RESOURCE MANAGEMENT,1,1,1,1,1,1
+Manage groups/teamwork,PARTICIPATORY APPROACHES,1,1,0,1,1,1
+Educate on aggregating produce,ADVISORY SERVICES,1,1,1,0,1,0
+Collaborate to implement,Business management,1,1,0,1,1,0
+Calculate product costs,Business management,1,1,1,1,0,0
+Set personal goals,PERSONAL SKILLS,1,1,1,1,1,1
+Use gender sensitive approaches,ADVISORY SERVICES,1,1,1,1,0,0
+Recommend pesticides,ADVISORY SERVICES,1,1,1,1,1,1
+Select training methods,ADVISORY SERVICES,1,1,0,0,1,0
+Seek learning opportunities,PERSONAL SKILLS,1,1,1,1,1,1
+Recommend pest management approaches,ADVISORY SERVICES,1,1,1,1,1,1
+Write for media,PARTICIPATORY APPROACHES,1,1,0,0,0,1
+Prioritize needs/problems,Business management,1,1,1,0,1,0
+Interpret current farmer pratices,ADVISORY SERVICES,1,1,0,0,1,0
+Support value chain development,Business management,1,1,0,0,0,1
+Design solutions,RESEARCH,1,1,1,0,0,1
+Monitor performance / progress,MONITORING AND EVALUATION,1,1,1,0,1,0
+Regularly reconcile records,Business management,1,1,1,1,0,0
+Foster open communication environment,MINDSET CHANGE,1,1,1,1,1,1
+Access reliable information,ADVISORY SERVICES,1,1,1,1,0,1
+Engage youth,ADVISORY SERVICES,1,1,1,1,1,1
+Manage farmer relationship,ADVISORY SERVICES,1,1,1,1,1,1
+Persuade for change,MINDSET CHANGE,1,1,1,1,1,1
+Apply irrigation techniques,ADVISORY SERVICES,1,1,1,0,1,1
+Organize farmer field schools,PARTICIPATORY APPROACHES,1,1,0,1,1,1
+Conduct needs assessment,MONITORING AND EVALUATION,1,0,1,0,1,1
+Accurately record data,RESEARCH,1,1,1,1,0,0
+Analyse farmer context,ADVISORY SERVICES,1,1,0,1,0,0
+Recommend good farming practices,ADVISORY SERVICES,1,1,1,1,1,1
+Identify sources of inputs,ADVISORY SERVICES,1,1,1,0,1,0
+Manage relationships with government,RELATIONSHIP MANAGEMENT,1,1,1,0,0,1
+Manage relationships with financial institutions,RELATIONSHIP MANAGEMENT,1,1,1,0,0,1
+Manage relationship with input suppliers,RELATIONSHIP MANAGEMENT,1,1,1,0,0,1
+Link farmers to markets,MARKETING,1,1,0,1,1,1
+Advice on safe input use,ADVISORY SERVICES,1,1,1,1,1,1
+Analyse agro-ecological zone,ADVISORY SERVICES,1,1,1,0,1,0
+Design experiments,RESEARCH,1,1,1,0,1,1
+Give good customer service,PERSONAL SKILLS,1,1,1,1,0,0
+Identify problems,PERSONAL SKILLS,1,1,1,1,1,1
+Recognize others' contributions,PERSONAL SKILLS,1,1,1,1,1,1
+Manage relationships with government,RELATIONSHIP MANAGEMENT,1,1,1,0,0,1
+Carry out financial planning,FINANCE,1,1,1,0,1,1
+Appreciate gender differences,GENDER,1,1,1,1,1,1
+Apply critical thinking,PERSONAL SKILLS,1,1,1,1,1,1
+Calculate input ratios,ADVISORY SERVICES,1,1,1,0,0,0
+Recommend seeds and fertilizers,ADVISORY SERVICES,1,1,1,1,0,0
+Analyse solution’s cost/benefits,RESEARCH,1,1,1,1,1,1
+Actively listen,PERSONAL SKILLS,1,1,1,1,1,1
+Operate in transparency/ accountability,Business management,1,1,1,0,1,0
+Mobilize farmers,PERSONAL SKILLS,1,1,1,1,0,0
+Conduct field demonstrations,PARTICIPATORY APPROACHES,1,1,1,1,1,1
+Adopt  appropriate pricing strategies,Business management,0,0,1,1,0,0
+Handle chemicals safely,ADVISORY SERVICES,1,1,1,1,0,0
+Build networks,MONITORING AND EVALUATION,1,1,1,1,0,0
+Assess weather parameters,RESEARCH,1,1,1,1,0,0
+Understand group dynamics,PERSONAL SKILLS,1,1,1,1,1,1
+Manage uncertainties/ risks/ change,RISK MITIGATION,1,1,1,0,1,0
+Undertake basic safety checks,Business management,1,1,1,1,1,1
+Encourage teamwork and collaboration,PERSONAL SKILLS,1,1,1,1,0,0
+Forecast cash flow,FINANCE,1,1,1,0,1,1
+Operate agricultural machinery,INPUTS,1,1,1,0,1,1
+Consult with experts,ADVISORY SERVICES,1,1,1,0,0,0
+Identify types of business records,RECORD KEEPING,1,1,1,1,0,0
+Properly store inputs/stock,INPUTS,1,1,1,1,1,1
+Receive criticism and suggestions,PERSONAL SKILLS,1,1,1,1,0,0
+Build strategic partnerships,Business management,1,1,1,0,0,1
+Promote farm entrepreneurship,Business management,1,1,1,0,1,0
+Use records to meet expenses,Business management,0,0,1,1,1,1
+Analyse business opportunities,Business management,0,0,1,1,1,1
+Carry high turn-over stocks,Business management,0,0,1,0,1,0
+Understand leadership principles,PERSONAL SKILLS,1,1,0,0,0,1
+Conduct  organization's meetings,Business management,1,1,1,0,1,0
+Analyse input demand,INPUTS,1,1,1,1,0,0
+Maintain accurate records,RECORD KEEPING,1,1,1,0,1,1
+Correctly interpret records,Business management,1,1,1,1,0,0
+Facilitate access to credit/input supply,INPUTS,1,1,1,0,0,1
+Identify and resolve basic problems,Business management,1,1,1,1,1,1
+Provide market information,MARKETING,1,1,1,1,0,0
+Safely transport inputs,PARTICIPATORY APPROACHES,1,1,1,1,0,0
+Conduct focus group discussions,PARTICIPATORY APPROACHES,1,1,1,1,0,0
+Establish & monitor organization's objectives,Business management,1,1,1,0,0,1
+Manage working capital,FINANCE,1,1,1,0,1,0
+Manage risks / uncertainties / change,ADVISORY SERVICES,1,1,1,0,1,0
+Organize field days,PARTICIPATORY APPROACHES,1,1,1,1,0,0
+Make convincing presentations,MARKETING,1,1,1,1,0,0
+Create demand for products,MARKETING,1,1,1,1,0,0
+Monitor stock turnover,RESOURCE MANAGEMENT,0,0,1,1,1,1
+Implement marketing activities,MARKETING,0,0,1,0,1,1
+Monitor cash flows,FINANCE,0,0,1,0,1,1
+Address cash shortages,FINANCE,0,0,1,0,0,1
+Manage creditors' / debtors' records,FINANCE,0,0,1,1,1,1
+Manage stock records,RESOURCE MANAGEMENT,0,0,1,1,0,0
+Analyse consumer preferences,MARKETING,0,1,1,0,0,1
+Make business decisions,RESOURCE MANAGEMENT,0,0,1,0,1,1
+Increase sales over time,MARKETING,0,0,1,0,1,1
+Conduct market analysis,MARKETING,0,0,1,0,0,1
+Identify viable business models,MARKETING,0,0,1,0,0,0
+Understand customer requirements,MARKETING,0,0,1,0,1,1
+Design marketing strategies,MARKETING,0,0,1,0,0,0
+Treat customers ethically,PERSONAL SKILLS,0,0,1,1,1,1
+Maintain clean business premises,Business management,0,0,1,1,0,0
+Identify seed production processes,INPUTS,0,0,1,0,1,1
+Supply quality inputs,INPUTS,0,0,1,0,1,1
+Clearly display stock,INPUTS,0,0,1,1,1,1
+ Deliver inputs timely,INPUTS,0,0,1,0,1,0
+Maintain appropriate stock levels,INPUTS,0,0,1,0,1,0

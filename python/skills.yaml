@@ -1,0 +1,130 @@
+- category: Water management
+  description: Is able to help reduce the risk of vector-borne and fecal-oral diseases
+    and illnesses resulting from certain irrigation practices
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - NO ROLE
+  title: Reduce illness risk from irrigation practices
+- category: Extension services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Access reliable information
+- category: Record management
+  description: Description not yet defined
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Accurately record data
+- category: Project management
+  description: Description not yet defined
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Achieve organization's mission
+- category: Communication skills
+  description: "Identify elements of active listening and use them.\_"
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Actively listen
+- category: Agribusiness administration
+  description: Determine ways to raise money inside the business or from several sources
+  levels:
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Address cash shortages
+- category: Nutrition
+  description: Description not yet defined
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Address needs of the nutritionally vulnerable '
+- category: Agribusiness administration
+  description: Description not yet defined
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Adjust to rapid changes/challenges
+- category: Agricultural marketing
+  description: Use various pricing methods to properly allocate costs to products
+  levels:
+  - Foundation
+  roles:
+  - Agri-dealer employees
+  title: Adopt appropriate pricing strategies
+- category: Advisory services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Advice on safe input use
+- category: Advisory services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Advocate for thoughtful location of livestock '
+- category: Extension services
+  description: Description not yet defined
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse agro-ecological zone
+- category: Agribusiness administration
+  description: Look for opportunities to improve and expand the business
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Analyse business opportunities
+- category: Agricultural marketing
+  description: 'Identify consumers'' likes/dislikes, attitudes and behaviours toward
+    commodities and factors influencing their choices '
+  levels:
+  - Practitioner
+  roles:
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse consumer preferences
+- category: Extension services
+  description: Description not 

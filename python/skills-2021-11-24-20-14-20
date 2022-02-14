@@ -1,0 +1,359 @@
+- category: Water management
+  description: ' Able to describe the risks of using untreated wastewater for irrigation
+    (e.g. fecal- oral contamination). Is able to explain how certain (e.g. flood)
+    irrigation practices can increase vector-borne disease. Is able to explain how
+    concepts of community-managed Multiple Use Water Services (MUS) relate to gender
+    equity. Able to describe preventive measures to reduce risk of associated illness
+    (use of mosquito nets, etc.). Able to explore, with farmers, the incidence of
+    diarrhea, malaria, etc. in a community. Able to link farmers to existing MUS where
+    they exist, supports their development where not yet existent.'
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - NO ROLE
+  title: Reduce illness risk from irrigation practices
+- category: Extension services
+  description: Able to evaluate the sources of information and only advise reliable
+    information. Able to take decision based on reliability of the information and
+    efficacy proved in the past. Able to evaluate the credibility of the information
+    based on the reliable sources. Able to identify and use only accurate sources
+    and channels of information, and are Able to make sure that farmers have heard
+    and fully understood any information correctly that is advised to them.
+  levels:
+  - Foundation
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Access reliable information
+- category: Record management
+  description: 'Able to see value in data collection and management. Able to document
+    important field information/ observations and maintain accurate records; Able
+    to accurately record qualitative and quantitative data;Able to select and handle
+    appropriate recording devices and tools to record the relevant required information;Able
+    to summarize analyze and interpret data for reporting; '
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Accurately record data
+- category: Project management
+  description: Description not yet defined
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Achieve organization's mission
+- category: Communication skills
+  description: "Identify elements of active listening and use them.\_"
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Actively listen
+- category: Agribusiness administration
+  description: 'Able to determine ways to raise money inside the business or from
+    several sources either by collecting outstanding debts, increasing prices, borrowing
+    money, negotiating better payment terms with suppliers and with customers, identifying
+    any non-core business assets that can be sold for cash or using factoring or invoice
+    discounting '
+  levels:
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Address cash shortages
+- category: Nutrition
+  description: "Able to describe how some groups of people, typically women, children,\
+    \ and disadvantaged groups, are more vulnerable to poor nutrition due to biological\
+    \ needs and socioeconomic reasons.\_Able to identify local groups of people who\
+    \ may be more vulnerable to poor nutrition. Able to demonstrate effective ways\
+    \ to dialogue with farmers about the nutritional needs of the vulnerable in their\
+    \ households. Able to facilitate farmers\u2019 examination of opportunities to\
+    \ improve nutrition of vulnerable persons within a household. Able to demonstrate\
+    \ effective engagement of vulnerable through interactions with diverse farmers.\
+    \ Able to support the efforts of colleagues (health, education sector) working\
+    \ to improve nutrition and food security, as well as those working to dismantle\
+    \ systems leading to inequity"
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Address needs of the nutritionally vulnerable '
+- category: Agribusiness administration
+  description: Description not yet defined
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Adjust to rapid changes/challenges
+- category: Agricultural marketing
+  description: "Able to use various pricing methods to properly allocate costs to\
+    \ products. The agrodealer can identify break-even points, scalculate costs and\
+    \ add a mark-up, set a price based on what the competition charges, set a price\
+    \ based on how much the customer believes what you\u2019re selling is worth, set\
+    \ a high price and lowering it as the market evolves or setting a low price to\
+    \ enter a competitive market and raising it later"
+  levels:
+  - Foundation
+  roles:
+  - Agri-dealer employees
+  title: Adopt appropriate pricing strategies
+- category: Advisory services
+  description: Able to advise based on IPM principles, Aware of Safe use of agrichemicals;
+    Aware of safe disposal procedures for agrichemicals; Able to recommend keeping
+    in mind pesticides laws and regulation
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Advice on safe input use
+- category: Advisory services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Advocate for thoughtful location of livestock '
+- category: Extension services
+  description: Description not yet defined
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse agro-ecological zone
+- category: Agribusiness administration
+  description: 'Able to look for opportunities to improve and expand the business
+    by researching your customers and competition, getting a high level view of the
+    market and analyse business environment factors such as government regulations,
+    technological developments, social and cultural norms etc '
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Agri-dealer employees
+  title: Analyse business opportunities
+- category: Agricultural marketing
+  description: 'Identify consumers'' likes/dislikes, attitudes and behaviours toward
+    commodities and factors influencing their choices '
+  levels:
+  - Practitioner
+  roles:
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse consumer preferences
+- category: Extension services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Analyse farmer context
+- category: Input supply
+  description: Description not yet defined
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse input demand
+- category: Nutrition
+  description: "\_Able to identify where poor\_nutrition\_is contributing to bad health\
+    \ outcomes in individuals, families & communities.\_\_Able to propose improvements\
+    \ in\_nutrition\_which will lead to improved health outcomes. These outcomes may\
+    \ include \u201Cinfant, child and maternal health, stronger immune systems, safer\
+    \ pregnancy and childbirth, lower risk of non-communicable diseases (such as diabetes\
+    \ and cardiovascular disease), and longevity\"."
+  levels:
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Analyse nutrition''s contribution to health '
+- category: Crop management
+  description: Description not yet defined
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Analyse soil nutrients
+- category: Agribusiness administration
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: "Analyse solution\u2019s cost/benefits"
+- category: Value chain development
+  description: 'Able to conduct a step by step market analysis that includes: gathering
+    data on consumer interest and demand for crop/product in question, assessing marketing
+    structure and points for possible sale, exploring alternate marketing options.
+    Able to assist Farmer Based Organizations and Marketing Associations in analyzing
+    demand for highly nutritious crops and products, such as legumes, poultry and
+    eggs, meat, fresh and processed vegetables and fruit, nuts, etc'
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Analyze markets for nutrition value chains '
+- category: Advisory services
+  description: 'Able to clearly state the purpose and objectives of your lesson or
+    workshop, instruct through hands-on learning so that instruction is task-oriented
+    instead of memorization-based, focus on application and on the quality of a few
+    experiences, not on the quantity of information. Able to apply principles such
+    as: Tell adults what you''re about to tell them; Organize your material for presentation
+    in a logical order; Resist the temptation to try to tell them everything; Understand
+    what you want the adults to do with the information you are presenting; Know when
+    to teach and when to learn; Help the adults transfer the concepts to their own
+    lives'
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: Apply adult learning principles
+- category: Soft skills
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Apply critical thinking
+- category: Gender
+  description: Able to identify and describe gendered roles and division of labor
+    in a household, on the farm, in processing, marketing, and in the community at
+    large and develop targeted interventions on how to improve production of various
+    crops and livestock.
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: "Apply gender analysis\_integration principles"
+- category: Advisory services
+  description: 'Able to describe types and characteristics of groups: primary groups,
+    secondary groups, planned groups and emergent groups that are characterized group
+    interaction, interdependence, structure, size, norms, roles, group goals and cohesion.
+    Able to facilitate group formation through forming (promoting inclusiveness, encouraging
+    people to be connected to one another), storming (able to accept differing ideas,
+    discuss those ideas in the groups, amicably handle the conflict that may arise,
+    and examine and address biases), norming (able to demonstrate that the group processes
+    are free and fair and that members feel welcomed, informed and involved), performing
+    (encourage group members, celebrate group success, and empower members to learn
+    new skills) and adjourning (facilitate the smooth transition of a group to either
+    dissolve or move to a more advanced stage, depending on how members want the group
+    go).'
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Apply group dynamics principles
+- category: Water management
+  description: Able to advise farmers the best management practices for irrigation
+    management;Knowledge of Improved Irrigation Technologies and irrigation sceduling
+    methods and tools
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Apply irrigation techniques
+- category: Relationship management
+  description: Description not yet defined
+  levels:
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  title: Apply leadership principles
+- category: Nutrition
+  description: Ensure extension methods integrate nutrition specific goals and actions
+    in the household and community level
+  levels:
+  - Practitioner
+  - Advanced
+  roles:
+  - Extension workers
+  title: 'Apply nutrition-sensitive extension approaches '
+- category: Advisory services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Apply youth inclusive approaches
+- category: Gender
+  description: Description not yet defined
+  levels:
+  - Foundation
+  - Practitioner
+  - Advanced
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Appreciate gender differences
+- category: Extension services
+  description: Description not yet defined
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Assess weather parameters
+- category: Relationship management
+  description: Description not yet defined
+  levels:
+  - Foundation
+  roles:
+  - Plant doctors
+  - Extension workers
+  - Agri-dealer employees
+  title: Build networks
