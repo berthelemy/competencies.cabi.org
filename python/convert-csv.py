@@ -16,7 +16,7 @@ version = datetime
 # column 1 = text
 # columns 2 onwards = boolean
 
-with open('Agriculture Skills Framework Analysis-20211124.csv',mode='r') as csv_file:
+with open('Agriculture Skills Framework Analysis-20220215.csv',mode='r') as csv_file:
     datareader = csv.reader(csv_file, delimiter=",", quotechar='"')
     result = list()
 #    type_index = -1
@@ -36,35 +36,35 @@ with open('Agriculture Skills Framework Analysis-20211124.csv',mode='r') as csv_
             levels = []
             for cell_index, cell in enumerate(row):
                 #print(row)
-                if cell_index == 0:
+                if cell_index == 2:
                     content[data_headings[0]] = cell # Set title
 
-                if cell_index == 1:
+                if cell_index == 3:
                     cell=cell.capitalize()
                     content[data_headings[1]] = cell # Set category
 
-                if cell_index == 3 and cell == "1":
-                    roles.append('Plant doctors')
-                if cell_index == 4 and cell == "1":
-                    roles.append('Extension workers')
                 if cell_index == 5 and cell == "1":
+                    roles.append('Plant doctors')
+                if cell_index == 6 and cell == "1":
+                    roles.append('Extension workers')
+                if cell_index == 7 and cell == "1":
                     roles.append('Agri-dealer employees')
 
-                if cell_index == 6 and cell == "1":
-                    levels.append('Foundation')
-                if cell_index == 7 and cell == "1":
-                    levels.append('Practitioner')
                 if cell_index == 8 and cell == "1":
+                    levels.append('Foundation')
+                if cell_index == 9 and cell == "1":
+                    levels.append('Practitioner')
+                if cell_index == 10 and cell == "1":
                     levels.append('Advanced')
 
-                if cell_index == 5 and roles == []:
+                if cell_index == 7 and roles == []:
                     roles.append('NO ROLE')
-                if cell_index == 8 and levels == []:
+                if cell_index == 10 and levels == []:
                     levels.append('NO LEVELS')
 
-                if cell_index == 12 and cell !="":
+                if cell_index == 14 and cell !="":
                     content[data_headings[4]] = cell # Description
-                if cell_index == 12 and cell == "":
+                if cell_index == 14 and cell == "":
                     content[data_headings[4]] = "Description not yet defined"
 
                 content[data_headings[2]] = roles

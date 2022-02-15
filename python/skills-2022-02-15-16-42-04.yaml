@@ -1,5 +1,4 @@
-- category: Water management
-  description: ' Able to describe the risks of using untreated wastewater for irrigation
+- description: ' Able to describe the risks of using untreated wastewater for irrigation
     (e.g. fecal- oral contamination). Is able to explain how certain (e.g. flood)
     irrigation practices can increase vector-borne disease. Is able to explain how
     concepts of community-managed Multiple Use Water Services (MUS) relate to gender
@@ -13,8 +12,7 @@
   roles:
   - Extension workers
   title: S001 - Reduce illness risk from irrigation practices
-- category: Extension services
-  description: Able to evaluate the sources of information and only advise reliable
+- description: Able to evaluate the sources of information and only advise reliable
     information. Able to take decision based on reliability of the information and
     efficacy proved in the past. Able to evaluate the credibility of the information
     based on the reliable sources. Able to identify and use only accurate sources
@@ -28,8 +26,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S002 - Access reliable information
-- category: Record management
-  description: 'Able to see value in data collection and management. Able to document
+- description: 'Able to see value in data collection and management. Able to document
     important field information/ observations and maintain accurate records; Able
     to accurately record qualitative and quantitative data;Able to select and handle
     appropriate recording devices and tools to record the relevant required information;Able
@@ -41,8 +38,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S003 - Accurately record data
-- category: Project management
-  description: Align project management goals with broader organizational goals. Success
+- description: Align project management goals with broader organizational goals. Success
     of a project is defined by the degree to which a project helps the organization
     to achieve business goals.
   levels:
@@ -52,8 +48,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S004 - Achieve organization's mission
-- category: Communication skills
-  description: Identify elements of active listening to make a conscious effort to
+- description: Identify elements of active listening to make a conscious effort to
     hear the words that another person is saying and the complete message being communicated.
   levels:
   - Foundation
@@ -64,8 +59,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S005 - Actively listen
-- category: Agribusiness administration
-  description: 'Able to determine ways to raise money inside the business or from
+- description: 'Able to determine ways to raise money inside the business or from
     several sources either by collecting outstanding debts, increasing prices, borrowing
     money, negotiating better payment terms with suppliers and with customers, identifying
     any non-core business assets that can be sold for cash or using factoring or invoice
@@ -75,8 +69,7 @@
   roles:
   - Agri-dealer employees
   title: S006 - Address cash shortages
-- category: Nutrition
-  description: "Able to describe how some groups of people, typically women, children,\
+- description: "Able to describe how some groups of people, typically women, children,\
     \ and disadvantaged groups, are more vulnerable to poor nutrition due to biological\
     \ needs and socioeconomic reasons.\_Able to identify local groups of people who\
     \ may be more vulnerable to poor nutrition. Able to demonstrate effective ways\
@@ -93,8 +86,7 @@
   roles:
   - Extension workers
   title: 'S007 - Address needs of the nutritionally vulnerable '
-- category: Agribusiness administration
-  description: Able to take a strucutured approach to understanding and planning for
+- description: Able to take a strucutured approach to understanding and planning for
     change,  implementing interventions and communicating these effectively.
   levels:
   - Practitioner
@@ -104,8 +96,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S008 - Adjust to rapid changes/challenges
-- category: Agricultural marketing
-  description: "Able to use various pricing methods to properly allocate costs to\
+- description: "Able to use various pricing methods to properly allocate costs to\
     \ products. The agrodealer can identify break-even points, scalculate costs and\
     \ add a mark-up, set a price based on what the competition charges, set a price\
     \ based on how much the customer believes what you\u2019re selling is worth, set\
@@ -116,8 +107,7 @@
   roles:
   - Agri-dealer employees
   title: S009 - Adopt appropriate pricing strategies
-- category: Advisory services
-  description: Able to advise based on IPM principles, Aware of Safe use of agrichemicals;
+- description: Able to advise based on IPM principles, Aware of Safe use of agrichemicals;
     Aware of safe disposal procedures for agrichemicals; Able to recommend keeping
     in mind pesticides laws and regulation
   levels:
@@ -129,8 +119,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S010 - Advice on safe input use
-- category: Advisory services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -138,8 +127,7 @@
   roles:
   - Extension workers
   title: 'S011 - Advocate for thoughtful location of livestock '
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -148,8 +136,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S012 - Analyse agro-ecological zone
-- category: Agribusiness administration
-  description: 'Able to look for opportunities to improve and expand the business
+- description: 'Able to look for opportunities to improve and expand the business
     by researching your customers and competition, getting a high level view of the
     market and analyse business environment factors such as government regulations,
     technological developments, social and cultural norms etc '
@@ -160,8 +147,7 @@
   roles:
   - Agri-dealer employees
   title: S013 - Analyse business opportunities
-- category: Agricultural marketing
-  description: 'Identify consumers'' likes/dislikes, attitudes and behaviours toward
+- description: 'Identify consumers'' likes/dislikes, attitudes and behaviours toward
     commodities and factors influencing their choices '
   levels:
   - Practitioner
@@ -169,16 +155,14 @@
   - Extension workers
   - Agri-dealer employees
   title: S014 - Analyse consumer preferences
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
   - Plant doctors
   - Extension workers
   title: S015 - Analyse farmer context
-- category: Input supply
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -186,8 +170,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S016 - Analyse input demand
-- category: Nutrition
-  description: "\_Able to identify where poor\_nutrition\_is contributing to bad health\
+- description: "\_Able to identify where poor\_nutrition\_is contributing to bad health\
     \ outcomes in individuals, families & communities.\_\_Able to propose improvements\
     \ in\_nutrition\_which will lead to improved health outcomes. These outcomes may\
     \ include \u201Cinfant, child and maternal health, stronger immune systems, safer\
@@ -198,8 +181,7 @@
   roles:
   - Extension workers
   title: 'S017 - Analyse nutrition''s contribution to health '
-- category: Crop management
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -208,8 +190,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S018 - Analyse soil nutrients
-- category: Agribusiness administration
-  description: Able to make key decisions based on an analysis of the potential reward
+- description: Able to make key decisions based on an analysis of the potential reward
     of an intervention against the associated cost. Costs may be financial as well
     as moral or image based for the organization. The opportunity cost of an intervention
     is also often considered as part of the analysis.
@@ -222,8 +203,7 @@
   - Extension workers
   - Agri-dealer employees
   title: "S019 - Analyse solution\u2019s cost/benefits"
-- category: Value chain development
-  description: 'Able to conduct a step by step market analysis that includes: gathering
+- description: 'Able to conduct a step by step market analysis that includes: gathering
     data on consumer interest and demand for crop/product in question, assessing marketing
     structure and points for possible sale, exploring alternate marketing options.
     Able to assist Farmer Based Organizations and Marketing Associations in analyzing
@@ -235,8 +215,7 @@
   roles:
   - Extension workers
   title: 'S020 - Analyze markets for nutrition value chains '
-- category: Advisory services
-  description: 'Able to clearly state the purpose and objectives of your lesson or
+- description: 'Able to clearly state the purpose and objectives of your lesson or
     workshop, instruct through hands-on learning so that instruction is task-oriented
     instead of memorization-based, focus on application and on the quality of a few
     experiences, not on the quantity of information. Able to apply principles such
@@ -251,8 +230,7 @@
   roles:
   - Extension workers
   title: S021 - Apply adult learning principles
-- category: Soft skills
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -262,8 +240,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S022 - Apply critical thinking
-- category: Gender
-  description: Able to identify and describe gendered roles and division of labor
+- description: Able to identify and describe gendered roles and division of labor
     in a household, on the farm, in processing, marketing, and in the community at
     large and develop targeted interventions on how to improve production of various
     crops and livestock.
@@ -273,8 +250,7 @@
   roles:
   - Extension workers
   title: "S023 - Apply gender analysis\_integration principles"
-- category: Advisory services
-  description: 'Able to describe types and characteristics of groups: primary groups,
+- description: 'Able to describe types and characteristics of groups: primary groups,
     secondary groups, planned groups and emergent groups that are characterized group
     interaction, interdependence, structure, size, norms, roles, group goals and cohesion.
     Able to facilitate group formation through forming (promoting inclusiveness, encouraging
@@ -295,8 +271,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S024 - Apply group dynamics principles
-- category: Water management
-  description: Able to advise farmers the best management practices for irrigation
+- description: Able to advise farmers the best management practices for irrigation
     management;Knowledge of Improved Irrigation Technologies and irrigation sceduling
     methods and tools
   levels:
@@ -307,8 +282,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S025 - Apply irrigation techniques
-- category: Relationship management
-  description: Clearly communicate a vision for the wider team, and support this vision
+- description: Clearly communicate a vision for the wider team, and support this vision
     with strong processes and wider infrastructure. Work to create a strong working
     culture that fosters an environment of trust and high morale. Create standards
     and practices for strong and clear communication. Take time to connect with colleagues
@@ -320,8 +294,7 @@
   - Plant doctors
   - Extension workers
   title: S026 - Apply leadership principles
-- category: Nutrition
-  description: Ensure extension methods integrate nutrition specific goals and actions
+- description: Ensure extension methods integrate nutrition specific goals and actions
     in the household and community level
   levels:
   - Practitioner
@@ -329,8 +302,7 @@
   roles:
   - Extension workers
   title: 'S027 - Apply nutrition-sensitive extension approaches '
-- category: Advisory services
-  description: Actively seek youth participation and enlist youth specialists in project
+- description: Actively seek youth participation and enlist youth specialists in project
     design. Design activities that are specific to different age groups. Offer youth
     follow-on support and consider the entire supportive environment that influences
     youth decisions and behaviors, including family, community, institutions, and
@@ -345,8 +317,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S028 - Apply youth inclusive approaches
-- category: Gender
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -356,8 +327,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S029 - Appreciate gender differences
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -365,8 +335,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S030 - Assess weather parameters
-- category: Relationship management
-  description: Build networks to exchange information, socialize, learn, and connect
+- description: Build networks to exchange information, socialize, learn, and connect
     with peers on a regular, ongoing basis. Build community by creating new friendships
     and business partnerships and deepen existing ones. Provide education and mentoring
     opportunities. Target specific audiences with shared interests and concerns. Engage
@@ -380,8 +349,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S031 - Build networks
-- category: Relationship management
-  description: Clearly define the scope and scale of goals and define the principles
+- description: Clearly define the scope and scale of goals and define the principles
     for a partnership, including common goals and process of development. Outline
     key milestones for achieving goals and identify potential partners who can enable
     these milestones to be reached, examining the motivations for potential partner
@@ -396,8 +364,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S032 - Build strategic partnerships
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -406,8 +373,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S033 - Calculate input ratios
-- category: Agricultural marketing
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -415,8 +381,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S034 - Calculate product costs
-- category: Agricultural marketing
-  description: Able to strategically display promotional material to inform customers
+- description: Able to strategically display promotional material to inform customers
     of products and their costs
   levels:
   - Foundation
@@ -425,16 +390,14 @@
   roles:
   - Agri-dealer employees
   title: S035 - Carefully display billboards and price tags
-- category: Stock management
-  description: Able to stock and clearly display products that sell fast in a given
+- description: Able to stock and clearly display products that sell fast in a given
     period of time and determine their profit margin
   levels:
   - Practitioner
   roles:
   - Agri-dealer employees
   title: S036 - Carry high turn-over stocks
-- category: Agribusiness administration
-  description: Manage finances to meet business goals and protect assets and the future
+- description: Manage finances to meet business goals and protect assets and the future
     of the business. This involves cashflow planning, identification of differences
     in planned versus actual spending and income and implications and solutions for
     the differences identified.
@@ -445,8 +408,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S037 - Carry out financial planning
-- category: Gender
-  description: "Is able to channel information about women\u2019s needs to other actors\
+- description: "Is able to channel information about women\u2019s needs to other actors\
     \ involved in technology design, use, and dissemination by engaging in discussions\
     \ with agricultural researchers, input suppliers, and/or technology designers\
     \ about the needs of women farmers for input into new technologies. Is able to\
@@ -464,8 +426,7 @@
   - Plant doctors
   - Extension workers
   title: "S038 - Channels women\u2019s needs to actors"
-- category: Stock management
-  description: Able to carefully design the shop layout taking into account visibilty
+- description: Able to carefully design the shop layout taking into account visibilty
     and ease of reach of items, grouping similar items together, colour scheme that
     reflects natural light that brightens the premises
   levels:
@@ -475,8 +436,7 @@
   roles:
   - Agri-dealer employees
   title: S039 - Clearly display stock
-- category: Relationship management
-  description: "Able to implement extension programs by coordinating activities and\
+- description: "Able to implement extension programs by coordinating activities and\
     \ collaborating with development partners within their assigned area or communities\
     \ by building teamwork, involving local stakeholders and negotiating when conflicts\
     \ arise.\_"
@@ -487,8 +447,7 @@
   - Plant doctors
   - Extension workers
   title: S040 - Collaborate to implement
-- category: Advisory services
-  description: "Is able to communicate the disease risks posed by specific livestock\
+- description: "Is able to communicate the disease risks posed by specific livestock\
     \ and practices in a given locale (if known), and promotes alternative actions\
     \ and preventive measures. Is able to explain the interactions between livestock\
     \ production, water quality, and infectious disease. Able to explain appropriate\
@@ -501,8 +460,7 @@
   roles:
   - Extension workers
   title: S041 - Communicate disease risks by specific livestock
-- category: Communication skills
-  description: "Able to persuade people to change their methods of cultivation or\
+- description: "Able to persuade people to change their methods of cultivation or\
     \ adopt innovative practices or technologies.\_This is by effectively listening\
     \ to what his/her audience says and use language and content that members of the\
     \ target groups can understand"
@@ -513,8 +471,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S042 - Communicate effectively
-- category: Communication skills
-  description: Positively interact with community leaders to enable them become skilled
+- description: Positively interact with community leaders to enable them become skilled
     teachers in the community
   levels:
   - Foundation
@@ -524,8 +481,7 @@
   - Plant doctors
   - Extension workers
   title: S043 - Communicate effectively with community leaders
-- category: Project management
-  description: Recognise the requirement for a meeting and set a clear and focussed
+- description: Recognise the requirement for a meeting and set a clear and focussed
     agenda to meet the meeting objective. Select appropriate meeting participants,
     facilitate effective participation and summarise meeting actions and outcomes.
   levels:
@@ -536,8 +492,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S044 - Conduct organization's meetings
-- category: Gender
-  description: Is able to apply principles for integrating gender analysis by identifying
+- description: Is able to apply principles for integrating gender analysis by identifying
     and describing gendered roles and division of labor in a household, on the farm,
     in processing, marketing, and in the community at large. Is able to identify and
     describe gender-based constraints related to the design, use, or dissemination
@@ -550,8 +505,7 @@
   - Plant doctors
   - Extension workers
   title: "S045 - Conduct basic gender analysis\_"
-- category: Participatory approaches
-  description: Able to identify the specific needs of a community and find ways of
+- description: Able to identify the specific needs of a community and find ways of
     addressing those needs through moderating and facilitiating discussions of community
     members that gather to deliberate issues and find solutions to the issues in a
     majority consensus manner
@@ -562,8 +516,7 @@
   roles:
   - Extension workers
   title: S046 - Conduct community forums
-- category: Advisory services
-  description: Able to use practical on-farm teaching to show step by step how to
+- description: Able to use practical on-farm teaching to show step by step how to
     carry out a practice or an activity, benefits of adopting a new practice or both.
     The trainer should foster farmer participation in simple, clear cut demonstrations
     in a conducive learning environment . Able to carefully plan the demonstration
@@ -580,8 +533,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S047 - Conduct field demonstrations
-- category: Extension services
-  description: Able to conduct farm and home visits to either get acquainted and explain
+- description: Able to conduct farm and home visits to either get acquainted and explain
     the basics of extension service, respond to some need expressed by a farm family,
     teach in a comfortable environment and build relationships with farmers, or to
     gather information and conduct needs assessment
@@ -592,8 +544,7 @@
   - Plant doctors
   - Extension workers
   title: S048 - Conduct field visits
-- category: Advisory services
-  description: "Able to facilitate discussions among a group of people often with\
+- description: "Able to facilitate discussions among a group of people often with\
     \ some common background, interests, and goals focusing on an issue, product,\
     \ or service to seek group members\u2019 opinions, thoughts, and perceptions.\
     \ Able to determine the purpose of the focus groups, develop a plan, identify\
@@ -606,8 +557,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S049 - Conduct focus group discussions
-- category: Agricultural marketing
-  description: Able to research on market trends, competitors, customer preferences,
+- description: Able to research on market trends, competitors, customer preferences,
     demand, factors influencing the market, major challenges and opportunities and
     make decisions on realistic business opportunities in the market.
   levels:
@@ -615,8 +565,7 @@
   roles:
   - Agri-dealer employees
   title: S050 - Conduct market analysis
-- category: Monitoring and evaluation
-  description: 'Able to search out and identify needs and problems relevant to different
+- description: 'Able to search out and identify needs and problems relevant to different
     stakeholders in a community, that establish gaps between where a community is
     and where they would like to be, in order to design innovations and programmings
     compatible with beneficiaries. Able to conduct a needs assessment by identifying
@@ -631,8 +580,7 @@
   - Plant doctors
   - Agri-dealer employees
   title: S051 - Conduct needs assessment
-- category: Monitoring and evaluation
-  description: Able to gather information about behavioral actions and reactions through
+- description: Able to gather information about behavioral actions and reactions through
     direct observation, interviews with key informants and participation in the activities
     being evaluated. These participant observations can either be direct and indirect,
     or a combination of the two and entail preparation (Identify sources of information
@@ -650,8 +598,7 @@
   - Plant doctors
   - Extension workers
   title: S052 - Conduct participant observations
-- category: Participatory approaches
-  description: Able to conduct rapid rural appraisals (RRA) by incorporating the knowledge
+- description: Able to conduct rapid rural appraisals (RRA) by incorporating the knowledge
     and opinions of rural people in the planning and management of development projects
     and programs through multiple data collection techniques that are quick, flexible,
     and adaptive. Able to conduct Participatory Rural Appraisal (PRA) to interact
@@ -666,8 +613,7 @@
   - Plant doctors
   - Extension workers
   title: S053 - Conduct rural appraisals
-- category: Project management
-  description: "Able to identify where the program is needed; who the program beneficiaries\
+- description: "Able to identify where the program is needed; who the program beneficiaries\
     \ are; what strengths, weaknesses, opportunities and threats exist in the community;\
     \ and what ancillary factors are necessary for the program\u2019s success. The\
     \ situation analysis may involve consultation with key informants and experts\
@@ -679,8 +625,7 @@
   roles:
   - Extension workers
   title: S054 - Conduct situational analysis
-- category: Project management
-  description: 'Able to identify relevant stakeholders and their interests, influence
+- description: 'Able to identify relevant stakeholders and their interests, influence
     and impact on program design and implementation and outline a stakeholder participation
     strategy in order to capture multiple perspectives, promote team building and
     establish credibility. '
@@ -690,8 +635,7 @@
   roles:
   - Extension workers
   title: S055 - Conduct stakeholder analysis
-- category: Monitoring and evaluation
-  description: 'Able to use appropriate survey tools to collect data on participants''
+- description: 'Able to use appropriate survey tools to collect data on participants''
     knowledge, attitude, skills and adoption practices that entail deploying survey
     questionnaires which may be administered through mail, online/Internet, telephone
     and in person. Able to increase the benefit and decrease the cost of participation
@@ -708,8 +652,7 @@
   - Plant doctors
   - Extension workers
   title: S056 - Conduct surveys
-- category: Communication skills
-  description: "Connects content to be shared to community members\u2019 experiences\
+- description: "Connects content to be shared to community members\u2019 experiences\
     \ and needs. Describes a personal learning that was relevant and examined what\
     \ made it so.\_Decide on concrete actions to connect key content to people\u2019\
     s personal needs and facilitates a community discussion connecting a key piece\
@@ -723,8 +666,7 @@
   - Plant doctors
   - Extension workers
   title: 'S057 - Connects content to be shared '
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -732,8 +674,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S058 - Consult with experts
-- category: Record management
-  description: Apply the appropriate data interpretation method to the data available.
+- description: Apply the appropriate data interpretation method to the data available.
     Apply a critical perspective and reflect on any known or unconscious biases that
     may influence the interpretation of the records.
   levels:
@@ -743,8 +684,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S059 - Correctly interpret records
-- category: Agricultural marketing
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -752,16 +692,14 @@
   - Extension workers
   - Agri-dealer employees
   title: S060 - Create demand for products
-- category: Input supply
-  description: Supply inputs whilst considering the season, time and arising circumstances
+- description: Supply inputs whilst considering the season, time and arising circumstances
   levels:
   - Foundation
   - Practitioner
   roles:
   - Agri-dealer employees
   title: S061 - Deliver inputs timely
-- category: Soft skills
-  description: Able to define what respect looks like and practice specific actions
+- description: Able to define what respect looks like and practice specific actions
     of showing courtesy, politeness and kindness with men and women and commit to
     at least two specific actions to be mindful of in interactions with stakeholders.
   levels:
@@ -772,8 +710,7 @@
   - Plant doctors
   - Extension workers
   title: S062 - Demonstrates respect
-- category: Nutrition
-  description: "Describe nutrition actions that lead to positive health outcomes.\
+- description: "Describe nutrition actions that lead to positive health outcomes.\
     \ Motivate farming households and value chain actors to identify how nutrition\
     \ affects them\_"
   levels:
@@ -782,8 +719,7 @@
   roles:
   - Extension workers
   title: 'S063 - Describe nutrition actions for positive health '
-- category: Gender
-  description: "Is able to describe the key issues related to gender, extension and\
+- description: "Is able to describe the key issues related to gender, extension and\
     \ advisory services, and agricultural technologies through identifying gendered\
     \ differences in production, access and control of resources including information\
     \ and technology, participation in groups. Is able to identify the role of extension\
@@ -796,8 +732,7 @@
   roles:
   - Extension workers
   title: "S064 - Describe technology design gender issues\_"
-- category: Nutrition
-  description: "Able to describe the relationship between seasonal food availability,\
+- description: "Able to describe the relationship between seasonal food availability,\
     \ fluctuations in income, food and nutrition security and health by explaining\
     \ why food & nutrition security means consuming foods from all the food groups,\
     \ all year round. Able to engage communities in planning for better food access\
@@ -814,8 +749,7 @@
   roles:
   - Extension workers
   title: S065 - Describe food & nutrition security relationship
-- category: Monitoring and evaluation
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -824,8 +758,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S066 - Design experiments
-- category: Project management
-  description: Identify the purpose of the extension programme, being clear about
+- description: Identify the purpose of the extension programme, being clear about
     what the programme is aiming to achieve. Identify the target audience and be clear
     on the needs of the audience from mutliple perspectives. Develop objectives and
     clearly define success. Create tasks and a structure for implementation. Design
@@ -836,16 +769,14 @@
   - Plant doctors
   - Extension workers
   title: S067 - Design extension programmes
-- category: Agricultural marketing
-  description: Design approaches to win customers to your business by considering
+- description: Design approaches to win customers to your business by considering
     price, product, location and promotion
   levels:
   - Advanced
   roles:
   - Agri-dealer employees
   title: S068 - Design marketing strategies
-- category: Monitoring and evaluation
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Advanced
   roles:
@@ -853,8 +784,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S069 - Design solutions
-- category: Monitoring and evaluation
-  description: Able to design survey tools for data collection, research and monitoring
+- description: Able to design survey tools for data collection, research and monitoring
     and evaluation that have clear questions, simple and respondents are willing to
     respond to. Able to develop survey instruments that measure what is intended to
     measure and capture accurate measures of the concept of interest; and that also
@@ -865,16 +795,14 @@
   - Plant doctors
   - Extension workers
   title: S070 - Design survey instruments
-- category: Crop diagnostics
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
   - Plant doctors
   - Extension workers
   title: S071 - Detect emerging pests
-- category: Project management
-  description: Able to write a proposal explaining a problem or local needs, the reasons
+- description: Able to write a proposal explaining a problem or local needs, the reasons
     for those problems or needs, and  how these can be addressed through a special
     project supported with funding typically from outside your extension organization.
     The grant proposal should include a detailed plan for addressing the local problem
@@ -886,8 +814,7 @@
   roles:
   - Extension workers
   title: S072 - Develop grant proposal
-- category: Project management
-  description: Able to develop detailed outline of activities, processes and timelines
+- description: Able to develop detailed outline of activities, processes and timelines
     to attain extension goals that follow SMART (Specific, Measurable, Attainable,
     Realistic and Time-bound) principles. The principles should help you specify what
     you will do for whom. Expected outputs and outcomes should be measurable. The
@@ -901,8 +828,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S073 - Develop work plan
-- category: Crop diagnostics
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -911,8 +837,7 @@
   - Plant doctors
   - Extension workers
   title: S074 - Diagnose plant problems
-- category: Crop management
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   roles:
@@ -920,8 +845,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S075 - Educate on aggregating produce
-- category: Water management
-  description: Able to explain the importance of adopting agricultural practices that
+- description: Able to explain the importance of adopting agricultural practices that
     reduce the risk of infection. Able to explain the contribution of infection and
     illness, and diarrhea in particular, to poor nutrition. Able to name specific
     practices that can contribute to improved health and nutrition.  Able to explain
@@ -935,8 +859,7 @@
   roles:
   - Extension workers
   title: S076 - Encourage agricultural practices for WASH
-- category: Relationship management
-  description: The ability to work effectively with others on a common task; taking
+- description: The ability to work effectively with others on a common task; taking
     actions which respect the needs and contributions of others; contributing to and
     accepting the consensus; negotiating a win-win solution to achieve the objectives
     of the team.
@@ -947,8 +870,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S077 - Encourage teamwork and collaboration
-- category: Advisory services
-  description: Identify opportunities in encouraging youth participation in agriculture
+- description: Identify opportunities in encouraging youth participation in agriculture
   levels:
   - Foundation
   - Practitioner
@@ -958,8 +880,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S078 - Engage and retain youth
-- category: Project management
-  description: Clearly define organizational objectives which are agreed to by both
+- description: Clearly define organizational objectives which are agreed to by both
     management and employees. Objectives should be Specific, Measurable, Achievable,
     Relevant and Time-bound (SMART).
   levels:
@@ -969,8 +890,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S079 - Establish & monitor organization's objectives
-- category: Project management
-  description: Able to set up and operationalize structures to develop a model village
+- description: Able to set up and operationalize structures to develop a model village
     through stakeholder identification, identifying target villages, understanding
     situation through relevant data, institution building, implementation of action
     plans, monitoring and evaluation
@@ -980,8 +900,7 @@
   roles:
   - Extension workers
   title: S080 - Establish a model village
-- category: Agricultural marketing
-  description: Able to estimate capital required and return on investment for investments
+- description: Able to estimate capital required and return on investment for investments
     in nutrition-sensitive value chains by conducting a market analysis that analyses
     demand for nutrition rich products
   levels:
@@ -991,8 +910,7 @@
   - Plant doctors
   - Extension workers
   title: 'S081 - Estimate capital for nutrition value chains '
-- category: Chemical use
-  description: "Able to explain agrochemical preparation and application practices,\
+- description: "Able to explain agrochemical preparation and application practices,\
     \ timing of application, and consumption of treated produce. Able to explain meaning\
     \ of product labeling. Able to delay field re-entry and consumption of treated\
     \ products\_"
@@ -1005,8 +923,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S082 - Explain agrochemical application practices
-- category: Chemical use
-  description: 'Able to explain the viable alternatives to spraying or agrochemical
+- description: 'Able to explain the viable alternatives to spraying or agrochemical
     use, that is: the different types of agrochemical products and their safety classifications,
     which products are appropriate for what use, how to safely apply agrochemicals
     and why product contamination is important and why safety periods are required
@@ -1020,8 +937,7 @@
   - Plant doctors
   - Extension workers
   title: S083 - Explain integrated pest management options
-- category: Nutrition
-  description: 'Able to explain the nutritional value of specific foods and food groups,
+- description: 'Able to explain the nutritional value of specific foods and food groups,
     and the importance of consuming a variety of foods. Able to explain the value
     of fresh produce to a diverse diet and list key micronutrients and describes specific
     contribution foods make to health, growth, etc. '
@@ -1032,8 +948,7 @@
   roles:
   - Extension workers
   title: 'S084 - Explain nutritional value of specific foods '
-- category: Input supply
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Advanced
   roles:
@@ -1041,8 +956,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S085 - Facilitate access to credit/input supply
-- category: Soft skills
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -1050,8 +964,7 @@
   - Plant doctors
   - Extension workers
   title: S086 - Facilitate change
-- category: Soft skills
-  description: Able to conduct effective meetings by deciding on the goals and desired
+- description: Able to conduct effective meetings by deciding on the goals and desired
     outcomes of the meeting, identifying participants, choosing an appropriate meeting
     time and venue. Able to set up and run the meeting by taking into account information
     that participants will share, how participants are involved in discussion and
@@ -1067,8 +980,7 @@
   roles:
   - Extension workers
   title: S087 - Facilitate meetings
-- category: Agribusiness administration
-  description: Record expenses and income as they occur in the business
+- description: Record expenses and income as they occur in the business
   levels:
   - Practitioner
   - Advanced
@@ -1077,8 +989,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S088 - Forecast cash flow
-- category: Soft skills
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1088,8 +999,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S089 - Foster open communication environment
-- category: Agricultural marketing
-  description: Listen and understand a customer's needs and circumstances. Communicate
+- description: Listen and understand a customer's needs and circumstances. Communicate
     professionally, positively and effectively, offering informed solutions to the
     issues and needs identified. Understand the customer's emotions and point of view,
     responding to customers in an empathertic and timely manner.
@@ -1100,8 +1010,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S090 - Give good customer service
-- category: Chemical use
-  description: 'Able to advise on safe transport, storage, farm use and disposal of
+- description: 'Able to advise on safe transport, storage, farm use and disposal of
     chemicals; Able to advise based on pesticide label restrictions '
   levels:
   - Foundation
@@ -1110,8 +1019,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S091 - Handle chemicals safely
-- category: Agricultural marketing
-  description: Sort out complaints on time without avoiding them
+- description: Sort out complaints on time without avoiding them
   levels:
   - Foundation
   - Practitioner
@@ -1119,8 +1027,7 @@
   roles:
   - Agri-dealer employees
   title: S092 - Handle complaints promptly
-- category: Participatory approaches
-  description: Is able to analyze who has power over, power with, power to and power
+- description: Is able to analyze who has power over, power with, power to and power
     within. Is able to distinguish between visible power and hidden power to ensure
     inclusive extension services are delivered. Is able to facilitate discussions
     about power with community to identify ways to improve extension programs.
@@ -1130,8 +1037,7 @@
   roles:
   - Extension workers
   title: S093 - Identifies community's power dynamics
-- category: Participatory approaches
-  description: Is able to identify who are the group members, how they joined the
+- description: Is able to identify who are the group members, how they joined the
     groups and whether anyone is excluded. Able to identify which groups have written
     or unwritten rules and whether the groups limit membership to the elite, to men
     only, to certain castes and who can be leaders; negotiates with leaders of diverse
@@ -1143,8 +1049,7 @@
   roles:
   - Extension workers
   title: S094 - Identifies formal/ informal groups
-- category: Gender
-  description: "Able to identify specific actions to improve women\u2019s access to\
+- description: "Able to identify specific actions to improve women\u2019s access to\
     \ and use of agricultural technologies by sharing information about different\
     \ technologies to both men and women farmers and entrepreneurs and facilitating\
     \ group discussions between men and women farmers and entrepreneurs about different\
@@ -1156,8 +1061,7 @@
   - Plant doctors
   - Extension workers
   title: "S095 - Identifies opportunities for women\u2019s access to technologies\_"
-- category: Agribusiness administration
-  description: 'IS THIS THE SAME A ROW 132: ''Make business decisions'' ?'
+- description: 'IS THIS THE SAME A ROW 132: ''Make business decisions'' ?'
   levels:
   - Foundation
   - Practitioner
@@ -1167,16 +1071,14 @@
   - Extension workers
   - Agri-dealer employees
   title: S096 - Identify and resolve basic problems
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   roles:
   - Plant doctors
   - Agri-dealer employees
   title: S097 - Identify cultural implications in communication
-- category: Input supply
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1186,8 +1088,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S098 - Identify different seed/fertilizer types
-- category: Nutrition
-  description: "Able to identify why and promote a diversity of foods that contribute\
+- description: "Able to identify why and promote a diversity of foods that contribute\
     \ to health and nutrition\_by naming  food groups (~6- 9 depending on local FBDG),\
     \ and constituent local foods for each group. Able to describe specific contribution\
     \ foods make to health, growth, etc. Able to explain the value of fresh produce\
@@ -1202,8 +1103,7 @@
   roles:
   - Extension workers
   title: 'S099 - Identify diversity of foods '
-- category: Gender
-  description: "Identify the role of extension and advisory services in improving\
+- description: "Identify the role of extension and advisory services in improving\
     \ women\u2019s access to and use of agricultural technologies.\_"
   levels:
   - Practitioner
@@ -1211,8 +1111,7 @@
   roles:
   - Extension workers
   title: 'S100 - Identify extension roles to improve technologies'' access '
-- category: Nutrition
-  description: Able to identify fruits, crops, meat/fish that can be grown/raised
+- description: Able to identify fruits, crops, meat/fish that can be grown/raised
     in the local context that can meet specific nutrient deficiencies of targeted
     population using basic food groups related to dietary deficiencies and engage
     farmers in identifying foods for local production, linking them to meeting specific
@@ -1223,8 +1122,7 @@
   roles:
   - Extension workers
   title: S101 - Identify foods meeting nutrition needs
-- category: Agricultural marketing
-  description: "Able to identify marketing opportunities for nutritious products that\
+- description: "Able to identify marketing opportunities for nutritious products that\
     \ will be affordable for many consumers\_. Able to analyze market opportunities\
     \ for nutrition-sensitive value chains. Able to estimate capital required and\
     \ return on investment for investments in nutrition-sensitive value chains. Able\
@@ -1242,8 +1140,7 @@
   roles:
   - Extension workers
   title: 'S102 - Identify markets for nutritious products  '
-- category: Communication skills
-  description: "Is able to identify communication mechanisms that will reach, be understood\
+- description: "Is able to identify communication mechanisms that will reach, be understood\
     \ by, and be useful to both men and women farmers. Is able to describe why specific\
     \ communication mechanisms may or may not be accessible and appropriate for men\
     \ or women farmers in their area. Is able to identify strategies for adapting\
@@ -1259,8 +1156,7 @@
   - Plant doctors
   - Extension workers
   title: 'S103 - Identify men/women''s communication mechanisms '
-- category: Gender
-  description: "Is able identify challenges facing women or men to participating in\
+- description: "Is able identify challenges facing women or men to participating in\
     \ or benefiting from value chain development activities based on their different\
     \ roles and responsibilities in value chains. Is able to identify and describe\
     \ gender-based constraints at different nodes of the agricultural value chain,\
@@ -1278,8 +1174,7 @@
   roles:
   - Extension workers
   title: 'S104 - Identify men/women''s value chain challenges '
-- category: Gender
-  description: Is able to identify opportunities for men and women farmers and entrepreneurs
+- description: Is able to identify opportunities for men and women farmers and entrepreneurs
     to participate within different agricultural value chains and in different positions.
     Is able to map actors and their roles along a value chain and provide information
     to both men and women farmers and rural entrepreneurs that enhance their abilities
@@ -1291,8 +1186,7 @@
   roles:
   - Extension workers
   title: 'S105 - Identify men/women''s value chains opportunities '
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1302,8 +1196,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S106 - Identify problems
-- category: Gender
-  description: 'Able to identify health problems that result from inappropriate labor
+- description: 'Able to identify health problems that result from inappropriate labor
     practices for perinatal & lactating women by describing the risks of having perinatal
     women (pregnancy and through 40 days postpartum) perform heavy labor (ex. prenatal:
     increased risk of premature labor and consequent risks to mother, baby; postpartum:
@@ -1315,8 +1208,7 @@
   roles:
   - Extension workers
   title: 'S107 - Identify problems from wrong labor practices '
-- category: Agribusiness administration
-  description: Determine how to breakdown capital for various uses to meet different
+- description: Determine how to breakdown capital for various uses to meet different
     business demands
   levels:
   - Foundation
@@ -1325,8 +1217,7 @@
   roles:
   - Agri-dealer employees
   title: S108 - Identify purpose of working capital
-- category: Input supply
-  description: Describes stages and techniques used to produce viable seed from pre-planting
+- description: Describes stages and techniques used to produce viable seed from pre-planting
     to post harvest
   levels:
   - Practitioner
@@ -1334,8 +1225,7 @@
   roles:
   - Agri-dealer employees
   title: S109 - Identify seed production processes
-- category: Input supply
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   roles:
@@ -1343,8 +1233,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S110 - Identify sources of inputs
-- category: Crop diagnostics
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1353,8 +1242,7 @@
   - Plant doctors
   - Extension workers
   title: S111 - Identify symptoms
-- category: Record management
-  description: Able to identify different types of records for future references,
+- description: Able to identify different types of records for future references,
     keeping track of business transactions, filing of taxes and compiling final accounts.
     These records include Credit records, Debtors records, Production records, Cash
     book, Purchases records, Stock records, Assets records
@@ -1365,8 +1253,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S112 - Identify types of business records
-- category: Agribusiness administration
-  description: Identify appropriate business patterns that create and maintain productive
+- description: Identify appropriate business patterns that create and maintain productive
     agribusinesses
   levels:
   - Practitioner
@@ -1374,8 +1261,7 @@
   roles:
   - Agri-dealer employees
   title: S113 - Identify viable business models
-- category: Participatory approaches
-  description: "Is able to identify and describe important aspects of identity such\
+- description: "Is able to identify and describe important aspects of identity such\
     \ as gender, race, class and age.\_Is able to facilitate discussions with communities\
     \ about inclusive extension programs "
   levels:
@@ -1385,8 +1271,7 @@
   roles:
   - Extension workers
   title: "S114 - Identify where individuals fit in communities\_"
-- category: Project management
-  description: Able to organize and implement a strategically planned and problem-solving
+- description: Able to organize and implement a strategically planned and problem-solving
     program aimed at increasing the awareness/knowledge level of a group of target
     beneficiaries, and changing their attitudes and/or behavior toward favorable adoption
     of a given idea, technology, product or practice. Implementing a campaign requires
@@ -1399,8 +1284,7 @@
   - Plant doctors
   - Extension workers
   title: S115 - Implement extension campaigns
-- category: Project management
-  description: Deliver a defined, people-centred programme that is simple and managable,
+- description: Deliver a defined, people-centred programme that is simple and managable,
     provides differentiation, is delivered in collaboration with different organisations
     where applicable, is responsive to local needs and concerns and ultimately improves
     people's capacities to participate .
@@ -1410,8 +1294,7 @@
   - Plant doctors
   - Extension workers
   title: S116 - Implement extension service delivery
-- category: Gender
-  description: "Is able to identify and challenge underlying gender norms that inhibit\
+- description: "Is able to identify and challenge underlying gender norms that inhibit\
     \ women\u2019s equitable participation and ability to benefit from agricultural\
     \ activities. Is able to facilitate processes that encourage others to identify\
     \ and challenge gender norms that negatively impact both men and women farmers.\
@@ -1424,8 +1307,7 @@
   - Plant doctors
   - Extension workers
   title: S117 - Implement gender-transformative approaches
-- category: Agricultural marketing
-  description: Able to execute activities that enhance product development, promotion,
+- description: Able to execute activities that enhance product development, promotion,
     sales and customer service
   levels:
   - Practitioner
@@ -1433,8 +1315,7 @@
   roles:
   - Agri-dealer employees
   title: S118 - Implement marketing activities
-- category: Value chain development
-  description: "Able to promote opportunities for men and women farmers and entrepreneurs\
+- description: "Able to promote opportunities for men and women farmers and entrepreneurs\
     \ to improve participation in agricultural value chain through identifying specific\
     \ actions to improve men\u2019s and women\u2019s participation, providing differentiated\
     \ support to men and women farmers (when needed) in adopting new techniques to\
@@ -1448,8 +1329,7 @@
   roles:
   - Extension workers
   title: S119 - Improve men/women's value chain participation
-- category: Agricultural marketing
-  description: Use appropriate ways to boost business sales such as improve selling
+- description: Use appropriate ways to boost business sales such as improve selling
     skills, treat customers ethically, improve promotion methods
   levels:
   - Practitioner
@@ -1457,8 +1337,7 @@
   roles:
   - Agri-dealer employees
   title: S120 - Increase sales over time
-- category: Relationship management
-  description: Network to build relationships and mutual interaction benefiting both
+- description: Network to build relationships and mutual interaction benefiting both
     parties. Be proactive in developing and following up with a network of contacts
     that can be accessed quickly. Use social networks, both in person and online,
     to discover new ideas and trends, connect with existing and new contacts in deeper
@@ -1469,16 +1348,14 @@
   - Plant doctors
   - Agri-dealer employees
   title: S121 - Initiate social networks
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   roles:
   - Plant doctors
   - Extension workers
   title: S122 - Interpret current farmer pratices
-- category: Advisory services
-  description: Actively track innovations and developments in farming related technologies,
+- description: Actively track innovations and developments in farming related technologies,
     specifically those relating to producing using new techniques, increasing efficiencies,
     and cross-industry technologies and applications. Advisory information related
     to technology should be context specific, highlighting potential obstacles, additional
@@ -1493,8 +1370,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S123 - Keep abreast with new ICTs
-- category: Input supply
-  description: Able to describe what you sell, its quality and benefit to customers
+- description: Able to describe what you sell, its quality and benefit to customers
   levels:
   - Foundation
   - Practitioner
@@ -1504,8 +1380,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S124 - Know product details
-- category: Value chain development
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1514,16 +1389,14 @@
   - Plant doctors
   - Extension workers
   title: S125 - Link farmers to markets
-- category: Agricultural marketing
-  description: Find out about your customer, their tastes, needs and budget
+- description: Find out about your customer, their tastes, needs and budget
   levels:
   - Practitioner
   - Advanced
   roles:
   - Agri-dealer employees
   title: S126 - List customer requirements
-- category: Nutrition
-  description: Able to provide examples of farm products (including cultivated and
+- description: Able to provide examples of farm products (including cultivated and
     wild plants, animal-source foods, and fish) which contribute to improved dietary
     diversity, and are appropriate for the market context
   levels:
@@ -1533,8 +1406,7 @@
   roles:
   - Extension workers
   title: S127 - Lists farm products for dietary diversity
-- category: Record management
-  description: Utilize tools to maintain accurate and comprehensive records to measure
+- description: Utilize tools to maintain accurate and comprehensive records to measure
     efficiency and progress, better understand strengths, weaknesses and productivity
     levels, and provide insights for developing best practice. Good record keeping
     also promotes safety and tracability and drives business growth.
@@ -1545,8 +1417,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S128 - Maintain accurate records
-- category: Stock management
-  description: Able to determine appropriate levels of stocking for different items
+- description: Able to determine appropriate levels of stocking for different items
     driven by storage space, item's shelf-life, storage conditions required, market
     availability, stocking as much as isexpects to sell until the next purchase of
     stocks
@@ -1555,16 +1426,14 @@
   roles:
   - Agri-dealer employees
   title: S129 - Maintain appropriate stock levels
-- category: Agribusiness administration
-  description: Able to keep the facilities and surrounding areas neat and clean to
+- description: Able to keep the facilities and surrounding areas neat and clean to
     form lasting positive impression about the business
   levels:
   - Foundation
   roles:
   - Agri-dealer employees
   title: S130 - Maintain clean business premises
-- category: Agribusiness administration
-  description: Identify a goal and clearly define the decision that needs to be made,
+- description: Identify a goal and clearly define the decision that needs to be made,
     being as specific as possible, linking the significance of the decision to wider
     organizational goals. Obtain the relevant and necessary information, assess the
     risks and consequences and weigh the alternatives options. Implement the decision
@@ -1575,8 +1444,7 @@
   roles:
   - Agri-dealer employees
   title: S131 - Make business decisions
-- category: Communication skills
-  description: Able to deliver effective presentations by identifying your audience's
+- description: Able to deliver effective presentations by identifying your audience's
     interests and background, preparing the topic, message and how to convey it by
     use of verbal and non-verbal cues among others
   levels:
@@ -1586,8 +1454,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S132 - Make convincing presentations
-- category: Record management
-  description: "Able to accurately record information for each customer to whom credit\
+- description: "Able to accurately record information for each customer to whom credit\
     \ is extended and repayment of credit by recording the date, details of what was\
     \ exchanged, the amount of the transaction,\nentered under \u201Cowed\u201D or\
     \ \u201Cpaid,\u201D as appropriate, and the running balance of credit owed or\
@@ -1599,8 +1466,7 @@
   roles:
   - Agri-dealer employees
   title: S133 - Manage creditors / debtors' records
-- category: Relationship management
-  description: Understands the social and cultural background of farmers to offer
+- description: Understands the social and cultural background of farmers to offer
     advice that fits in with the structure and culture of the society within which
     the farmer operates. This may involve better understanding the aims, expectations
     and restrictions of different age groups, being sensitive to gender roles and
@@ -1622,8 +1488,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S134 - Manage farmer relationship
-- category: Relationship management
-  description: "Able to identify status of the teams and use diverse strategies to\
+- description: "Able to identify status of the teams and use diverse strategies to\
     \ nurture and strengthen teamwork through commitment to a common goal, mutual\
     \ trust, communication with team members, members\u2019 involvement and process\
     \ orientation. Able to foster teamwork by starting with team goals and specific,\
@@ -1641,8 +1506,7 @@
   - Plant doctors
   - Extension workers
   title: S135 - Manage groups / teamwork
-- category: Advisory services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1651,8 +1515,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S136 - Manage nurseries
-- category: Relationship management
-  description: Understand the goals and objectives of both the project and for the
+- description: Understand the goals and objectives of both the project and for the
     client and their wider organisation. Provide timely and thorough communication
     with clients to foster a strong working relationship where clients feel listened
     to and that their concerns and ideas will be heard and taken seriously. Utilise
@@ -1672,8 +1535,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S137 - Manage relationship with clients
-- category: Input supply
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Advanced
   roles:
@@ -1681,8 +1543,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S138 - Manage relationship with input suppliers
-- category: Relationship management
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Advanced
   roles:
@@ -1690,8 +1551,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S139 - Manage relationships with financial institutions
-- category: Relationship management
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Advanced
   roles:
@@ -1699,8 +1559,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S140 - Manage relationships with government
-- category: Agribusiness administration
-  description: Able to identify risks based on the exposure and vulnerability of individuals
+- description: Able to identify risks based on the exposure and vulnerability of individuals
     and the context they find themselves in, measure identified hazards in terms of
     their severity and likelihood and analyse major risks in order to take steps to
     decrease their likelihood and severity.
@@ -1712,15 +1571,13 @@
   - Extension workers
   - Agri-dealer employees
   title: S141 - Manage risks / uncertainties / change
-- category: Stock management
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
   - Agri-dealer employees
   title: S142 - Manage stock records
-- category: Soft skills
-  description: Able to spend time to maximize productivity by planning and setting
+- description: Able to spend time to maximize productivity by planning and setting
     realistic goals, assessing how you spend time,  prioritizing tasks, breaking complex
     task to smaller ones, effectively, scheduling your tasks, maintain flexibility
     in work schedules and delgate tasks.
@@ -1733,8 +1590,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S143 - Manage time
-- category: Agribusiness administration
-  description: Handling and maintaining capital to sustain business operations
+- description: Handling and maintaining capital to sustain business operations
   levels:
   - Practitioner
   roles:
@@ -1742,8 +1598,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S144 - Manage working capital
-- category: Crop management
-  description: Able to list, understand, describe, and discuss simple, low- cost techniques/
+- description: Able to list, understand, describe, and discuss simple, low- cost techniques/
     technologies that minimize post- harvest losses (e.g., cold boxes, picking times,
     washing). Describe the basic causes of post- harvest losses  during harvest, storage,
     and preparation at home, focusing on highly nutritious foods most vulnerable to
@@ -1764,8 +1619,7 @@
   roles:
   - Extension workers
   title: 'S145 - Minimize post-harvest losses '
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -1773,8 +1627,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S146 - Mobilize farmers
-- category: Agribusiness administration
-  description: Able to develop a strategy to pool resources such as funds, public
+- description: Able to develop a strategy to pool resources such as funds, public
     and private institutions, physical assets, individual skills, leadership skills
     and personal networks, from various sources and use them on the programs and beneficiaries
     that need them the most
@@ -1787,8 +1640,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S147 - Mobilize resources
-- category: Agribusiness administration
-  description: Able to track cash coming into and going out of the business to better
+- description: Able to track cash coming into and going out of the business to better
     predict cash flow shortfalls (or surpluses) and organise debt finance by using
     a cash flow template to records total monthly cash inflow/outflow, net cash flow,
     opening and closing balance
@@ -1798,8 +1650,7 @@
   roles:
   - Agri-dealer employees
   title: S148 - Monitor cash flows
-- category: Monitoring and evaluation
-  description: "Able to track key indicators of progress over the course of a program\
+- description: "Able to track key indicators of progress over the course of a program\
     \ and track resources (e.g., funds, personnel and supplies) and processes (e.g.,\
     \ occurrence of meetings, number of participants, demonstrations and publications).\_"
   levels:
@@ -1810,8 +1661,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S149 - Monitor performance / progress
-- category: Stock management
-  description: Able to track how much is expected to sell until purchase of next stock
+- description: Able to track how much is expected to sell until purchase of next stock
     and consider fluctuations due to seasonality demand of items and able to subtract
     remaining stock from the previous period's sale to determine amount to restock.
   levels:
@@ -1821,8 +1671,7 @@
   roles:
   - Agri-dealer employees
   title: S150 - Monitor stock turnover
-- category: Advisory services
-  description: Able to efficiently operate agricultural machinery by reading and complying
+- description: Able to efficiently operate agricultural machinery by reading and complying
     with the manuals, dressing appropriately, avoiding alcohol and ensuring you are
     well rested, mainatain awareness of what you are doing, keeing children and animals
     away from working areas and adjusting equipment accordingly
@@ -1833,8 +1682,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S151 - Operate agricultural machinery
-- category: Soft skills
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   roles:
@@ -1842,8 +1690,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S152 - Operate in transparency/ accountability
-- category: Advisory services
-  description: Able to use field schools to aid farmers learn by doing within their
+- description: Able to use field schools to aid farmers learn by doing within their
     own environment by identifying topics, site and participants and by training facilitators.
     Able to establish and run farmer field schools by identifying enterprise for which
     FFS is established, follow the seasonal cycle of the practice being investigated,
@@ -1857,8 +1704,7 @@
   - Plant doctors
   - Extension workers
   title: S153 - Organize farmer field schools
-- category: Extension services
-  description: 'Able to organize informal daylong events where farmers showcase new
+- description: 'Able to organize informal daylong events where farmers showcase new
     agricultural practices, technologies and products adopted; while considering the
     program, price, place, people to attend and how to promote the field day. '
   levels:
@@ -1868,8 +1714,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S154 - Organize field days
-- category: Participatory approaches
-  description: Able to orient farmer-based organizations to be member-oriented. Is
+- description: Able to orient farmer-based organizations to be member-oriented. Is
     able to develop examples of how Farmer Based Organizations can be structured and
     operate to respond to member needs.Is able to describe the importance of and challenges
     with delivering gender-responsive services. Is able to work with members and/or
@@ -1881,8 +1726,7 @@
   roles:
   - Extension workers
   title: 'S155 - Orient farmer-based organizations '
-- category: Soft skills
-  description: Able to influence habits and behaviours by communicating a compelling
+- description: Able to influence habits and behaviours by communicating a compelling
     need for change, getting people involved in proposing and making changes and committing
     to the change yourself in action, whilst expecting it to take time.
   levels:
@@ -1894,8 +1738,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S156 - Persuade for change
-- category: Nutrition
-  description: Able to engage communities in planning for better food access to nutritious
+- description: Able to engage communities in planning for better food access to nutritious
     foods. This can be done through developing a seasonal calendar with a farmer group,
     and a plan to address gaps or/and serve as a conduit to information and needed
     inputs to support farmers in attaining year- round food & nutrition security.
@@ -1905,8 +1748,7 @@
   roles:
   - Extension workers
   title: 'S157 - Plans access to nutritious foods '
-- category: Soft skills
-  description: Able to work with participants to ascribe importance to each need by
+- description: Able to work with participants to ascribe importance to each need by
     using various prioritizing methods and put them in descending or ascending order
     of importance. Importance of a need can be determined by mission relatedness,
     urgency, size of the gap and number of people affected. Able to determine feasibility
@@ -1918,8 +1760,7 @@
   - Plant doctors
   - Extension workers
   title: S158 - Prioritize needs / problems
-- category: Gender
-  description: Able to promote alternative activities and practices based on biological
+- description: Able to promote alternative activities and practices based on biological
     limitations and gender-related tasks. These alternatives can include distributions
     of labor that allow perinatal women to rest or do lighter work, gender- responsive
     technologies that reduce workload.. Able to also evaluate local practices related
@@ -1931,8 +1772,7 @@
   roles:
   - Extension workers
   title: "S159 - Promote alternatives on gender-related tasks\_"
-- category: Nutrition
-  description: 'Able to promote a diversity of foods that contribute to health and
+- description: 'Able to promote a diversity of foods that contribute to health and
     nutrition through engaging value chain actors to improve market pull and access
     to diverse foods and recommending production practices that supports dietary diversity
     and nutrition needs of targeted population '
@@ -1943,8 +1783,7 @@
   roles:
   - Extension workers
   title: 'S160 - Promote diversity of foods '
-- category: Value chain development
-  description: Able to help farmers develop the skills and spirit of an entrepreneur
+- description: Able to help farmers develop the skills and spirit of an entrepreneur
     by facilitating extension trainings to create opportunities for farmers  to explore
     new ideas or different ways of doing things and to broaden their perspective
   levels:
@@ -1954,8 +1793,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S161 - Promote farm entrepreneurship
-- category: Value chain development
-  description: Is able to promote mechanisms for men and women to benefit from agricultural
+- description: Is able to promote mechanisms for men and women to benefit from agricultural
     value chains by listing specific actions to improve how men and women benefit
     from agricultural value chains. Is able to provide information to both men and
     women farmers and rural entrepreneurs that enhance their abilities to benefit
@@ -1970,8 +1808,7 @@
   roles:
   - Extension workers
   title: "S162 - Promote mechanisms to benefit from value chains\_"
-- category: Crop management
-  description: 'Able to describe practices that contribute to good quality soil for
+- description: 'Able to describe practices that contribute to good quality soil for
     example: intercropping, crop rotation, applying organic materials, using limited
     tillage methods and describes characteristics of good quality soil . Able to Illustrate
     connections between soil health, crop nutrient content, and human and livestock
@@ -1984,8 +1821,7 @@
   roles:
   - Extension workers
   title: S163 - Promote practices that improve soil health
-- category: Gender
-  description: Is able to explain when gender responsive meetings ought to be held,
+- description: Is able to explain when gender responsive meetings ought to be held,
     where, what time, who is invited and how the announcements are made. Is able to
     identify ways to encourage participation and leadership by those who normally
     are absent or silent, and is able to explain why attending a meeting is not the
@@ -1997,8 +1833,7 @@
   roles:
   - Extension workers
   title: "S164 - Promotes gender-responsive meetings\_"
-- category: Soft skills
-  description: "Able to explain why safety is important and who is likely to feel\
+- description: "Able to explain why safety is important and who is likely to feel\
     \ unsafe in community interactions and why.\_Is able to identify and practice\
     \ ways to help fearful community members participate in discussions."
   levels:
@@ -2009,8 +1844,7 @@
   - Plant doctors
   - Extension workers
   title: S165 - Promotes participants' safety
-- category: Stock management
-  description: Able to identify and use appropriate storage techniques for particular
+- description: Able to identify and use appropriate storage techniques for particular
     stocks  such as keeping chemical apart from other items to avoid contamination,
     adulteration or any hazards, storing according to manufacturer's specifications,
     fertilizer should be stored on pallets off the floor to avoid getting damp and
@@ -2020,8 +1854,7 @@
   roles:
   - Agri-dealer employees
   title: S166 - Properly store inputs / stock
-- category: Chemical use
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2030,8 +1863,7 @@
   - Plant doctors
   - Extension workers
   title: S167 - Properly use PPEs
-- category: Value chain development
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2039,8 +1871,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S168 - Provide market information
-- category: Soft skills
-  description: "Is able to explain the importance of receiving affirmation in work\
+- description: "Is able to explain the importance of receiving affirmation in work\
     \ and life. Is able to keep note of using substantive affirmation and the results.\
     \ Is able to share results of providing praise with colleagues.\_"
   levels:
@@ -2051,8 +1882,7 @@
   - Plant doctors
   - Extension workers
   title: S169 - Provides frequent and substantive praise
-- category: Relationship management
-  description: Able to request feedback and open to utilizing the advice given to
+- description: Able to request feedback and open to utilizing the advice given to
     learn and improve professional practice. Acknowledge mistakes and ask open-ended
     questions to trusted colleagues and contacts to accurately evaluate work performance.
     Able to be receptive to constructive feedback, adjusting behaviour in a way that
@@ -2066,8 +1896,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S170 - Receive criticism and suggestions
-- category: Relationship management
-  description: Acknowledge the efforts of others by highlighting the value of their
+- description: Acknowledge the efforts of others by highlighting the value of their
     work and the impact that the quality of their work has on elevating others in
     reaching their goals. Create a culture that embeds appreciation to foster empowerment
     in others.
@@ -2080,8 +1909,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S171 - Recognize others' contributions
-- category: Water management
-  description: Able to recognize the importance of access to safe, accessible, and
+- description: Able to recognize the importance of access to safe, accessible, and
     adequate water for both domestic and agricultural purposes and its contribution
     to promoting health and reducing risk of illnesses arising from contaminated water
     use
@@ -2092,8 +1920,7 @@
   roles:
   - Extension workers
   title: 'S172 - Recognizes importance of access to safe water '
-- category: Crop management
-  description: Able to provide Good Agricultural Practices guidelines for farmers
+- description: Able to provide Good Agricultural Practices guidelines for farmers
     to maximise potential yield, reduce the risk of crop loss as a result of pests
     and diseases, preserve quality and shelf-life of produce post-harvest and minimize
     microbial contamination related to food borne illnesses on their farms.
@@ -2106,8 +1933,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S173 - Recommend good farming practices
-- category: Crop management
-  description: 'Able to recommend effective and environmentally sensitive approaches
+- description: 'Able to recommend effective and environmentally sensitive approaches
     to pest management that rely on a combination of practices. The approach includes,
     setting a point at which pest populations or environmental conditions indicate
     that pest control action must be taken, monitor and identify pests, using preventive
@@ -2121,8 +1947,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S174 - Recommend pest management approaches
-- category: Chemical use
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2132,8 +1957,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S175 - Recommend pesticides
-- category: Crop management
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2141,8 +1965,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S176 - Recommend seeds and fertilizers
-- category: Crop management
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2150,16 +1973,14 @@
   - Plant doctors
   - Extension workers
   title: S177 - Recommend soil management approaches
-- category: Value chain development
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   roles:
   - Plant doctors
   - Extension workers
   title: S178 - Recommend value addition options
-- category: Record management
-  description: Build a specific process into periodic accounting processes to match
+- description: Build a specific process into periodic accounting processes to match
     transactions that have been recorded internally against monthly statements from
     external sources such as banks, to check for differences in the records and to
     correct any discrepancies.
@@ -2170,8 +1991,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S179 - Regularly reconcile records
-- category: Water management
-  description: "Able to reinforce \u201CEssential Hygiene Actions\u201D (EHA), paying\
+- description: "Able to reinforce \u201CEssential Hygiene Actions\u201D (EHA), paying\
     \ particular attention to interactions between agriculture, hygiene and health,\
     \ and nutrition. These actions include keeping the environment clean; hand washing\
     \ with soap at critical points: before preparing, eating food; after using latrine;\
@@ -2188,16 +2008,14 @@
   roles:
   - Extension workers
   title: S180 - Reinforce Essential Hygiene Actions (EHA)
-- category: Project management
-  description: 'IS THIS THE SAME A ROW 9: ''Adjust to rapid changes/challenges'' ?'
+- description: 'IS THIS THE SAME A ROW 9: ''Adjust to rapid changes/challenges'' ?'
   levels:
   - Advanced
   roles:
   - Plant doctors
   - Extension workers
   title: S181 - Respond to changing organization
-- category: Crop diagnostics
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2205,8 +2023,7 @@
   roles:
   - Plant doctors
   title: S182 - Run a plant clinic
-- category: Input supply
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2214,16 +2031,14 @@
   - Extension workers
   - Agri-dealer employees
   title: S183 - Safely transport inputs
-- category: Crop diagnostics
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
   - Plant doctors
   - Extension workers
   title: S184 - Sample plants
-- category: Soft skills
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2233,8 +2048,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S185 - Seek learning opportunities
-- category: Extension services
-  description: "Able to plan specific ways or methods by which you can maximize the\
+- description: "Able to plan specific ways or methods by which you can maximize the\
     \ program\u2019s impact given the human, material, services and instructional\
     \ resources available. In consultation with stakeholders, you should be able to\
     \ select the most effective method or combination of methods to reach and teach\
@@ -2247,8 +2061,7 @@
   - Plant doctors
   - Extension workers
   title: S186 - Select training methods
-- category: Nutrition
-  description: Able to explain how nutrition requirements vary across the life course,
+- description: Able to explain how nutrition requirements vary across the life course,
     and by physical state (e.g. pregnancy, lactation, sickness). Able to initiate
     dialogue about unique nutritional needs when interacting with households with
     potentially vulnerable members (such as pregnant and/or lactating women, infants,
@@ -2259,8 +2072,7 @@
   roles:
   - Extension workers
   title: S187 - Sensitized to people's different nutrition needs
-- category: Soft skills
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2270,23 +2082,20 @@
   - Extension workers
   - Agri-dealer employees
   title: S188 - Set personal goals
-- category: Input supply
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Practitioner
   roles:
   - Agri-dealer employees
   title: S189 - Supply quality inputs
-- category: Value chain development
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Advanced
   roles:
   - Extension workers
   - Agri-dealer employees
   title: S190 - Support value chain development
-- category: Participatory approaches
-  description: "Is able to identify ways farmer-based organizations (FBOs) can be\
+- description: "Is able to identify ways farmer-based organizations (FBOs) can be\
     \ responsive to women\u2019s and men\u2019s needs. Can explain options for structuring\
     \ by-laws, rules, and organizational principles to support inclusion and equity.\
     \ Can describe the importance of inclusion and equity for effective groups and\
@@ -2299,8 +2108,7 @@
   roles:
   - Extension workers
   title: "S191 - Supports FBO's responsivenes to women/men\u2019s needs\_"
-- category: Gender
-  description: "Is able to tailor information about how to access and use different\
+- description: "Is able to tailor information about how to access and use different\
     \ technologies to men and women based on men\u2019s and women\u2019s different\
     \ roles and responsibilities in the value chain. Is able to work with men and\
     \ women farmers and entrepreneurs to match available technologies with identified\
@@ -2312,8 +2120,7 @@
   - Plant doctors
   - Extension workers
   title: "S192 - Tailors information to different target groups\_"
-- category: Agricultural marketing
-  description: Able to handle customers in an honest and transparent manner without
+- description: Able to handle customers in an honest and transparent manner without
     criticism or arguments, and rapidly and effectively respond to customer needs
     and questions
   levels:
@@ -2323,8 +2130,7 @@
   roles:
   - Agri-dealer employees
   title: S193 - Treat customers ethically
-- category: Extension services
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2334,8 +2140,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S194 - Undertake basic safety checks
-- category: Advisory services
-  description: 'Able to identify different Information and communication technologies
+- description: 'Able to identify different Information and communication technologies
     (ICTs) such as mobile phones, Internet, social media, radio and television, when
     and how appropriately to use them. In using ICTs, a user should be able to identify
     the use of local ICT policy, status of rural connectivity of ICTs, user fees if
@@ -2348,8 +2153,7 @@
   - Plant doctors
   - Extension workers
   title: S195 - Use appropriate ICTs
-- category: Gender
-  description: Description not yet defined
+- description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2357,8 +2161,7 @@
   - Extension workers
   - Agri-dealer employees
   title: S196 - Use gender sensitive approaches
-- category: Record management
-  description: Able to use records to monitor transactions, determine repayment to
+- description: Able to use records to monitor transactions, determine repayment to
     suppliers, creditors and meet and control business operation expenses
   levels:
   - Foundation
@@ -2367,8 +2170,7 @@
   roles:
   - Agri-dealer employees
   title: S197 - Use records to meet expenses
-- category: Monitoring and evaluation
-  description: 'Able to write good evaluation report that has all the details about
+- description: 'Able to write good evaluation report that has all the details about
     the what, when, where, who, why and how of evaluation, that contains four sections
     namely: the introduction, methods section, results and conclusions/recommendations'
   levels:
@@ -2378,8 +2180,7 @@
   - Plant doctors
   - Extension workers
   title: S198 - Write evaluation reports
-- category: Extension services
-  description: Able to write field documents that are concise, well-structured and
+- description: Able to write field documents that are concise, well-structured and
     free from grammatical errors, to report activities to supervisors and other stakeholders.
     This is done by maintaining a diary to note key tasks completed, thinking about
     basic points that will go into the report, developing the content and structuring
@@ -2390,8 +2191,7 @@
   - Plant doctors
   - Extension workers
   title: S199 - Write field reports
-- category: Communication skills
-  description: Able to disseminate information such as best practices, innovations,
+- description: Able to disseminate information such as best practices, innovations,
     new tools developed, lessons learnt etc through media channels like newspapers
     by following effective communication principles that include using simple language,
     objectivity, writing concisely etc.
@@ -2401,8 +2201,7 @@
   - Plant doctors
   - Extension workers
   title: S200 - Write for media
-- category: Communication skills
-  description: Effectively research journalists with an existing interest in the subject
+- description: Effectively research journalists with an existing interest in the subject
     matter, and become familiar with their wider body of work to help form a connection.
     Be reliable and ready to provide content to fulfill press needs.
   levels:
@@ -2412,8 +2211,7 @@
   - Plant doctors
   - Extension workers
   title: S201 - Manage relationships with the media
-- category: Soft skills
-  description: Able to acknowledge that conflicts exists and address it immediately.
+- description: Able to acknowledge that conflicts exists and address it immediately.
     Able to  identify the real issue and use multiple approaches to resolve conflicts
     such as listening to others, avoiding confrontation,  reflecting on other people's
     point to understand them correctly, allowing both parties express themselves,
