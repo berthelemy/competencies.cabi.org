@@ -7,13 +7,26 @@
 
 <script type="text/javascript" src="{{ '/assets/js/isotope-variables.js' | relative_url }}"></script>
 
+{% if page.datatable %}
+<script src="//cdn.datatables.net/1.11.4/js/jquery.dataTables.min.js"></script>
+{% endif %}
 
+{% if page.datatable %}
+<script>
+  $(document).ready( function () {
+      $('#{{ page.datatable }}').DataTable();
+  } );
+</script>
+{% endif %}
 
 <script>
 
   /* Source materials:
   https://codepen.io/desandro/pen/btFfG
   */
+
+
+
 
   jQuery(document).ready(function($) {
     var $grid = $(".grid-container").isotope({
