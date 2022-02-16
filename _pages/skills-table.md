@@ -4,7 +4,7 @@ title: Skills table
 datatable: table1
 permalink: table/
 ---
-The table below allows you to sort and search the skills as needed.
+The table below allows you to sort and search the skills as needed. Or you can download all the skills as a CSV file.
 
 <table id="{{ page.datatable }}" class="stripe">
 <thead>
