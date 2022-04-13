@@ -22,7 +22,7 @@ This website is currently owned by <a href="https://cabi.org" target="_blank">CA
 
 We are connected to the <a href="https://www.openskillsnetwork.org/" target="_blank">Open Skills Network</a>: a coalition of organisations and other stakeholders dedicated to advancing skills-based education and hiring.
 
-#### How to use the framework
+### How to use the framework
 
 The skills are organised by:
 
@@ -32,7 +32,7 @@ The skills are organised by:
 
 We suggest that the framework is used to provide a common vocabulary when having conversations about standards, regulations, certification and training.
 
-#### Levels
+### Levels
 
 **Foundation**: Someone who is an early stage in their career and works under supervision.
 
