@@ -11,7 +11,7 @@
   - Practitioner
   - Advanced
   roles:
-  - NO ROLE
+  - Extension workers
   title: S001 - Reduce illness risk from irrigation practices
 - category: Extension services
   description: Able to evaluate the sources of information and only advise reliable
@@ -139,17 +139,14 @@
   - Extension workers
   title: 'S011 - Advocate for thoughtful location of livestock '
 - category: Extension services
-  description: Should be able to  identify areas with specific climate, soil, and
-    terrain constraints to crop production. Should be able to estimate  the extent
-    and productivity of rain-fed and irrigated cultivable land and potential for expansion.
-    Should be able to quantify cultivation potential of land currently in forest ecosystems;
-    and assess impacts of climate change on food production, geographical shifts of
-    cultivable land.
+  description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
   roles:
+  - Plant doctors
   - Extension workers
+  - Agri-dealer employees
   title: S012 - Analyse agro-ecological zone
 - category: Agribusiness administration
   description: 'Able to look for opportunities to improve and expand the business
@@ -173,12 +170,7 @@
   - Agri-dealer employees
   title: S014 - Analyse consumer preferences
 - category: Extension services
-  description: "Able to  to investigate and clarify  farmers\u2019 knowledge and attitudes\
-    \ towards suggested practices. Also attempts to provide a better understanding\
-    \ of the effect of farm size on farmers\u2019 beliefs and attitudes.  Moreover,\
-    \ could suggest that further extension of recommended practices should include\
-    \ type of follow up-  training services for smallholders to improve their knowledge\
-    \ of relevant practices etc."
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -186,9 +178,7 @@
   - Extension workers
   title: S015 - Analyse farmer context
 - category: Input supply
-  description: Able to collect and understand granular data on crop health, crop variety,
-    crop acreage that is ground verified and is also  able to quantify to generate
-    reports. Is able to Combine crop data with environmental data.
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -209,10 +199,7 @@
   - Extension workers
   title: 'S017 - Analyse nutrition''s contribution to health '
 - category: Crop management
-  description: Should have general insight into basic biogeochemical cycles of an
-    ecosystem. Good understanding on use of anlytical instruments like balance, colorimeter,
-    dipsticks , pH meter etc. Some advance techniques like X-ray fluorescence and
-    neutron activation analysis is much preferred.
+  description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -265,10 +252,7 @@
   - Extension workers
   title: S021 - Apply adult learning principles
 - category: Soft skills
-  description: Identify central issues and assumptions in an argument, recognize important
-    relationships, make correct inferences from data, deduce conclusions from information
-    or data provided, interpret whether conclusions are warranted on the basis of
-    the data given, and evaluate evidence or author it.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -362,9 +346,7 @@
   - Agri-dealer employees
   title: S028 - Apply youth inclusive approaches
 - category: Gender
-  description: Able to identify gender division of roles and access to resources of
-    men and women farmers, in order to tailor agricultural advisory services to their
-    specific needs and priorities.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -415,11 +397,7 @@
   - Agri-dealer employees
   title: S032 - Build strategic partnerships
 - category: Extension services
-  description: "Should be able to analyse inputs like labour and capital and see them\
-    \ as costs that are incurred in the production of agricultural produce. Also able\
-    \ to assess effect of inputs on soil, health of ecosystem and social acceptability\
-    \ towards them. Should be able to analyse physical (physiography, climate, soil,\
-    \ water), socioeconomic, political, institutional and organizational fac\xADtors."
+  description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -429,10 +407,7 @@
   - Agri-dealer employees
   title: S033 - Calculate input ratios
 - category: Agricultural marketing
-  description: "Able to record revenue, expense ,and returns for a single crop or\
-    \ livestock production process. Able to create enterprise budgets, to have both\
-    \ a detailed understanding of anenterprise\u2019s production practices and an\
-    \ understanding of the basic budgeting framework."
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -769,9 +744,7 @@
   - Agri-dealer employees
   title: S059 - Correctly interpret records
 - category: Agricultural marketing
-  description: Able to know customer taste and preference, able to quantify  customer
-    database, their income and their expectation of the future. Should also be able
-    to compute price of related goods and correlate their impact on the product.
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -893,10 +866,7 @@
   - Extension workers
   title: S070 - Design survey instruments
 - category: Crop diagnostics
-  description: Should have good knowledge on global scenio of the pest and their favourable
-    and preferred ecological niche. Should be able to combine this knowledge with
-    current agroclimatic zone and changing scenarios due to climate adversaries. Should
-    have good dignostic skills and network of extension workers.
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -932,11 +902,7 @@
   - Agri-dealer employees
   title: S073 - Develop work plan
 - category: Crop diagnostics
-  description: 'Evaluate a problem with multiple causes using the steps of plant health
-    diagnosis, assess plant site conditions, evaluate plant management history
-
-    recognize plant signs and symptoms,use references and resources to assist in diagnosing
-    problems.'
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1076,9 +1042,7 @@
   - Agri-dealer employees
   title: S085 - Facilitate access to credit/input supply
 - category: Soft skills
-  description: Continually renew an organisation's direction, structure and capabilities
-    to serve evolving needs. Prepare, equip and support individuals to successfully
-    adopt change in order to drive organisational success and outcomes.
+  description: Description not yet defined
   levels:
   - Practitioner
   - Advanced
@@ -1114,13 +1078,7 @@
   - Agri-dealer employees
   title: S088 - Forecast cash flow
 - category: Soft skills
-  description: Develop open lines of communication to build trust and provide opportunities
-    for constructive feedback. This can take the form of informal conversations, regular
-    meetings or more formal individual meetings. Actively listen to the concerns and
-    requests of others, entering into conversations with the intent to understand
-    the other person's point of view. Ensure ideas are presented clearly and key points
-    are communicated, explaining the reasons behind the ideas, to foster a culture
-    of inclusion. Set clear expectations for how important information will be communicated.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1218,11 +1176,7 @@
   - Agri-dealer employees
   title: S097 - Identify cultural implications in communication
 - category: Input supply
-  description: Should have indormation on authentic source of procureement and ability
-    to select carefully, high disease free quality seeds applying  their basic pathological
-    understanding from healthy stocks. Should be able to perform basic analytical
-    test for testing composition of fertiliser and performcae of seeds like germination
-    and plant vigour.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1338,12 +1292,7 @@
   - Extension workers
   title: 'S105 - Identify men/women''s value chains opportunities '
 - category: Extension services
-  description: 'Follow logical progression of steps that integrate observations and
-    information regarding the history of the symptomatic plan. Can identify the plant,
-    spot the symptom distinctly, diagnose the causal organism. Obtain background information
-    and history, collect samples to submit to a
-
-    Specialist for Identification.'
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1386,10 +1335,7 @@
   - Agri-dealer employees
   title: S109 - Identify seed production processes
 - category: Input supply
-  description: 'Should have decision-making power to qualify a responsible source
-    for consistent supply. Able to arrange for the supply of the inputs required by
-    the farmers, such as improved seeds, fertilizers, insecticides and pesticides
-    so that there is that there is considerable saving. '
+  description: Description not yet defined
   levels:
   - Practitioner
   roles:
@@ -1398,10 +1344,7 @@
   - Agri-dealer employees
   title: S110 - Identify sources of inputs
 - category: Crop diagnostics
-  description: Should be able to spot a sign of plant disease which is physical evidence
-    of the pathogen and interpret it as symptom of plant disease which is a visible
-    effect of disease on the plant consequently  Should be able to detect change in
-    color, shape or function of the plant as it responds to the pathogen.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1527,11 +1470,7 @@
   - Agri-dealer employees
   title: S121 - Initiate social networks
 - category: Extension services
-  description: Should be able to understand the farmers perceptions and crop management
-    practices and able to identify the technical gaps and also identify the barriers
-    in the management practices currently adopted by small and marginal farmers.  Should
-    have the basic understanding about the cultural, political and other socio-economical
-    factors influencing the traditional management practices adopted by farmers.
+  description: Description not yet defined
   levels:
   - Practitioner
   roles:
@@ -1566,10 +1505,7 @@
   - Agri-dealer employees
   title: S124 - Know product details
 - category: Value chain development
-  description: Knowledge about the product and market requirements to advise farmers
-    in market led production. Providing producers access to information on product
-    characteristics on a realtime basis to harness market potential. Guide in increasing
-    contribution of prodcuers share in the value chains.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1706,9 +1642,7 @@
   - Extension workers
   title: S135 - Manage groups / teamwork
 - category: Advisory services
-  description: Should be aware of various phases of nursery management; Aware of steps
-    in planning of planting a nursery, grow media preparation, vegetative propagation
-    and water quality & irrigation management and holistic pest management.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -1739,10 +1673,7 @@
   - Agri-dealer employees
   title: S137 - Manage relationship with clients
 - category: Input supply
-  description: Able to maintain healthy relationships among farmers, delaers, distrubutors,
-    manufacturers and other stakeholders involved in the supply chain of agri-inputs.
-    Should maintain transparency agreements among different stakeholders/patners and
-    timely payments need to be maintained between manufacturers-wholesalers-distributors-vendors-customers.
+  description: Description not yet defined
   levels:
   - Advanced
   roles:
@@ -1903,9 +1834,7 @@
   - Agri-dealer employees
   title: S151 - Operate agricultural machinery
 - category: Soft skills
-  description: Enable others to see and understand how operations are carried out,
-    providing relevant information about activities and governance to stakeholders
-    that is accurate, complete and made available in a timely manner.
+  description: Description not yet defined
   levels:
   - Practitioner
   roles:
@@ -2102,9 +2031,7 @@
   - Extension workers
   title: S167 - Properly use PPEs
 - category: Value chain development
-  description: A strong connectivity (physical) or information access (digital) regarding
-    market intelligence related to product criteria, general policy standards, market
-    segmentation, prices and charges. A good knowledge about the sources of procurmenting.
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2206,10 +2133,7 @@
   - Agri-dealer employees
   title: S175 - Recommend pesticides
 - category: Crop management
-  description: Should have knowledge on the varieties recommended for different crops
-    and agro-climatic zones, amount and type of fertilizers required for different
-    along with method and time of application. Should know about the seed rate, method
-    of sowing/planting, seed treatment agents/chemicals along with methods.
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2218,12 +2142,7 @@
   - Agri-dealer employees
   title: S176 - Recommend seeds and fertilizers
 - category: Crop management
-  description: Should have knowledge on  nutrient recycling, regulation of air and
-    water in the soil, soil organic matter; Should know about the management practices
-    to improve the soil health which includes the utilisation of implements (Moldboard
-    plough, disc plough, chisel plough), organic matter inputs, cover crops, crop
-    rotation etc., Should know about the nutrients management in soil including primary
-    (nitrogen, phosphorous, potassium), secondary and minor nutrients.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2232,9 +2151,7 @@
   - Extension workers
   title: S177 - Recommend soil management approaches
 - category: Value chain development
-  description: Guide on type of processed products demanded in the local market and
-    also aid in developing linkages with the processing industries to advise producers
-    on grown crops demanded by processing industry or markets.
+  description: Description not yet defined
   levels:
   - Practitioner
   roles:
@@ -2280,8 +2197,7 @@
   - Extension workers
   title: S181 - Respond to changing organization
 - category: Crop diagnostics
-  description: Should be aware of methods for collecting plant samples for plant disease
-    identification.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2290,12 +2206,7 @@
   - Plant doctors
   title: S182 - Run a plant clinic
 - category: Input supply
-  description: Should understand the operational guidelines of transporting inputs
-    to and from the field, between fields and also able to understand the labels for
-    hazardous chemicals. Should know about the storage coditions required for different
-    inputs including seeds, fertilizers, pesticides etc., and the precautions need
-    to be taken during transporting of these inputs through road, rail, water and
-    air.
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2304,9 +2215,7 @@
   - Agri-dealer employees
   title: S183 - Safely transport inputs
 - category: Crop diagnostics
-  description: Should know the symptoms associated with different biotic and abiotic
-    stresses along with sampling methods like transect method, bisect, trisect, ring
-    counts and quadrant method.
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
@@ -2314,9 +2223,7 @@
   - Extension workers
   title: S184 - Sample plants
 - category: Soft skills
-  description: Identify gaps in knowledge, skills and/or expereince and actively find
-    opportunities to learn from others, find training programmes or conduct own research
-    and reading.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2353,10 +2260,7 @@
   - Extension workers
   title: S187 - Sensitized to people's different nutrition needs
 - category: Soft skills
-  description: Identify areas for personal growth and set goals using the SMART criteria.
-    Consider how best to achieve goals, breaking any larger goals down into smaller
-    goals. Regularly review goals, checking that they are still relevant and whether
-    they are on track to be achieved.
+  description: Description not yet defined
   levels:
   - Foundation
   - Practitioner
@@ -2367,20 +2271,14 @@
   - Agri-dealer employees
   title: S188 - Set personal goals
 - category: Input supply
-  description: Should know the policies and regulations involved in the supply of
-    agricultural inputs including seeds, planting material, fartilizers, chemicals,
-    machinery etc. Should be able to assess the demand, supply and the timely availability
-    of inputs to different stakeholders including farmers, extension agents, input
-    dealers/suppliers etc.
+  description: Description not yet defined
   levels:
   - Practitioner
   roles:
   - Agri-dealer employees
   title: S189 - Supply quality inputs
 - category: Value chain development
-  description: Knowledge in identifying the product and events of the supply chain
-    and infuse interventions to strengthen the weaker nodes for the improvement of
-    value of product.
+  description: Description not yet defined
   levels:
   - Advanced
   roles:
@@ -2451,13 +2349,7 @@
   - Extension workers
   title: S195 - Use appropriate ICTs
 - category: Gender
-  description: "Able to deliver agricultural advisory services by taking account of\
-    \ women\u2019s time and mobility constraints and low literacy levels.\nAble to\
-    \ support women to organize and voice their demands for agricultural advisory\
-    \ services.\nAble to identify inclusive communication methods accessible to women\
-    \ farmers and\nuses participatory approaches.\nAble to develop advisory services\
-    \ relevant to men and women farmers and improve service delivery based on feedback\
-    \ from clients. "
+  description: Description not yet defined
   levels:
   - Foundation
   roles:
